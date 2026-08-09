@@ -27,18 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786303719419",
-    "name": "Kerb Food Market",
+    "id": "fc_0_1786304630548",
+    "name": "Maiden Voyage festival",
     "lat": 51.5,
     "lng": -0.1,
     "type": "fair",
-    "date": "Weekends",
+    "date": "August 8-9",
     "next_dates": [
-      "2023-10-07",
-      "2023-10-08",
-      "2023-10-14",
-      "2023-10-15"
+      "2026-08-08",
+      "2026-08-09",
+      "2026-08-15",
+      "2026-08-22"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
+  },
+  {
+    "id": "fc_1_1786304630548",
+    "name": "Labyrinth at Greenwich’s Royal Naval College",
+    "lat": 51.5,
+    "lng": -0.1,
+    "type": "fair",
+    "date": "August 8-9",
+    "next_dates": [
+      "2026-08-08",
+      "2026-08-09",
+      "2026-08-15",
+      "2026-08-22"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
+  },
+  {
+    "id": "fc_2_1786304630548",
+    "name": "Kerb food market",
+    "lat": 51.5,
+    "lng": -0.1,
+    "type": "fair",
+    "date": "August 8-9",
+    "next_dates": [
+      "2026-08-08",
+      "2026-08-09",
+      "2026-08-15",
+      "2026-08-22"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
+  },
+  {
+    "id": "fc_3_1786304630548",
+    "name": "Costa Del Croydon beach parties",
+    "lat": 51.5,
+    "lng": -0.1,
+    "type": "fair",
+    "date": "August 8-9",
+    "next_dates": [
+      "2026-08-08",
+      "2026-08-09",
+      "2026-08-15",
+      "2026-08-22"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
+  },
+  {
+    "id": "fc_4_1786304630548",
+    "name": "Notting Hill Carnival",
+    "lat": 51.5,
+    "lng": -0.1,
+    "type": "fair",
+    "date": "August 26",
+    "next_dates": [
+      "2026-08-26",
+      "2026-08-27",
+      "2026-08-28",
+      "2026-08-29"
+    ],
+    "url": "https://www.timeout.com/things-to-do"
   }
 ]
