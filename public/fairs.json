@@ -27,21 +27,21 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786300364962",
-    "name": "Kerb food market",
+    "id": "fc_0_1786300844136",
+    "name": "Kerb Food Market",
     "lat": 51.5,
     "lng": -0.1,
     "type": "fair",
-    "date": "August, weekends",
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+    "date": "Weekend",
+    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
   },
   {
-    "id": "fc_1_1786300364962",
+    "id": "fc_1_1786300844136",
     "name": "Notting Hill Carnival",
     "lat": 51.5,
     "lng": -0.2,
     "type": "fair",
-    "date": "August, August Bank Holiday weekend",
+    "date": "August Bank Holiday Weekend",
     "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   }
 ]
