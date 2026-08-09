@@ -27,78 +27,31 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786304630548",
-    "name": "Maiden Voyage festival",
+    "id": "fc_0_1786306485002",
+    "name": "Kerb Food Market",
     "lat": 51.5,
     "lng": -0.1,
     "type": "fair",
-    "date": "August 8-9",
+    "date": "Popping up for a foodie weekender",
     "next_dates": [
       "2026-08-08",
       "2026-08-09",
-      "2026-08-15",
-      "2026-08-22"
+      "2026-08-10",
+      "2026-08-11"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   },
   {
-    "id": "fc_1_1786304630548",
-    "name": "Labyrinth at Greenwich’s Royal Naval College",
+    "id": "fc_1_1786306485002",
+    "name": "Maiden Voyage Festival",
     "lat": 51.5,
     "lng": -0.1,
     "type": "fair",
-    "date": "August 8-9",
+    "date": "August 8-9, 2026",
     "next_dates": [
       "2026-08-08",
-      "2026-08-09",
-      "2026-08-15",
-      "2026-08-22"
+      "2026-08-09"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
-  },
-  {
-    "id": "fc_2_1786304630548",
-    "name": "Kerb food market",
-    "lat": 51.5,
-    "lng": -0.1,
-    "type": "fair",
-    "date": "August 8-9",
-    "next_dates": [
-      "2026-08-08",
-      "2026-08-09",
-      "2026-08-15",
-      "2026-08-22"
-    ],
-    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
-  },
-  {
-    "id": "fc_3_1786304630548",
-    "name": "Costa Del Croydon beach parties",
-    "lat": 51.5,
-    "lng": -0.1,
-    "type": "fair",
-    "date": "August 8-9",
-    "next_dates": [
-      "2026-08-08",
-      "2026-08-09",
-      "2026-08-15",
-      "2026-08-22"
-    ],
-    "url": "https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-weekend"
-  },
-  {
-    "id": "fc_4_1786304630548",
-    "name": "Notting Hill Carnival",
-    "lat": 51.5,
-    "lng": -0.1,
-    "type": "fair",
-    "date": "August 26",
-    "next_dates": [
-      "2026-08-26",
-      "2026-08-27",
-      "2026-08-28",
-      "2026-08-29"
-    ],
-    "url": "https://www.timeout.com/things-to-do"
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   }
 ]
