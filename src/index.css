@@ -67,8 +67,9 @@ body {
     width: calc(100vw - 40px);
     bottom: 20px;
     top: auto;
-    max-height: 40vh;
+    max-height: 50vh;
     padding: 16px;
+    overflow-y: auto;
   }
   .filters {
     flex-direction: row !important;
