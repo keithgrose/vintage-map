@@ -61,7 +61,7 @@ async function fetchFairs() {
         url: targetUrl,
         formats: ['extract'],
         extract: {
-          prompt: "Find all the vintage fairs, flea markets, and antique markets mentioned on this page. Do not include permanent vintage shops, only markets and fairs.",
+          prompt: "Find all the vintage fairs, flea markets, car boot sales, antique markets, and vintage pop-ups mentioned on this page. Do not include permanent vintage shops, only markets, sales, and fairs.",
           schema: {
             type: "object",
             properties: {

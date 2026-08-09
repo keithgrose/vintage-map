@@ -1,6 +1,6 @@
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
 import L from 'leaflet';
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 
 // Custom icons using standard Leaflet SVG but colorized for our theme
 const createCustomIcon = (color: string) => {
@@ -35,6 +35,7 @@ export interface Location {
 interface MapProps {
   locations: Location[];
   center: [number, number];
+  userLocation?: [number, number] | null;
 }
 
 // Component to recenter map when center changes
@@ -46,23 +47,7 @@ function Recenter({ center }: { center: [number, number] }) {
   return null;
 }
 
-function LocationMarker() {
-  const [position, setPosition] = useState<L.LatLng | null>(null);
-  const map = useMap();
-
-  useEffect(() => {
-    map.locate({ watch: true, enableHighAccuracy: true });
-    
-    map.on('locationfound', (e) => {
-      setPosition(e.latlng);
-    });
-
-    return () => {
-      map.stopLocate();
-      map.off('locationfound');
-    };
-  }, [map]);
-
+export default function Map({ locations, center, userLocation }: MapProps) {
   const userIcon = new L.DivIcon({
     className: 'custom-div-icon',
     html: `<div style="background-color: #3B82F6; width: 18px; height: 18px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 15px #3B82F6; position: relative;">
@@ -72,14 +57,6 @@ function LocationMarker() {
     iconAnchor: [9, 9]
   });
 
-  return position === null ? null : (
-    <Marker position={position} icon={userIcon}>
-      <Popup>You are here</Popup>
-    </Marker>
-  );
-}
-
-export default function Map({ locations, center }: MapProps) {
   return (
     <MapContainer 
       center={center} 
@@ -91,7 +68,12 @@ export default function Map({ locations, center }: MapProps) {
         url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png" // Light, readable premium tiles
       />
       <Recenter center={center} />
-      <LocationMarker />
+      
+      {userLocation && (
+        <Marker position={userLocation} icon={userIcon}>
+          <Popup>You are here</Popup>
+        </Marker>
+      )}
       
       {locations.map(loc => (
         <Marker 

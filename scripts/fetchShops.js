@@ -7,7 +7,7 @@ const query = `
   [out:json][timeout:60];
   area["name"="Greater London"]->.searchArea;
   (
-    node["shop"~"vintage|antiques|charity"](area.searchArea);
+    node["shop"~"vintage|antiques|charity|car_boot_sale"](area.searchArea);
   );
   out body;
   >;
