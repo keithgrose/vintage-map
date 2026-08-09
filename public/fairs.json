@@ -27,48 +27,21 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786299733544",
-    "name": "Camden Market",
-    "lat": 51.5413,
-    "lng": -0.1425,
+    "id": "fc_0_1786300364962",
+    "name": "Kerb food market",
+    "lat": 51.5,
+    "lng": -0.1,
     "type": "fair",
-    "date": "Open Daily",
-    "url": "https://www.camdenmarket.com"
+    "date": "August, weekends",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   },
   {
-    "id": "fc_1_1786299733544",
-    "name": "Bermondsey Antiques Market",
-    "lat": 51.4932,
-    "lng": -0.0672,
+    "id": "fc_1_1786300364962",
+    "name": "Notting Hill Carnival",
+    "lat": 51.5,
+    "lng": -0.2,
     "type": "fair",
-    "date": "Every Friday",
-    "url": "https://www.bermondseyantiquesmarket.com"
-  },
-  {
-    "id": "fc_2_1786299733544",
-    "name": "Portobello Road Market",
-    "lat": 51.512,
-    "lng": -0.205,
-    "type": "fair",
-    "date": "Every Saturday",
-    "url": "https://www.portobelloroad.co.uk"
-  },
-  {
-    "id": "fc_3_1786299733545",
-    "name": "Spitalfields Market",
-    "lat": 51.5204,
-    "lng": -0.075,
-    "type": "fair",
-    "date": "Open Daily",
-    "url": "https://www.spitalfields.co.uk"
-  },
-  {
-    "id": "fc_4_1786299733545",
-    "name": "Southbank Centre Market",
-    "lat": 51.5045,
-    "lng": -0.1163,
-    "type": "fair",
-    "date": "Weekends",
-    "url": "https://www.southbankcentre.co.uk/whats-on/markets"
+    "date": "August, August Bank Holiday weekend",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   }
 ]
