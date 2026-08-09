@@ -27,48 +27,30 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786303159833",
-    "name": "Camden Market",
-    "lat": 51.5393,
-    "lng": -0.1434,
+    "id": "fc_0_1786303265399",
+    "name": "Maiden Voyage Festival",
+    "lat": 51.5,
+    "lng": -0.1,
     "type": "fair",
-    "date": "Every weekend",
-    "url": "https://www.camdenmarket.com/"
+    "date": "August 8-9, 2026",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   },
   {
-    "id": "fc_1_1786303159833",
-    "name": "Brick Lane Market",
-    "lat": 51.5208,
-    "lng": -0.0711,
+    "id": "fc_1_1786303265399",
+    "name": "Kerb Food Market",
+    "lat": 51.5,
+    "lng": -0.1,
     "type": "fair",
-    "date": "Sundays",
-    "url": "https://www.bricklanemarket.com/"
+    "date": "August 8-9, 2026",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   },
   {
-    "id": "fc_2_1786303159833",
-    "name": "Portobello Road Market",
-    "lat": 51.5216,
-    "lng": -0.2025,
+    "id": "fc_2_1786303265399",
+    "name": "Notting Hill Carnival",
+    "lat": 51.5,
+    "lng": -0.1,
     "type": "fair",
-    "date": "Saturdays",
-    "url": "https://www.portobelloroadmarket.org/"
-  },
-  {
-    "id": "fc_3_1786303159833",
-    "name": "Scoop Up Vintage Festival",
-    "lat": 51.5145,
-    "lng": -0.0922,
-    "type": "fair",
-    "date": "Annually in July",
-    "url": "https://www.scoopup.co.uk/"
-  },
-  {
-    "id": "fc_4_1786303159833",
-    "name": "The Vintage Fair",
-    "lat": 51.4715,
-    "lng": -0.0996,
-    "type": "fair",
-    "date": "Monthly",
-    "url": "https://www.thevintagefair.com/"
+    "date": "Bank Holiday weekend August 2026",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   }
 ]
