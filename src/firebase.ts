@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBMV8CYMKi7QRA9Crn7T_wgV1Q-LrdBdWo",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "vintage-map-b8222.firebaseapp.com",
   projectId: "vintage-map-b8222",
   storageBucket: "vintage-map-b8222.firebasestorage.app",

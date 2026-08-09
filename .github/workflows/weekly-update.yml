@@ -41,6 +41,8 @@ jobs:
           file_pattern: "public/*.json"
           
       - name: Build the app
+        env:
+          VITE_FIREBASE_API_KEY: ${{ secrets.VITE_FIREBASE_API_KEY }}
         run: npm run build
         
       - name: Setup Pages
