@@ -47,7 +47,7 @@ async function fetchShops() {
         address: [el.tags['addr:housenumber'], el.tags['addr:street']].filter(Boolean).join(' ') || undefined,
         hours: el.tags.opening_hours || undefined,
         url: el.tags.website || el.tags['contact:website'] || undefined,
-        gmapsUrl: `https://www.google.com/maps/dir/?api=1&destination=${el.lat},${el.lon}`
+        gmapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((el.tags.name || 'Shop') + ' London')}`
       };
     }).filter(shop => shop.name !== 'Unnamed Shop'); // Filter out ones without names
 

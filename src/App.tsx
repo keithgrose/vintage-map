@@ -16,6 +16,8 @@ function App() {
     fair: true
   });
   
+  const [searchQuery, setSearchQuery] = useState('');
+  
   const [loading, setLoading] = useState(true);
 
   const [user, setUser] = useState<any>(null);
@@ -45,7 +47,7 @@ function App() {
         address: s.address,
         hours: s.hours,
         url: s.url,
-        gmapsUrl: s.gmapsUrl || `https://www.google.com/maps/dir/?api=1&destination=${s.lat},${s.lon}`
+        gmapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((s.name || 'Shop') + ' London')}`
       }));
       
       const normalizedFairs: Location[] = fairs.map((f: any) => ({
@@ -56,7 +58,7 @@ function App() {
         type: 'fair',
         date: f.date,
         url: f.url,
-        gmapsUrl: `https://www.google.com/maps/dir/?api=1&destination=${f.lat},${f.lng}`
+        gmapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(f.name + ' London')}`
       }));
       
       setLocations([...normalizedShops, ...normalizedFairs]);
@@ -71,7 +73,13 @@ function App() {
     setFilters(prev => ({ ...prev, [type]: !prev[type] }));
   };
 
-  const visibleLocations = locations.filter(loc => filters[loc.type]);
+  const visibleLocations = locations.filter(loc => {
+    if (!filters[loc.type as keyof typeof filters]) return false;
+    if (searchQuery.trim() !== '') {
+      return loc.name.toLowerCase().includes(searchQuery.toLowerCase());
+    }
+    return true;
+  });
 
   if (authLoading) {
     return <div className="login-screen">Loading...</div>;
@@ -110,6 +118,14 @@ function App() {
           <h1>London Vintage Map</h1>
           <p>Find the best vintage, antique, and charity shops around Brockley.</p>
         </div>
+        
+        <input 
+          type="text" 
+          className="search-input" 
+          placeholder="Search for a shop..." 
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+        />
         
         <div className="filters">
           <button 
