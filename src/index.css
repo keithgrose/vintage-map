@@ -84,8 +84,9 @@ body {
 }
 
 .icon-button.active {
-  background: rgba(255, 255, 255, 0.15);
-  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(239, 68, 68, 0.2); /* light red */
+  border-color: #ef4444; /* red */
+  color: #ef4444;
 }
 
 /* Filter Popover */
@@ -285,11 +286,37 @@ body {
 .bottom-carousel {
   position: absolute;
   bottom: 24px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: calc(100vw - 32px);
-  max-width: 400px;
+  left: 0;
+  width: 100vw;
   z-index: 999;
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 0 16px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.bottom-carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-card {
+  display: flex;
+  padding: 12px;
+  gap: 16px;
+  align-items: center;
+  min-width: 280px;
+  max-width: 320px;
+  scroll-snap-align: center;
+  flex-shrink: 0;
+}
+
+.carousel-img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 12px;
 }
 
 /* Flip Animation */

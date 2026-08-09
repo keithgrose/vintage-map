@@ -53,22 +53,40 @@ export default function CalendarView({ fairs }: CalendarViewProps) {
 
       <div className="events-list">
         <h3 style={{ marginBottom: '12px', fontSize: '1.1rem' }}>
-          Events on {selectedDate.toLocaleDateString()}
+          {selectedEvents.length > 0 ? `Events on ${selectedDate.toLocaleDateString()}` : 'All Upcoming Events'}
         </h3>
         
-        {selectedEvents.length === 0 ? (
-          <p style={{ color: 'var(--color-text-muted)' }}>No pop-ups or fairs scheduled for this date.</p>
-        ) : (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-            {selectedEvents.map(e => (
-              <div key={e.id} className="glass-panel" style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                <h4 style={{ margin: 0, fontSize: '1rem', color: 'var(--color-accent-fair)' }}>{e.name}</h4>
-                {e.url && <a href={e.url} target="_blank" rel="noreferrer" style={{ color: '#3B82F6', fontSize: '0.9rem' }}>Visit Website</a>}
-                {e.gmapsUrl && <a href={e.gmapsUrl} target="_blank" rel="noreferrer" style={{ color: 'var(--color-text)', fontSize: '0.9rem', textDecoration: 'underline' }}>Directions</a>}
-              </div>
-            ))}
-          </div>
-        )}
+        <div className="glass-panel" style={{ overflowX: 'auto' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
+            <thead>
+              <tr style={{ borderBottom: '1px solid var(--color-border)' }}>
+                <th style={{ padding: '12px', color: 'var(--color-text-muted)' }}>Event</th>
+                <th style={{ padding: '12px', color: 'var(--color-text-muted)' }}>Date</th>
+                <th style={{ padding: '12px', color: 'var(--color-text-muted)' }}>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              {(selectedEvents.length > 0 ? selectedEvents : events).length === 0 ? (
+                <tr>
+                  <td colSpan={3} style={{ padding: '16px', textAlign: 'center', color: 'var(--color-text-muted)' }}>
+                    No pop-ups or fairs scheduled.
+                  </td>
+                </tr>
+              ) : (
+                (selectedEvents.length > 0 ? selectedEvents : events).map(e => (
+                  <tr key={e.id} style={{ borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
+                    <td style={{ padding: '12px', fontWeight: 600, color: 'var(--color-accent-fair)' }}>{e.name}</td>
+                    <td style={{ padding: '12px', fontSize: '0.9rem' }}>{e.next_dates?.[0] || e.date}</td>
+                    <td style={{ padding: '12px', display: 'flex', gap: '8px' }}>
+                      {e.url && <a href={e.url} target="_blank" rel="noreferrer" style={{ color: '#3B82F6', fontSize: '0.9rem' }}>Website</a>}
+                      {e.gmapsUrl && <a href={e.gmapsUrl} target="_blank" rel="noreferrer" style={{ color: 'var(--color-text)', fontSize: '0.9rem', textDecoration: 'underline' }}>Directions</a>}
+                    </td>
+                  </tr>
+                ))
+              )}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   );

@@ -165,25 +165,24 @@ function App() {
     );
   }
 
-  let closestLoc: any = null;
-  let closestDist = Infinity;
-  if (userPos && viewMode === 'map') {
-    visibleLocations.forEach(loc => {
-      const dist = getDistance(userPos[0], userPos[1], loc.lat, loc.lng);
-      if (dist < closestDist) {
-        closestDist = dist;
-        closestLoc = loc;
-      }
-    });
+  let topClosest: {loc: Location, dist: number}[] = [];
+  if (userPos) {
+    const distances = visibleLocations.map(loc => ({
+      loc,
+      dist: getDistance(userPos[0], userPos[1], loc.lat, loc.lng)
+    }));
+    distances.sort((a, b) => a.dist - b.dist);
+    topClosest = distances.slice(0, 10);
   }
 
   const getPlaceholderImage = (type: string) => {
+    const base = import.meta.env.BASE_URL || '/';
     switch(type) {
-      case 'vintage': return 'https://images.unsplash.com/photo-1555529771-835f59bfc50c?w=500&q=80'; 
-      case 'antique': return 'https://images.unsplash.com/photo-1584555891392-5eb3c9842472?w=500&q=80'; 
-      case 'charity': return 'https://images.unsplash.com/photo-1532202802379-df93d543bac3?w=500&q=80'; 
-      case 'fair': return 'https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=500&q=80'; 
-      default: return 'https://images.unsplash.com/photo-1555529771-835f59bfc50c?w=500&q=80';
+      case 'vintage': return `${base}images/vintage.jpg`; 
+      case 'antique': return `${base}images/antique.jpg`; 
+      case 'charity': return `${base}images/charity.jpg`; 
+      case 'fair': return `${base}images/fair.jpg`; 
+      default: return `${base}images/vintage.jpg`;
     }
   };
 
@@ -298,39 +297,38 @@ function App() {
         </div>
       )}
       
-      <div className={`flip-container ${viewMode === 'calendar' ? 'calendar-mode' : ''}`}>
-        <div className="flipper">
-          <div className="flip-front">
-            <Map locations={visibleLocations} center={HOME_CENTER} userLocation={userPos} />
-            
-            {closestLoc && (
-              <div className="bottom-carousel">
-                <div className="glass-panel" style={{ display: 'flex', padding: '12px', gap: '16px', alignItems: 'center' }}>
+      {viewMode === 'map' ? (
+        <div style={{ position: 'relative', width: '100vw', height: '100vh' }}>
+          <Map locations={visibleLocations} center={HOME_CENTER} userLocation={userPos} />
+          
+          {topClosest.length > 0 && (
+            <div className="bottom-carousel">
+              {topClosest.map(({ loc, dist }) => (
+                <div key={loc.id} className="glass-panel carousel-card">
                   <img 
-                    src={getPlaceholderImage(closestLoc.type)} 
-                    alt={closestLoc.name} 
-                    style={{ width: '80px', height: '80px', objectFit: 'cover', borderRadius: '12px' }} 
+                    src={getPlaceholderImage(loc.type)} 
+                    alt={loc.name} 
+                    className="carousel-img"
                   />
-                  <div style={{ flex: 1 }}>
-                    <h4 style={{ margin: 0, fontSize: '1.1rem' }}>Closest: {closestLoc.name}</h4>
-                    <p style={{ margin: '4px 0', fontSize: '0.9rem', color: 'var(--color-text-muted)' }}>
-                      {closestDist.toFixed(2)} miles away
+                  <div style={{ flex: 1, minWidth: '150px' }}>
+                    <h4 style={{ margin: 0, fontSize: '1rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{loc.name}</h4>
+                    <p style={{ margin: '4px 0', fontSize: '0.85rem', color: 'var(--color-text-muted)' }}>
+                      {dist.toFixed(2)} miles away
                     </p>
-                    {closestLoc.gmapsUrl && (
-                      <a href={closestLoc.gmapsUrl} target="_blank" rel="noreferrer" style={{ fontSize: '0.9rem', color: '#3B82F6', textDecoration: 'none', fontWeight: 600 }}>
+                    {loc.gmapsUrl && (
+                      <a href={loc.gmapsUrl} target="_blank" rel="noreferrer" style={{ fontSize: '0.85rem', color: '#3B82F6', textDecoration: 'none', fontWeight: 600 }}>
                         Get Directions
                       </a>
                     )}
                   </div>
                 </div>
-              </div>
-            )}
-          </div>
-          <div className="flip-back">
-            <CalendarView fairs={locations} />
-          </div>
+              ))}
+            </div>
+          )}
         </div>
-      </div>
+      ) : (
+        <CalendarView fairs={locations} />
+      )}
     </div>
   );
 }
