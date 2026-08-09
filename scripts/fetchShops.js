@@ -58,8 +58,9 @@ async function fetchShops() {
     fs.writeFileSync(outputPath, JSON.stringify(shops, null, 2));
     console.log(`Wrote shops data to ${outputPath}`);
   } catch (error) {
-    console.error('Error fetching shops:', error);
-    process.exit(1);
+    console.error('Error fetching shops:', error.message);
+    console.log('Falling back to existing shops.json cache.');
+    process.exit(0);
   }
 }
 
