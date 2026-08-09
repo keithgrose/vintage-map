@@ -1,0 +1,47 @@
+[
+  {
+    "id": "frock-me-1",
+    "name": "Frock Me! Vintage Fashion Fair",
+    "lat": 51.498,
+    "lng": -0.165,
+    "type": "fair",
+    "date": "Monthly (Check Website)",
+    "url": "https://www.frockmevintagefashion.com/"
+  },
+  {
+    "id": "pop-up-vintage-1",
+    "name": "Pop Up Vintage Fairs London",
+    "lat": 51.52,
+    "lng": -0.111,
+    "type": "fair",
+    "date": "Monthly",
+    "url": "https://popupvintagefairs.co.uk/"
+  },
+  {
+    "id": "so-last-century-1",
+    "name": "So Last Century Vintage Market",
+    "lat": 51.439,
+    "lng": -0.021,
+    "type": "fair",
+    "date": "Check Website",
+    "url": "https://solastcenturyfair.co.uk/"
+  },
+  {
+    "id": "fc_0_1786298027107",
+    "name": "Kerb Food Market",
+    "lat": 51.5,
+    "lng": -0.1,
+    "type": "fair",
+    "date": "Weekends",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+  },
+  {
+    "id": "fc_1_1786298027107",
+    "name": "Notting Hill Carnival",
+    "lat": 51.5,
+    "lng": -0.2,
+    "type": "fair",
+    "date": "August Bank Holiday Weekend",
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+  }
+]

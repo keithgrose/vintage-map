@@ -1,0 +1,6211 @@
+[
+  {
+    "id": "node_268123996",
+    "name": "Cancer Research UK",
+    "lat": 51.3584079,
+    "lon": -0.2163717,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3584079,-0.2163717"
+  },
+  {
+    "id": "node_268124547",
+    "name": "St Raphael's Hospice",
+    "lat": 51.3578738,
+    "lon": -0.215905,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3578738,-0.215905"
+  },
+  {
+    "id": "node_268124749",
+    "name": "Save the Children",
+    "lat": 51.3584548,
+    "lon": -0.2167147,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3584548,-0.2167147"
+  },
+  {
+    "id": "node_278080083",
+    "name": "Hospices of Hope",
+    "lat": 51.3846305,
+    "lon": -0.1747027,
+    "type": "charity",
+    "address": "368 Middleton Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3846305,-0.1747027"
+  },
+  {
+    "id": "node_293741407",
+    "name": "Oxfam",
+    "lat": 51.533579,
+    "lon": -0.1710013,
+    "type": "charity",
+    "address": "61-63 St John's Wood High Street",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-st-johns-wood/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.533579,-0.1710013"
+  },
+  {
+    "id": "node_348357927",
+    "name": "Oasis",
+    "lat": 51.5378457,
+    "lon": -0.1028286,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5378457,-0.1028286"
+  },
+  {
+    "id": "node_348414867",
+    "name": "Oxfam",
+    "lat": 51.5329085,
+    "lon": -0.1064013,
+    "type": "charity",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-islington/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5329085,-0.1064013"
+  },
+  {
+    "id": "node_348714063",
+    "name": "Cancer Research UK",
+    "lat": 51.534668,
+    "lon": -0.1051296,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.534668,-0.1051296"
+  },
+  {
+    "id": "node_357659340",
+    "name": "North London Hospice",
+    "lat": 51.5426136,
+    "lon": -0.1032677,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5426136,-0.1032677"
+  },
+  {
+    "id": "node_374318282",
+    "name": "Mind",
+    "lat": 51.5619256,
+    "lon": -0.0743139,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5619256,-0.0743139"
+  },
+  {
+    "id": "node_392184130",
+    "name": "Found",
+    "lat": 51.5723992,
+    "lon": -0.3544437,
+    "type": "charity",
+    "address": "9 Shaftesbury Circle",
+    "hours": "Mo-Sa 09:30-17:00",
+    "url": "https://www.ccrharrow.org/found",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5723992,-0.3544437"
+  },
+  {
+    "id": "node_420729623",
+    "name": "St Christophers",
+    "lat": 51.4026632,
+    "lon": 0.0151641,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4026632,0.0151641"
+  },
+  {
+    "id": "node_420783188",
+    "name": "British Heart Foundation",
+    "lat": 51.4018021,
+    "lon": 0.0163071,
+    "type": "charity",
+    "address": "59 High Street",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/bromley-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4018021,0.0163071"
+  },
+  {
+    "id": "node_420783196",
+    "name": "Barnardo's",
+    "lat": 51.4011207,
+    "lon": 0.016799,
+    "type": "charity",
+    "address": "33 High Street",
+    "hours": "Mo-Sa 09:30-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4011207,0.016799"
+  },
+  {
+    "id": "node_456065290",
+    "name": "Oxfam",
+    "lat": 51.4076864,
+    "lon": -0.0272285,
+    "type": "charity",
+    "address": "148 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4076864,-0.0272285"
+  },
+  {
+    "id": "node_456065298",
+    "name": "Cancer Research UK",
+    "lat": 51.4076423,
+    "lon": -0.0274801,
+    "type": "vintage",
+    "address": "156 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4076423,-0.0274801"
+  },
+  {
+    "id": "node_456389177",
+    "name": "St. Christopher's Hospice",
+    "lat": 51.409928,
+    "lon": -0.0252503,
+    "type": "vintage",
+    "address": "24 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.409928,-0.0252503"
+  },
+  {
+    "id": "node_459786531",
+    "name": "North London Hospice",
+    "lat": 51.5979918,
+    "lon": -0.1103076,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5979918,-0.1103076"
+  },
+  {
+    "id": "node_506883176",
+    "name": "Sue Ryder Care",
+    "lat": 51.5381303,
+    "lon": -0.0992,
+    "type": "charity",
+    "address": "72 Essex Road",
+    "hours": "Mo-Sa 09:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5381303,-0.0992"
+  },
+  {
+    "id": "node_529116452",
+    "name": "RSPCA",
+    "lat": 51.5913325,
+    "lon": -0.0697539,
+    "type": "charity",
+    "address": "404 High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5913325,-0.0697539"
+  },
+  {
+    "id": "node_529116479",
+    "name": "British Heart Foundation",
+    "lat": 51.5927653,
+    "lon": -0.0695112,
+    "type": "charity",
+    "address": "468 High Road",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/tottenham-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5927653,-0.0695112"
+  },
+  {
+    "id": "node_639270058",
+    "name": "Oxfam",
+    "lat": 51.4932425,
+    "lon": -0.1942936,
+    "type": "charity",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-earls-court/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4932425,-0.1942936"
+  },
+  {
+    "id": "node_654313353",
+    "name": "RSPCA",
+    "lat": 51.5618183,
+    "lon": -0.073502,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5618183,-0.073502"
+  },
+  {
+    "id": "node_660899247",
+    "name": "Mind",
+    "lat": 51.5600434,
+    "lon": -0.0741672,
+    "type": "charity",
+    "url": "https://www.mind.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5600434,-0.0741672"
+  },
+  {
+    "id": "node_661167473",
+    "name": "Cancer Research UK",
+    "lat": 51.5788176,
+    "lon": -0.1240072,
+    "type": "charity",
+    "address": "13 The Broadway",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5788176,-0.1240072"
+  },
+  {
+    "id": "node_691595562",
+    "name": "Daniel Bexfield",
+    "lat": 51.5106816,
+    "lon": -0.127332,
+    "type": "antique",
+    "address": "5 Cecil Court",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5106816,-0.127332"
+  },
+  {
+    "id": "node_692296660",
+    "name": "Mark Sullivan",
+    "lat": 51.5106761,
+    "lon": -0.1274722,
+    "type": "antique",
+    "address": "9 Cecil Court",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5106761,-0.1274722"
+  },
+  {
+    "id": "node_730776795",
+    "name": "Butchoff",
+    "lat": 51.5077766,
+    "lon": -0.1947393,
+    "type": "antique",
+    "address": "154 Kensington Church Street",
+    "url": "https://www.butchoff.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5077766,-0.1947393"
+  },
+  {
+    "id": "node_730777064",
+    "name": "Sinai and sons",
+    "lat": 51.5081089,
+    "lon": -0.1947695,
+    "type": "antique",
+    "address": "170 Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5081089,-0.1947695"
+  },
+  {
+    "id": "node_730777102",
+    "name": "Mahs Antiques",
+    "lat": 51.5076421,
+    "lon": -0.1950062,
+    "type": "antique",
+    "address": "141 Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5076421,-0.1950062"
+  },
+  {
+    "id": "node_731088222",
+    "name": "Barham Antiques",
+    "lat": 51.5127894,
+    "lon": -0.2022843,
+    "type": "antique",
+    "address": "83 Portobello Road",
+    "url": "https://www.barhamantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5127894,-0.2022843"
+  },
+  {
+    "id": "node_731088372",
+    "name": "Henry Gregory",
+    "lat": 51.512645,
+    "lon": -0.2016913,
+    "type": "antique",
+    "address": "82E Portobello Road",
+    "url": "https://www.henrygregoryantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.512645,-0.2016913"
+  },
+  {
+    "id": "node_731088413",
+    "name": "Oxfam",
+    "lat": 51.514006,
+    "lon": -0.2011911,
+    "type": "charity",
+    "address": "245 Westbourne Grove",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-boutique-westbourne-grove/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.514006,-0.2011911"
+  },
+  {
+    "id": "node_731088447",
+    "name": "Roger's Antiques Gallery",
+    "lat": 51.5122402,
+    "lon": -0.2021377,
+    "type": "antique",
+    "address": "76 Kensington Park Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5122402,-0.2021377"
+  },
+  {
+    "id": "node_731088454",
+    "name": "Portobello China & Woolens",
+    "lat": 51.5128747,
+    "lon": -0.2024492,
+    "type": "antique",
+    "address": "89 Portobello Road",
+    "url": "https://www.portobello1.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5128747,-0.2024492"
+  },
+  {
+    "id": "node_807945944",
+    "name": "Oxfam",
+    "lat": 51.4990443,
+    "lon": -0.1835739,
+    "type": "charity",
+    "address": "5 Gloucester Road",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-gloucester-road/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4990443,-0.1835739"
+  },
+  {
+    "id": "node_807945953",
+    "name": "Fara",
+    "lat": 51.4989403,
+    "lon": -0.1838581,
+    "type": "charity",
+    "address": "26 Gloucester Road",
+    "hours": "Mo-Su,PH 10:00-18:00",
+    "url": "https://www.faracharityshops.org/shops/kensington_fara.php",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4989403,-0.1838581"
+  },
+  {
+    "id": "node_823341251",
+    "name": "Scope",
+    "lat": 51.4823419,
+    "lon": -0.1998885,
+    "type": "charity",
+    "address": "421 North End Road",
+    "hours": "Mo-Sa 10:30-18:00, Su 11:00-17:00",
+    "url": "https://scope.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4823419,-0.1998885"
+  },
+  {
+    "id": "node_823341416",
+    "name": "Little Lives",
+    "lat": 51.481975,
+    "lon": -0.1995898,
+    "type": "charity",
+    "address": "433 North End Road",
+    "hours": "Mo-Sa 10:00-18:00, Su 11:00-17:00",
+    "url": "https://www.littlelives.org.uk/charity-shop/fulham-broadway/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.481975,-0.1995898"
+  },
+  {
+    "id": "node_831425966",
+    "name": "Sunflower & Poppy",
+    "lat": 51.5516058,
+    "lon": -0.1574085,
+    "type": "antique",
+    "address": "Southampton Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5516058,-0.1574085"
+  },
+  {
+    "id": "node_931617145",
+    "name": "Mind",
+    "lat": 51.5397394,
+    "lon": -0.1413035,
+    "type": "charity",
+    "address": "20 Camden Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5397394,-0.1413035"
+  },
+  {
+    "id": "node_1116642994",
+    "name": "British Red Cross",
+    "lat": 51.4661404,
+    "lon": -0.1697082,
+    "type": "charity",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/wandsworth",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4661404,-0.1697082"
+  },
+  {
+    "id": "node_1129263149",
+    "name": "Take Antiques",
+    "lat": 51.5619947,
+    "lon": -0.2027046,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5619947,-0.2027046"
+  },
+  {
+    "id": "node_1137513726",
+    "name": "Fara Kids",
+    "lat": 51.5135996,
+    "lon": -0.1990573,
+    "type": "charity",
+    "address": "39 Ledbury Road",
+    "url": "https://www.faracharityshops.org/kidsShops/nottingHillKids_fara.php",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5135996,-0.1990573"
+  },
+  {
+    "id": "node_1137521072",
+    "name": "Robin Martin Antiques",
+    "lat": 51.5143038,
+    "lon": -0.1989225,
+    "type": "antique",
+    "address": "44 Ledbury Road",
+    "url": "https://www.robinmartinantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5143038,-0.1989225"
+  },
+  {
+    "id": "node_1149829556",
+    "name": "Second Chance",
+    "lat": 51.5658867,
+    "lon": -0.1341037,
+    "type": "charity",
+    "address": "7-9 St John's Way",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5658867,-0.1341037"
+  },
+  {
+    "id": "node_1191178160",
+    "name": "Emmaus Greenwich",
+    "lat": 51.4867271,
+    "lon": 0.0813316,
+    "type": "vintage",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4867271,0.0813316"
+  },
+  {
+    "id": "node_1231025804",
+    "name": "The Octavia Foundation",
+    "lat": 51.5458174,
+    "lon": -0.178787,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5458174,-0.178787"
+  },
+  {
+    "id": "node_1262681712",
+    "name": "Barnardo's",
+    "lat": 51.5178978,
+    "lon": -0.152022,
+    "type": "charity",
+    "address": "7 George Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
+    "url": "https://shop.barnardos.org.uk/shop/marylebone",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5178978,-0.152022"
+  },
+  {
+    "id": "node_1322039167",
+    "name": "British Heart Foundation",
+    "lat": 51.541309,
+    "lon": 0.0006598,
+    "type": "charity",
+    "address": "86 The Mall",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/stratford-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.541309,0.0006598"
+  },
+  {
+    "id": "node_1360451428",
+    "name": "Gloucester Antiques",
+    "lat": 51.4914841,
+    "lon": -0.1802141,
+    "type": "antique",
+    "address": "159 Gloucester Road",
+    "url": "http://gloucesterantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4914841,-0.1802141"
+  },
+  {
+    "id": "node_1419164446",
+    "name": "Oxfam",
+    "lat": 51.5130965,
+    "lon": -0.3068174,
+    "type": "charity",
+    "address": "34 New Broadway",
+    "hours": "Mo-Fr 09:00-17:00; Sa 10:00-17:00; Su 11:00-17:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-ealing/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5130965,-0.3068174"
+  },
+  {
+    "id": "node_1420929517",
+    "name": "Children's Hope Foundation",
+    "lat": 51.5137559,
+    "lon": -0.2993309,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5137559,-0.2993309"
+  },
+  {
+    "id": "node_1489521449",
+    "name": "Barnardo's",
+    "lat": 51.4987818,
+    "lon": 0.0898428,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4987818,0.0898428"
+  },
+  {
+    "id": "node_1490039240",
+    "name": "British Heart Foundation",
+    "lat": 51.5806254,
+    "lon": -0.3342216,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/harrow-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5806254,-0.3342216"
+  },
+  {
+    "id": "node_1508663651",
+    "name": "Mind",
+    "lat": 51.580137,
+    "lon": -0.3346424,
+    "type": "charity",
+    "hours": "Mo-Sa 09:00-17:00;Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.580137,-0.3346424"
+  },
+  {
+    "id": "node_1634404183",
+    "name": "North London Hospice",
+    "lat": 51.654559,
+    "lon": -0.2014617,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.654559,-0.2014617"
+  },
+  {
+    "id": "node_1634404194",
+    "name": "Oxfam",
+    "lat": 51.6549679,
+    "lon": -0.2015469,
+    "type": "charity",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-barnet/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6549679,-0.2015469"
+  },
+  {
+    "id": "node_1671195393",
+    "name": "RSPCA",
+    "lat": 51.5806237,
+    "lon": -0.1223575,
+    "type": "charity",
+    "address": "Tottenham Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5806237,-0.1223575"
+  },
+  {
+    "id": "node_1718283890",
+    "name": "Reindeer Antiques",
+    "lat": 51.5048056,
+    "lon": -0.193863,
+    "type": "antique",
+    "address": "81 Kensington Church Street",
+    "url": "https://www.reindeerantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5048056,-0.193863"
+  },
+  {
+    "id": "node_1832688363",
+    "name": "The London Silver Vaults",
+    "lat": 51.5172003,
+    "lon": -0.1125776,
+    "type": "antique",
+    "hours": "Mo-Fr 09:00-17:30; Sa 09:00-13:00",
+    "url": "https://silvervaultslondon.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5172003,-0.1125776"
+  },
+  {
+    "id": "node_1949536812",
+    "name": "Barnardo's",
+    "lat": 51.5924614,
+    "lon": 0.026999,
+    "type": "charity",
+    "address": "George Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5924614,0.026999"
+  },
+  {
+    "id": "node_1949536823",
+    "name": "The Children's Society",
+    "lat": 51.5926264,
+    "lon": 0.026578,
+    "type": "charity",
+    "address": "George Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5926264,0.026578"
+  },
+  {
+    "id": "node_1949536824",
+    "name": "Cancer Research UK",
+    "lat": 51.5925747,
+    "lon": 0.02672,
+    "type": "charity",
+    "address": "George Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5925747,0.02672"
+  },
+  {
+    "id": "node_1964458555",
+    "name": "Victoria Antiques",
+    "lat": 51.5943329,
+    "lon": 0.0239304,
+    "type": "antique",
+    "address": "180-182 George Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5943329,0.0239304"
+  },
+  {
+    "id": "node_1964534553",
+    "name": "Helen Rollason Cancer Charity",
+    "lat": 51.5932095,
+    "lon": 0.0255146,
+    "type": "charity",
+    "address": "136 George Lane",
+    "url": "https://www.helenrollason.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5932095,0.0255146"
+  },
+  {
+    "id": "node_2147835484",
+    "name": "Oxfam",
+    "lat": 51.5967461,
+    "lon": 0.0213391,
+    "type": "charity",
+    "address": "149 High Road",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-south-woodford/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5967461,0.0213391"
+  },
+  {
+    "id": "node_2225525292",
+    "name": "Traid",
+    "lat": 51.5826816,
+    "lon": -0.0284032,
+    "type": "charity",
+    "address": "106 A-B High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5826816,-0.0284032"
+  },
+  {
+    "id": "node_2327698050",
+    "name": "British Heart Foundation",
+    "lat": 51.3741474,
+    "lon": -0.0956853,
+    "type": "charity",
+    "address": "George Street",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/croydon-furniture-electrical-store",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3741474,-0.0956853"
+  },
+  {
+    "id": "node_2333408425",
+    "name": "The Heroes Haven",
+    "lat": 51.5825332,
+    "lon": -0.0998977,
+    "type": "charity",
+    "address": "549 Green Lanes",
+    "url": "https://www.wigsforheroes.org/the-heroes-haven",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5825332,-0.0998977"
+  },
+  {
+    "id": "node_2333408429",
+    "name": "Human Relief Foundation",
+    "lat": 51.5829974,
+    "lon": -0.0995826,
+    "type": "charity",
+    "address": "5 Salisbury Promenade",
+    "hours": "Mo-Su 10:00-18:00",
+    "url": "https://www.hrf.org.uk/get-involved/charity-shops/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5829974,-0.0995826"
+  },
+  {
+    "id": "node_2437724773",
+    "name": "Nightingale Hospice Trust Ltd",
+    "lat": 51.6486255,
+    "lon": -0.1297359,
+    "type": "charity",
+    "address": "171 Bramley Road",
+    "hours": "Mo-Sa 09:30-16:30",
+    "url": "https://www.nightingalesupport.org.uk/oakwood-shop/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6486255,-0.1297359"
+  },
+  {
+    "id": "node_2463974613",
+    "name": "Scope",
+    "lat": 51.4509647,
+    "lon": 0.0508284,
+    "type": "charity",
+    "address": "50",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4509647,0.0508284"
+  },
+  {
+    "id": "node_2481448171",
+    "name": "Cats Protection",
+    "lat": 51.4583625,
+    "lon": 0.0497059,
+    "type": "charity",
+    "address": "14 Tudor Parade",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4583625,0.0497059"
+  },
+  {
+    "id": "node_2483622485",
+    "name": "British Red Cross",
+    "lat": 51.4501606,
+    "lon": 0.0520178,
+    "type": "charity",
+    "address": "23 Court Yard",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/eltham",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4501606,0.0520178"
+  },
+  {
+    "id": "node_2485002536",
+    "name": "British Heart Foundation",
+    "lat": 51.4505658,
+    "lon": 0.053887,
+    "type": "charity",
+    "address": "114 Eltham High Street",
+    "hours": "Mo-Sa 09:00-17:30; Su 10:00-16:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/eltham-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4505658,0.053887"
+  },
+  {
+    "id": "node_2485569977",
+    "name": "Save the Chidren",
+    "lat": 51.4498473,
+    "lon": 0.0539954,
+    "type": "charity",
+    "address": "18 Passey Place",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4498473,0.0539954"
+  },
+  {
+    "id": "node_2517463845",
+    "name": "St Luke's Hospice",
+    "lat": 51.5703851,
+    "lon": -0.2946433,
+    "type": "charity",
+    "address": "196 Preston Road",
+    "url": "http://wearestlukes.org/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5703851,-0.2946433"
+  },
+  {
+    "id": "node_2521692056",
+    "name": "St Luke's Hospice",
+    "lat": 51.5951826,
+    "lon": -0.3839327,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5951826,-0.3839327"
+  },
+  {
+    "id": "node_2587660664",
+    "name": "Northcote Road Antiques Market",
+    "lat": 51.4553632,
+    "lon": -0.1645814,
+    "type": "antique",
+    "address": "155a Northcote Road",
+    "url": "https://www.northcoteroadantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4553632,-0.1645814"
+  },
+  {
+    "id": "node_2609621298",
+    "name": "British Heart Foundation",
+    "lat": 51.581532,
+    "lon": -0.3351247,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.581532,-0.3351247"
+  },
+  {
+    "id": "node_2610004464",
+    "name": "Cancer Research UK",
+    "lat": 51.5631059,
+    "lon": -0.355766,
+    "type": "charity",
+    "address": "310 Northolt Road",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/south-harrow",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5631059,-0.355766"
+  },
+  {
+    "id": "node_2610004546",
+    "name": "St Luke's Hospice",
+    "lat": 51.5633382,
+    "lon": -0.3549347,
+    "type": "charity",
+    "address": "281 Northolt Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5633382,-0.3549347"
+  },
+  {
+    "id": "node_2623487687",
+    "name": "British Heart Foundation",
+    "lat": 51.3608061,
+    "lon": -0.1917985,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/sutton-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3608061,-0.1917985"
+  },
+  {
+    "id": "node_2629341024",
+    "name": "Barnardo's",
+    "lat": 51.5895843,
+    "lon": 0.0817893,
+    "type": "charity",
+    "address": "High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5895843,0.0817893"
+  },
+  {
+    "id": "node_2645604178",
+    "name": "The Map House",
+    "lat": 51.4977845,
+    "lon": -0.1654957,
+    "type": "antique",
+    "address": "54 Beauchamp Place",
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:30-17:30",
+    "url": "https://www.themaphouse.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4977845,-0.1654957"
+  },
+  {
+    "id": "node_2781884771",
+    "name": "Antique Textiles",
+    "lat": 51.4889231,
+    "lon": -0.1369864,
+    "type": "antique",
+    "address": "42 Moreton Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4889231,-0.1369864"
+  },
+  {
+    "id": "node_3065848519",
+    "name": "Trinity Hospice Shop",
+    "lat": 51.4594017,
+    "lon": -0.1666064,
+    "type": "charity",
+    "address": "Northcote Road",
+    "url": "http://www.trinityhospice.org.uk/trinity-shops",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4594017,-0.1666064"
+  },
+  {
+    "id": "node_3090686009",
+    "name": "Fara",
+    "lat": 51.4548336,
+    "lon": -0.1643544,
+    "type": "charity",
+    "address": "70 Chatham Road",
+    "url": "https://www.faracharityshops.org/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4548336,-0.1643544"
+  },
+  {
+    "id": "node_3102743664",
+    "name": "Trinity Hospice Store",
+    "lat": 51.4614082,
+    "lon": -0.1672008,
+    "type": "charity",
+    "address": "St. John's Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4614082,-0.1672008"
+  },
+  {
+    "id": "node_3115604824",
+    "name": "Boutique Shelter",
+    "lat": 51.4594305,
+    "lon": -0.1662552,
+    "type": "charity",
+    "address": "49 Northcote Road",
+    "url": "https://england.shelter.org.uk/support_us/shops/clapham_junction_boutique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4594305,-0.1662552"
+  },
+  {
+    "id": "node_3261904433",
+    "name": "Community Shop",
+    "lat": 51.5066327,
+    "lon": -0.3374201,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5066327,-0.3374201"
+  },
+  {
+    "id": "node_3357928835",
+    "name": "Octavia Foundation",
+    "lat": 51.4973814,
+    "lon": -0.1675077,
+    "type": "charity",
+    "address": "211 Brompton Road",
+    "url": "https://www.octaviafoundation.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4973814,-0.1675077"
+  },
+  {
+    "id": "node_3373963769",
+    "name": "Diana & George",
+    "lat": 51.4721333,
+    "lon": -0.1659972,
+    "type": "charity",
+    "address": "250 Battersea Park Road",
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+    "url": "https://www.diana-george.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4721333,-0.1659972"
+  },
+  {
+    "id": "node_3373963770",
+    "name": "Fara",
+    "lat": 51.4720858,
+    "lon": -0.1661467,
+    "type": "charity",
+    "address": "252 Battersea Park Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4720858,-0.1661467"
+  },
+  {
+    "id": "node_3374471347",
+    "name": "Chesney's Antiques",
+    "lat": 51.4733812,
+    "lon": -0.161305,
+    "type": "antique",
+    "address": "204 Battersea Park Road",
+    "url": "https://chesneys.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4733812,-0.161305"
+  },
+  {
+    "id": "node_3390404470",
+    "name": "St. Vincent's",
+    "lat": 51.5434258,
+    "lon": -0.0758842,
+    "type": "charity",
+    "address": "484,486 Kingsland Road",
+    "hours": "Mo-Sa 09:30-17:00; Tu,Th 09:30-18:30; Su 11:00-17:00",
+    "url": "https://www.svp.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5434258,-0.0758842"
+  },
+  {
+    "id": "node_3390412459",
+    "name": "Oxfam",
+    "lat": 51.5442333,
+    "lon": -0.0757834,
+    "type": "charity",
+    "address": "514 Kingsland Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5442333,-0.0757834"
+  },
+  {
+    "id": "node_3405091715",
+    "name": "Wandsworth Oasis",
+    "lat": 51.4714373,
+    "lon": -0.1686411,
+    "type": "charity",
+    "address": "308-310 Battersea Park Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4714373,-0.1686411"
+  },
+  {
+    "id": "node_3411916593",
+    "name": "Cancer Research UK",
+    "lat": 51.5907883,
+    "lon": -0.1040216,
+    "type": "charity",
+    "address": "High Road",
+    "hours": "Mo-Sa 09:30-17:30; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5907883,-0.1040216"
+  },
+  {
+    "id": "node_3431420966",
+    "name": "Barnardo's",
+    "lat": 51.4803933,
+    "lon": 0.1803693,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4803933,0.1803693"
+  },
+  {
+    "id": "node_3488233122",
+    "name": "Alberto's Antiques",
+    "lat": 51.4738355,
+    "lon": -0.1599145,
+    "type": "antique",
+    "address": "164 Battersea Park Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4738355,-0.1599145"
+  },
+  {
+    "id": "node_3561854961",
+    "name": "Geranium Shop",
+    "lat": 51.5180741,
+    "lon": -0.1519534,
+    "type": "charity",
+    "address": "4 George Street",
+    "url": "https://www.glfb.org.uk/shops/marylebone/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5180741,-0.1519534"
+  },
+  {
+    "id": "node_3568634995",
+    "name": "Cats Protection",
+    "lat": 51.3384925,
+    "lon": -0.1156175,
+    "type": "charity",
+    "address": "13 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3384925,-0.1156175"
+  },
+  {
+    "id": "node_3569231896",
+    "name": "Oxfam",
+    "lat": 51.3394327,
+    "lon": -0.1157788,
+    "type": "charity",
+    "address": "928 Brighton Road",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-purley/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3394327,-0.1157788"
+  },
+  {
+    "id": "node_3569231897",
+    "name": "Emmaus",
+    "lat": 51.3393958,
+    "lon": -0.1158432,
+    "type": "charity",
+    "address": "930 Brighton Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3393958,-0.1158432"
+  },
+  {
+    "id": "node_3569231898",
+    "name": "The Children's Trust",
+    "lat": 51.3393656,
+    "lon": -0.1159022,
+    "type": "charity",
+    "address": "932 Brighton Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3393656,-0.1159022"
+  },
+  {
+    "id": "node_3569274995",
+    "name": "The Salvation Army",
+    "lat": 51.338939,
+    "lon": -0.11659,
+    "type": "charity",
+    "address": "952 Brighton Road",
+    "url": "https://www.salvationarmy.org.uk/purley-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.338939,-0.11659"
+  },
+  {
+    "id": "node_3569274996",
+    "name": "Cancer Research UK",
+    "lat": 51.3388969,
+    "lon": -0.1166569,
+    "type": "charity",
+    "address": "954 Brighton Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3388969,-0.1166569"
+  },
+  {
+    "id": "node_3641295556",
+    "name": "Mary's Living & Giving Shop",
+    "lat": 51.5256347,
+    "lon": -0.1789817,
+    "type": "charity",
+    "address": "11 Clifton Road",
+    "url": "https://www.savethechildren.org.uk/shop/marys-living-and-giving-shops/little-venice",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5256347,-0.1789817"
+  },
+  {
+    "id": "node_3662201096",
+    "name": "Oxfam",
+    "lat": 51.4769723,
+    "lon": -0.2021158,
+    "type": "charity",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-fulham/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4769723,-0.2021158"
+  },
+  {
+    "id": "node_3667302484",
+    "name": "Cancer Research",
+    "lat": 51.4611718,
+    "lon": -0.1670901,
+    "type": "charity",
+    "address": "83 St. John's Road",
+    "hours": "Mo-Sa 09:30-18:00, Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4611718,-0.1670901"
+  },
+  {
+    "id": "node_3731720546",
+    "name": "FARA",
+    "lat": 51.4748396,
+    "lon": -0.206282,
+    "type": "charity",
+    "address": "674 Fulham Road",
+    "hours": "Mo-Su 10:00-18:00",
+    "url": "https://www.faracharity.org/shop/fulham-road/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4748396,-0.206282"
+  },
+  {
+    "id": "node_3750681425",
+    "name": "Artiquea",
+    "lat": 51.4739494,
+    "lon": -0.192209,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4739494,-0.192209"
+  },
+  {
+    "id": "node_3891083126",
+    "name": "Black-Heath Antique",
+    "lat": 51.456983,
+    "lon": -0.0140822,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.456983,-0.0140822"
+  },
+  {
+    "id": "node_3977242950",
+    "name": "Ace of Clubs Charity Shop",
+    "lat": 51.4614235,
+    "lon": -0.1370099,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4614235,-0.1370099"
+  },
+  {
+    "id": "node_4005737931",
+    "name": "Crisis",
+    "lat": 51.5667047,
+    "lon": -0.1080427,
+    "type": "charity",
+    "address": "19 Stroud Green Road",
+    "hours": "Mo-Sa 11:00-19:00; Su 12:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5667047,-0.1080427"
+  },
+  {
+    "id": "node_4127684503",
+    "name": "British Heart Foundation",
+    "lat": 51.4209631,
+    "lon": -0.2063164,
+    "type": "charity",
+    "address": "11 Wimbledon Bridge",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/wimbledon-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4209631,-0.2063164"
+  },
+  {
+    "id": "node_4170525431",
+    "name": "Knightsbridge Coins",
+    "lat": 51.5070336,
+    "lon": -0.1376118,
+    "type": "antique",
+    "address": "43 Duke Street St James's",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5070336,-0.1376118"
+  },
+  {
+    "id": "node_4221687837",
+    "name": "The Salvation Army",
+    "lat": 51.4149803,
+    "lon": -0.0547475,
+    "type": "charity",
+    "address": "174 Maple Road",
+    "hours": "Mo-Tu 08:30-12:30",
+    "url": "https://www.salvationarmy.org.uk/penge",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4149803,-0.0547475"
+  },
+  {
+    "id": "node_4221837282",
+    "name": "AlexTLC Charity Shop",
+    "lat": 51.4129532,
+    "lon": -0.0507468,
+    "type": "charity",
+    "address": "High Street",
+    "hours": "Mo-Sa 09:30-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4129532,-0.0507468"
+  },
+  {
+    "id": "node_4303520974",
+    "name": "Fight For Sight",
+    "lat": 51.5137538,
+    "lon": -0.3033679,
+    "type": "charity",
+    "address": "12 The Broadway",
+    "hours": "Mo-Sa 11:00-18:00; Su 11:00-17:00",
+    "url": "https://www.curiousroo.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5137538,-0.3033679"
+  },
+  {
+    "id": "node_4318369471",
+    "name": "Marie Curie",
+    "lat": 51.4612836,
+    "lon": -0.301322,
+    "type": "charity",
+    "address": "Sheen Road",
+    "hours": "Mo-Th 09:30-16:00; Fr,Sa 09:30-17:00",
+    "url": "https://www.mariecurie.org.uk/local/charity-shops/richmond",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4612836,-0.301322"
+  },
+  {
+    "id": "node_4324470554",
+    "name": "SCT",
+    "lat": 51.5133355,
+    "lon": -0.0569895,
+    "type": "charity",
+    "address": "Watney Market",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5133355,-0.0569895"
+  },
+  {
+    "id": "node_4329814913",
+    "name": "Mary's Living & Giving Shop",
+    "lat": 51.4733423,
+    "lon": -0.1977798,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4733423,-0.1977798"
+  },
+  {
+    "id": "node_4347880234",
+    "name": "Save the Children",
+    "lat": 51.4642275,
+    "lon": -0.1319012,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4642275,-0.1319012"
+  },
+  {
+    "id": "node_4347898874",
+    "name": "Age UK",
+    "lat": 51.463815,
+    "lon": -0.1329017,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.463815,-0.1329017"
+  },
+  {
+    "id": "node_4361453732",
+    "name": "Mind",
+    "lat": 51.5133848,
+    "lon": -0.1383106,
+    "type": "charity",
+    "address": "8 Ganton Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5133848,-0.1383106"
+  },
+  {
+    "id": "node_4374559387",
+    "name": "The Salvation Army",
+    "lat": 51.4478672,
+    "lon": -0.148905,
+    "type": "charity",
+    "address": "38 Balham High Road",
+    "hours": "We-Sa 10:00-16:00",
+    "url": "https://www.salvationarmy.org.uk/balham-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4478672,-0.148905"
+  },
+  {
+    "id": "node_4381900390",
+    "name": "Sue Ryder",
+    "lat": 51.6075542,
+    "lon": 0.0332954,
+    "type": "charity",
+    "address": "4 The Broadway",
+    "hours": "Mo-Sa 09:30-17:00",
+    "url": "https://www.sueryder.org/shop-with-us/find-a-shop/woodford-green/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6075542,0.0332954"
+  },
+  {
+    "id": "node_4382519972",
+    "name": "Cancer Research UK",
+    "lat": 51.4445016,
+    "lon": -0.1521417,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4445016,-0.1521417"
+  },
+  {
+    "id": "node_4453745784",
+    "name": "All Aboard",
+    "lat": 51.5146978,
+    "lon": -0.1758657,
+    "type": "charity",
+    "address": "12 Spring Street",
+    "url": "https://www.allaboardshops.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5146978,-0.1758657"
+  },
+  {
+    "id": "node_4547130922",
+    "name": "Hemisphere Gallery",
+    "lat": 51.4897679,
+    "lon": -0.1558894,
+    "type": "antique",
+    "address": "97 Lower Sloane Street",
+    "url": "https://www.hemispheregallery.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4897679,-0.1558894"
+  },
+  {
+    "id": "node_4547130927",
+    "name": "Bentleys",
+    "lat": 51.4898826,
+    "lon": -0.1560761,
+    "type": "antique",
+    "address": "91 Lower Sloane Street",
+    "url": "https://bentleyslondon.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4898826,-0.1560761"
+  },
+  {
+    "id": "node_4623910766",
+    "name": "The Book Shop",
+    "lat": 51.4160617,
+    "lon": -0.3718513,
+    "type": "charity",
+    "address": "Ashley Road",
+    "hours": "Mo-Fr 10:00-16:00; Sa 10:30-14:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4160617,-0.3718513"
+  },
+  {
+    "id": "node_4654216348",
+    "name": "Sue Ryder",
+    "lat": 51.6082768,
+    "lon": 0.1067682,
+    "type": "charity",
+    "address": "195 Manford Way",
+    "url": "http://www.sueryder.org/shop-with-us/high-street-shopping/find-your-nearest-shop/all-shops/hainault",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6082768,0.1067682"
+  },
+  {
+    "id": "node_4654216354",
+    "name": "Barnardo's",
+    "lat": 51.6082686,
+    "lon": 0.1062169,
+    "type": "charity",
+    "address": "183 Manford Way",
+    "url": "http://www.barnardos.org.uk/shop/chigwell/shop-view.htm?id=SHP-11523",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6082686,0.1062169"
+  },
+  {
+    "id": "node_4682088114",
+    "name": "Philanthropy",
+    "lat": 51.6176489,
+    "lon": -0.1088547,
+    "type": "charity",
+    "address": "248 Green Lanes",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6176489,-0.1088547"
+  },
+  {
+    "id": "node_4687847192",
+    "name": "Highgate Collectables",
+    "lat": 51.5770266,
+    "lon": -0.145993,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5770266,-0.145993"
+  },
+  {
+    "id": "node_4687847199",
+    "name": "Mind",
+    "lat": 51.5772475,
+    "lon": -0.1465084,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5772475,-0.1465084"
+  },
+  {
+    "id": "node_4699403078",
+    "name": "Supporting Local Childern & Young People Charity Shop",
+    "lat": 51.4415139,
+    "lon": -0.1491037,
+    "type": "charity",
+    "address": "102 Bedford Hill",
+    "hours": "Mo-Fr 10:00-17:00; Sa 10:00-17:00; Su 10:00-17:00",
+    "url": "https://syct.org.uk/charity-shop/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4415139,-0.1491037"
+  },
+  {
+    "id": "node_4721101709",
+    "name": "Hospices Of Hope",
+    "lat": 51.4643437,
+    "lon": -0.1638277,
+    "type": "charity",
+    "address": "200 Lavender Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4643437,-0.1638277"
+  },
+  {
+    "id": "node_4735334285",
+    "name": "Oxfam",
+    "lat": 51.4924497,
+    "lon": -0.2286288,
+    "type": "charity",
+    "address": "87 King Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-hammersmith/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4924497,-0.2286288"
+  },
+  {
+    "id": "node_4802106555",
+    "name": "Crol & Co.",
+    "lat": 51.4913212,
+    "lon": -0.0751241,
+    "type": "antique",
+    "address": "77 Dunton Road",
+    "hours": "Mo-Fr 17:00+ closed; Sa-Su 17:30+ closed",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4913212,-0.0751241"
+  },
+  {
+    "id": "node_4813327055",
+    "name": "Lassco",
+    "lat": 51.4991539,
+    "lon": -0.075537,
+    "type": "antique",
+    "address": "41 Maltby Street",
+    "hours": "Mo-Sa 09:00-17:00; Su 11:00-17:00",
+    "url": "https://www.lassco.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4991539,-0.075537"
+  },
+  {
+    "id": "node_4870735283",
+    "name": "British Heart Foundation",
+    "lat": 51.4619865,
+    "lon": -0.167743,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/clapham-junction-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4619865,-0.167743"
+  },
+  {
+    "id": "node_4919808575",
+    "name": "Muslim Hands",
+    "lat": 51.5130662,
+    "lon": -0.0416708,
+    "type": "charity",
+    "address": "595 Belgrave Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5130662,-0.0416708"
+  },
+  {
+    "id": "node_4920062372",
+    "name": "Rupert Wace Ancient Art",
+    "lat": 51.5058905,
+    "lon": -0.1378729,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5058905,-0.1378729"
+  },
+  {
+    "id": "node_4940548272",
+    "name": "Franses",
+    "lat": 51.5078503,
+    "lon": -0.1380924,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5078503,-0.1380924"
+  },
+  {
+    "id": "node_4945136526",
+    "name": "Franklin N & I",
+    "lat": 51.5067977,
+    "lon": -0.1382638,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5067977,-0.1382638"
+  },
+  {
+    "id": "node_4946679058",
+    "name": "St John's Wood Collectables",
+    "lat": 51.5326002,
+    "lon": -0.1812355,
+    "type": "antique",
+    "address": "2 Violet Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5326002,-0.1812355"
+  },
+  {
+    "id": "node_4948028469",
+    "name": "Albert Amor",
+    "lat": 51.5064872,
+    "lon": -0.1382238,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5064872,-0.1382238"
+  },
+  {
+    "id": "node_4959123897",
+    "name": "Shelter",
+    "lat": 51.5574708,
+    "lon": -0.1184309,
+    "type": "charity",
+    "url": "https://england.shelter.org.uk/support_us/shops/holloway_road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5574708,-0.1184309"
+  },
+  {
+    "id": "node_4959124807",
+    "name": "British Heart Foundation",
+    "lat": 51.5575011,
+    "lon": -0.118473,
+    "type": "charity",
+    "address": "Holloway Road",
+    "hours": "Mo-Sa 10:00-18:00,Su 11:00-17:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/holloway-road-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5575011,-0.118473"
+  },
+  {
+    "id": "node_4959303686",
+    "name": "Iconastas",
+    "lat": 51.5080875,
+    "lon": -0.1390658,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5080875,-0.1390658"
+  },
+  {
+    "id": "node_4959303690",
+    "name": "Piccadilly Vaults",
+    "lat": 51.5079742,
+    "lon": -0.1389794,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5079742,-0.1389794"
+  },
+  {
+    "id": "node_4993323427",
+    "name": "Oxfam",
+    "lat": 51.4026496,
+    "lon": -0.1929337,
+    "type": "charity",
+    "address": "London Road",
+    "hours": "Mo-Sa 09:30-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4026496,-0.1929337"
+  },
+  {
+    "id": "node_4993324954",
+    "name": "Scope",
+    "lat": 51.4025107,
+    "lon": -0.1932744,
+    "type": "charity",
+    "address": "London Road",
+    "hours": "Mo-Sa 09:00-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4025107,-0.1932744"
+  },
+  {
+    "id": "node_4994302834",
+    "name": "British Heart Foundation",
+    "lat": 51.579943,
+    "lon": 0.1825977,
+    "type": "charity",
+    "address": "45 Market Place",
+    "hours": "Mo-Sa 09:30-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.579943,0.1825977"
+  },
+  {
+    "id": "node_5065721401",
+    "name": "Sense",
+    "lat": 51.4865524,
+    "lon": -0.0945521,
+    "type": "charity",
+    "hours": "Mo-Sa 10:00-18:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4865524,-0.0945521"
+  },
+  {
+    "id": "node_5065744074",
+    "name": "Crisis",
+    "lat": 51.4889284,
+    "lon": -0.0959326,
+    "type": "charity",
+    "hours": "Mo-Sa 10:30-18:30; Su 11:30-17:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4889284,-0.0959326"
+  },
+  {
+    "id": "node_5140877011",
+    "name": "Emmaus",
+    "lat": 51.4303909,
+    "lon": -0.1045457,
+    "type": "charity",
+    "address": "88 Knight's Hill",
+    "hours": "Mo-Sa 09:30-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4303909,-0.1045457"
+  },
+  {
+    "id": "node_5140877012",
+    "name": "Lambeth Mencap",
+    "lat": 51.4305146,
+    "lon": -0.1042144,
+    "type": "charity",
+    "address": "43 Knight's Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4305146,-0.1042144"
+  },
+  {
+    "id": "node_5144763500",
+    "name": "Fight for Sight",
+    "lat": 51.434434,
+    "lon": -0.1040053,
+    "type": "charity",
+    "address": "356 Norwood Road",
+    "hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
+    "url": "https://www.fightforsight.org.uk/our-shops/visit-our-shops/west-norwood/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.434434,-0.1040053"
+  },
+  {
+    "id": "node_5144798353",
+    "name": "RSPCA",
+    "lat": 51.43372,
+    "lon": -0.1038578,
+    "type": "charity",
+    "address": "380 Norwood Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.43372,-0.1038578"
+  },
+  {
+    "id": "node_5144891944",
+    "name": "Emmaus",
+    "lat": 51.4314241,
+    "lon": -0.1040268,
+    "type": "charity",
+    "address": "Knight's Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4314241,-0.1040268"
+  },
+  {
+    "id": "node_5144891945",
+    "name": "Emmaus",
+    "lat": 51.4313438,
+    "lon": -0.1040536,
+    "type": "charity",
+    "address": "Knight's Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4313438,-0.1040536"
+  },
+  {
+    "id": "node_5144903021",
+    "name": "Maddisons",
+    "lat": 51.4304801,
+    "lon": -0.1045552,
+    "type": "antique",
+    "address": "88 Knight's Hill",
+    "url": "http://www.maddisons.net/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4304801,-0.1045552"
+  },
+  {
+    "id": "node_5163713623",
+    "name": "Oxfam",
+    "lat": 51.3919579,
+    "lon": -0.3069386,
+    "type": "charity",
+    "address": "62 Victoria Road",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-surbiton/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3919579,-0.3069386"
+  },
+  {
+    "id": "node_5163825164",
+    "name": "Vision Foundation",
+    "lat": 51.5896896,
+    "lon": -0.144293,
+    "type": "charity",
+    "address": "58 Muswell Hill Broadway",
+    "hours": "Mo-Fr 10:00-17:00; Sa 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5896896,-0.144293"
+  },
+  {
+    "id": "node_5163825170",
+    "name": "Boutique by Shelter",
+    "lat": 51.5896376,
+    "lon": -0.1444024,
+    "type": "charity",
+    "url": "https://england.shelter.org.uk/support_us/shops/muswell_hill_boutique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5896376,-0.1444024"
+  },
+  {
+    "id": "node_5188912374",
+    "name": "Age UK",
+    "lat": 51.5824581,
+    "lon": -0.2289046,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5824581,-0.2289046"
+  },
+  {
+    "id": "node_5188912375",
+    "name": "Save the Children",
+    "lat": 51.5827366,
+    "lon": -0.2289513,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5827366,-0.2289513"
+  },
+  {
+    "id": "node_5261625482",
+    "name": "St Luke's Hospice",
+    "lat": 51.5762228,
+    "lon": -0.3712698,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5762228,-0.3712698"
+  },
+  {
+    "id": "node_5273243784",
+    "name": "Joss Graham",
+    "lat": 51.4945446,
+    "lon": -0.1477585,
+    "type": "antique",
+    "address": "10 Eccleston Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4945446,-0.1477585"
+  },
+  {
+    "id": "node_5370783771",
+    "name": "Saint Francis Hospice Shops",
+    "lat": 51.5756164,
+    "lon": 0.183263,
+    "type": "charity",
+    "address": "125 South Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5756164,0.183263"
+  },
+  {
+    "id": "node_5382875528",
+    "name": "Ahava Community - Liberty",
+    "lat": 51.5798502,
+    "lon": 0.1835999,
+    "type": "charity",
+    "address": "1",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5798502,0.1835999"
+  },
+  {
+    "id": "node_5488620986",
+    "name": "Mrs M.E. Crick Chandeliers",
+    "lat": 51.5080447,
+    "lon": -0.1947712,
+    "type": "antique",
+    "address": "166-168 Kensington Church Street",
+    "hours": "Mo-Fr 09:30-17:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5080447,-0.1947712"
+  },
+  {
+    "id": "node_5488620988",
+    "name": "Denton Antiques",
+    "lat": 51.5078548,
+    "lon": -0.1947536,
+    "type": "antique",
+    "address": "156 Kensington Church Street",
+    "url": "https://denton-antiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5078548,-0.1947536"
+  },
+  {
+    "id": "node_5490526428",
+    "name": "Alex TLC Charity Shop",
+    "lat": 51.4847116,
+    "lon": -0.0940389,
+    "type": "charity",
+    "address": "378 Walworth Road",
+    "hours": "Mo-Sa 09:30-17:30; Su 10:00-16:00",
+    "url": "https://alextlc.org/charity-shop/walworth-road/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4847116,-0.0940389"
+  },
+  {
+    "id": "node_5490532436",
+    "name": "The Salvation Army",
+    "lat": 51.4862186,
+    "lon": -0.0943333,
+    "type": "charity",
+    "url": "https://www.salvationarmy.org.uk/walworth-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4862186,-0.0943333"
+  },
+  {
+    "id": "node_5628929765",
+    "name": "Fara Kids",
+    "lat": 51.4393894,
+    "lon": -0.1866073,
+    "type": "charity",
+    "address": "589 Garratt Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4393894,-0.1866073"
+  },
+  {
+    "id": "node_5629018891",
+    "name": "Fara",
+    "lat": 51.4409771,
+    "lon": -0.1867743,
+    "type": "charity",
+    "address": "551 Garratt Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4409771,-0.1867743"
+  },
+  {
+    "id": "node_5629018892",
+    "name": "RSPCA",
+    "lat": 51.441035,
+    "lon": -0.1868051,
+    "type": "charity",
+    "address": "549 Garratt Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.441035,-0.1868051"
+  },
+  {
+    "id": "node_5643161035",
+    "name": "Altea Gallery",
+    "lat": 51.5119668,
+    "lon": -0.1426625,
+    "type": "antique",
+    "address": "35 St George Street",
+    "url": "https://alteagallery.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5119668,-0.1426625"
+  },
+  {
+    "id": "node_5645112768",
+    "name": "Pendulum Of Mayfair",
+    "lat": 51.5123672,
+    "lon": -0.1439528,
+    "type": "antique",
+    "address": "51 Maddox Street",
+    "url": "https://www.pendulumofmayfair.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5123672,-0.1439528"
+  },
+  {
+    "id": "node_5657476048",
+    "name": "Marie Curie",
+    "lat": 51.5643406,
+    "lon": -0.1049212,
+    "type": "charity",
+    "address": "272 Seven Sisters Road",
+    "hours": "Mo-Sa 10:00-17:30; Su off",
+    "url": "https://www.mariecurie.org.uk/local/charity-shops/finsbury-park",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5643406,-0.1049212"
+  },
+  {
+    "id": "node_5657506840",
+    "name": "RSPCA",
+    "lat": 51.5643386,
+    "lon": -0.1040791,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5643386,-0.1040791"
+  },
+  {
+    "id": "node_5668283431",
+    "name": "Roger Keverne",
+    "lat": 51.5108916,
+    "lon": -0.1415941,
+    "type": "antique",
+    "address": "16 Clifford Street",
+    "url": "https://www.keverne.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5108916,-0.1415941"
+  },
+  {
+    "id": "node_5678827705",
+    "name": "Somlo Antiques",
+    "lat": 51.5096198,
+    "lon": -0.1408739,
+    "type": "antique",
+    "address": "35-36 Burlington Arcade",
+    "url": "https://www.somlo.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5096198,-0.1408739"
+  },
+  {
+    "id": "node_5695229697",
+    "name": "Oxfam",
+    "lat": 51.3589387,
+    "lon": -0.1494594,
+    "type": "charity",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-wallington/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3589387,-0.1494594"
+  },
+  {
+    "id": "node_5695229699",
+    "name": "Marie Curie",
+    "lat": 51.3590411,
+    "lon": -0.1494823,
+    "type": "charity",
+    "url": "https://www.mariecurie.org.uk/local/charity-shops/wallington",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3590411,-0.1494823"
+  },
+  {
+    "id": "node_5695229702",
+    "name": "British Heart Foundation",
+    "lat": 51.359193,
+    "lon": -0.1495229,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/wallington-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.359193,-0.1495229"
+  },
+  {
+    "id": "node_5695248690",
+    "name": "British Heart Foundation",
+    "lat": 51.3574192,
+    "lon": -0.1495599,
+    "type": "charity",
+    "address": "120 Woodcote Road",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/wallington-furniture-electrical-store",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3574192,-0.1495599"
+  },
+  {
+    "id": "node_5713160990",
+    "name": "The Society For The Protection of Unwanted Objects",
+    "lat": 51.4527545,
+    "lon": -0.1033358,
+    "type": "antique",
+    "address": "125 Dulwich Road",
+    "url": "https://soc4protectionofunwantedobjects.weebly.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4527545,-0.1033358"
+  },
+  {
+    "id": "node_5749897895",
+    "name": "Cancer Research UK",
+    "lat": 51.6145825,
+    "lon": -0.2477278,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6145825,-0.2477278"
+  },
+  {
+    "id": "node_5762034696",
+    "name": "Oxfam",
+    "lat": 51.6147793,
+    "lon": -0.2465489,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6147793,-0.2465489"
+  },
+  {
+    "id": "node_5762034706",
+    "name": "North London Hospice",
+    "lat": 51.6141935,
+    "lon": -0.248132,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6141935,-0.248132"
+  },
+  {
+    "id": "node_5769380906",
+    "name": "Mansour Gallery",
+    "lat": 51.5129959,
+    "lon": -0.1483221,
+    "type": "antique",
+    "address": "46-48 Davies Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5129959,-0.1483221"
+  },
+  {
+    "id": "node_5777436354",
+    "name": "Sue Ryder",
+    "lat": 51.5808571,
+    "lon": -0.3336804,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-16:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5808571,-0.3336804"
+  },
+  {
+    "id": "node_5782926754",
+    "name": "RSPCA",
+    "lat": 51.3808297,
+    "lon": -0.0716954,
+    "type": "charity",
+    "address": "267 Lower Addiscombe Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3808297,-0.0716954"
+  },
+  {
+    "id": "node_5782926761",
+    "name": "The Salvation Army",
+    "lat": 51.3806162,
+    "lon": -0.0723653,
+    "type": "charity",
+    "address": "249 Lower Addiscombe Road",
+    "url": "https://www.salvationarmy.org.uk/croydon-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3806162,-0.0723653"
+  },
+  {
+    "id": "node_5782926762",
+    "name": "St Christopher's",
+    "lat": 51.3805982,
+    "lon": -0.0724263,
+    "type": "charity",
+    "address": "247 Lower Addiscombe Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3805982,-0.0724263"
+  },
+  {
+    "id": "node_5784878111",
+    "name": "Scope",
+    "lat": 51.3818182,
+    "lon": -0.0699976,
+    "type": "charity",
+    "address": "307 Lower Addiscombe Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3818182,-0.0699976"
+  },
+  {
+    "id": "node_5784878120",
+    "name": "Mind",
+    "lat": 51.3814591,
+    "lon": -0.0706306,
+    "type": "charity",
+    "address": "289 Lower Addiscombe Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3814591,-0.0706306"
+  },
+  {
+    "id": "node_5785125341",
+    "name": "The Garwood Foundation",
+    "lat": 51.3821903,
+    "lon": -0.0684051,
+    "type": "charity",
+    "address": "294 Lower Addiscombe Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3821903,-0.0684051"
+  },
+  {
+    "id": "node_5793987178",
+    "name": "Forces Support",
+    "lat": 51.3720761,
+    "lon": -0.1005467,
+    "type": "charity",
+    "address": "50-54 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3720761,-0.1005467"
+  },
+  {
+    "id": "node_5802389463",
+    "name": "McNally Antiques",
+    "lat": 51.351864,
+    "lon": -0.0989252,
+    "type": "antique",
+    "address": "322 Brighton Road",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-15:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.351864,-0.0989252"
+  },
+  {
+    "id": "node_5806126798",
+    "name": "Barnardo's",
+    "lat": 51.3395388,
+    "lon": -0.1146449,
+    "type": "charity",
+    "address": "5 Purley Parade",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3395388,-0.1146449"
+  },
+  {
+    "id": "node_5808978135",
+    "name": "emmaus",
+    "lat": 51.3586001,
+    "lon": -0.1424535,
+    "type": "charity",
+    "address": "105 Stafford Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3586001,-0.1424535"
+  },
+  {
+    "id": "node_5808978136",
+    "name": "Allsorts",
+    "lat": 51.3588421,
+    "lon": -0.1425192,
+    "type": "antique",
+    "address": "105a Stafford Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3588421,-0.1425192"
+  },
+  {
+    "id": "node_5820044385",
+    "name": "David Potashnick Antiques",
+    "lat": 51.3228558,
+    "lon": -0.1283216,
+    "type": "antique",
+    "address": "73 Stoats Nest Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3228558,-0.1283216"
+  },
+  {
+    "id": "node_5826302410",
+    "name": "A. Pash & Sons",
+    "lat": 51.509832,
+    "lon": -0.1517511,
+    "type": "antique",
+    "address": "37 South Audley Street",
+    "url": "https://www.pashantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.509832,-0.1517511"
+  },
+  {
+    "id": "node_5841985065",
+    "name": "Sue Ryder",
+    "lat": 51.358454,
+    "lon": -0.1486572,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.358454,-0.1486572"
+  },
+  {
+    "id": "node_5842529133",
+    "name": "Cancer Research UK",
+    "lat": 51.4260353,
+    "lon": -0.0496874,
+    "type": "charity",
+    "address": "101 Sydenham Road",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/sydenham",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4260353,-0.0496874"
+  },
+  {
+    "id": "node_5842529143",
+    "name": "Sue Ryder",
+    "lat": 51.4262221,
+    "lon": -0.0509602,
+    "type": "charity",
+    "address": "71 Sydenham Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4262221,-0.0509602"
+  },
+  {
+    "id": "node_5842529173",
+    "name": "RSPCA",
+    "lat": 51.4259679,
+    "lon": -0.0512449,
+    "type": "charity",
+    "address": "46 Sydenham Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4259679,-0.0512449"
+  },
+  {
+    "id": "node_5842529995",
+    "name": "Scope",
+    "lat": 51.4258278,
+    "lon": -0.0479258,
+    "type": "charity",
+    "address": "131 Sydenham Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4258278,-0.0479258"
+  },
+  {
+    "id": "node_5853956167",
+    "name": "Croydon Animal Samaritans",
+    "lat": 51.3796127,
+    "lon": -0.0877165,
+    "type": "charity",
+    "address": "136 Cherry Orchard Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3796127,-0.0877165"
+  },
+  {
+    "id": "node_5853959506",
+    "name": "Oscar Dahling Antiques",
+    "lat": 51.3787387,
+    "lon": -0.0896869,
+    "type": "antique",
+    "address": "87 Cherry Orchard Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3787387,-0.0896869"
+  },
+  {
+    "id": "node_5855830149",
+    "name": "Adrian Alan",
+    "lat": 51.5086821,
+    "lon": -0.1515587,
+    "type": "antique",
+    "address": "66-67 South Audley Street",
+    "url": "https://www.adrianalan.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5086821,-0.1515587"
+  },
+  {
+    "id": "node_5999891679",
+    "name": "Sense",
+    "lat": 51.3412422,
+    "lon": -0.0142457,
+    "type": "charity",
+    "address": "41 Central Parade",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3412422,-0.0142457"
+  },
+  {
+    "id": "node_6032756523",
+    "name": "1 Away Collectables",
+    "lat": 51.4038203,
+    "lon": -0.1373812,
+    "type": "antique",
+    "address": "211 Manor Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4038203,-0.1373812"
+  },
+  {
+    "id": "node_6034123201",
+    "name": "Cancer Research UK",
+    "lat": 51.4055061,
+    "lon": -0.1646016,
+    "type": "charity",
+    "address": "3 London Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4055061,-0.1646016"
+  },
+  {
+    "id": "node_6082152477",
+    "name": "All Aboard",
+    "lat": 51.5482997,
+    "lon": -0.1805732,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5482997,-0.1805732"
+  },
+  {
+    "id": "node_6103011796",
+    "name": "Our Choice",
+    "lat": 51.5181243,
+    "lon": -0.0635536,
+    "type": "charity",
+    "address": "128 Whitechapel Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5181243,-0.0635536"
+  },
+  {
+    "id": "node_6159117563",
+    "name": "St. Christopher's",
+    "lat": 51.4363276,
+    "lon": -0.0901169,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4363276,-0.0901169"
+  },
+  {
+    "id": "node_6203862107",
+    "name": "Oxfam",
+    "lat": 51.4413865,
+    "lon": -0.1870626,
+    "type": "charity",
+    "address": "535 Garratt Lane",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-earlsfield/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4413865,-0.1870626"
+  },
+  {
+    "id": "node_6292096442",
+    "name": "Cancer Research UK",
+    "lat": 51.5196866,
+    "lon": -0.1516032,
+    "type": "charity",
+    "address": "24 Marylebone High Street",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+    "url": "https://www.cancerresearchuk.org/get-involved/ways-to-shop/marylebone",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5196866,-0.1516032"
+  },
+  {
+    "id": "node_6293653587",
+    "name": "North London Hospice",
+    "lat": 51.6315924,
+    "lon": -0.0960124,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6315924,-0.0960124"
+  },
+  {
+    "id": "node_6322306901",
+    "name": "Oxfam",
+    "lat": 51.5200168,
+    "lon": -0.1519634,
+    "type": "charity",
+    "address": "91 Marylebone High Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-marylebone-high-street/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5200168,-0.1519634"
+  },
+  {
+    "id": "node_6328300478",
+    "name": "A.Society",
+    "lat": 51.5185059,
+    "lon": -0.1544935,
+    "type": "antique",
+    "address": "2 Chiltern Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5185059,-0.1544935"
+  },
+  {
+    "id": "node_6350078488",
+    "name": "All Aboard",
+    "lat": 51.614915,
+    "lon": -0.2754232,
+    "type": "charity",
+    "address": "224 Station Road",
+    "hours": "Mo-Sa 09:30-17:30, Su 10:00-16:00",
+    "url": "https://www.allaboardshops.com",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.614915,-0.2754232"
+  },
+  {
+    "id": "node_6367323013",
+    "name": "Cathjas",
+    "lat": 51.4534688,
+    "lon": -0.430089,
+    "type": "charity",
+    "address": "Staines Road",
+    "url": "https://www.cathja.org",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4534688,-0.430089"
+  },
+  {
+    "id": "node_6382045240",
+    "name": "Save the Children",
+    "lat": 51.3741903,
+    "lon": 0.097869,
+    "type": "charity",
+    "address": "High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3741903,0.097869"
+  },
+  {
+    "id": "node_6382045246",
+    "name": "Hospices of Hope",
+    "lat": 51.3738648,
+    "lon": 0.0976214,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3738648,0.0976214"
+  },
+  {
+    "id": "node_6382045252",
+    "name": "Oxfam",
+    "lat": 51.3736033,
+    "lon": 0.0974382,
+    "type": "charity",
+    "address": "340 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3736033,0.0974382"
+  },
+  {
+    "id": "node_6385805930",
+    "name": "PDSA",
+    "lat": 51.3739051,
+    "lon": 0.098335,
+    "type": "charity",
+    "address": "High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3739051,0.098335"
+  },
+  {
+    "id": "node_6398370786",
+    "name": "Muirshin Durkin",
+    "lat": 51.5220765,
+    "lon": -0.2079374,
+    "type": "antique",
+    "address": "67 Golborne Road",
+    "url": "https://www.phoenixongolborne.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5220765,-0.2079374"
+  },
+  {
+    "id": "node_6400858468",
+    "name": "ALD Life",
+    "lat": 51.4735016,
+    "lon": -0.071305,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4735016,-0.071305"
+  },
+  {
+    "id": "node_6444037389",
+    "name": "Little Lives UK",
+    "lat": 51.4095586,
+    "lon": -0.2310455,
+    "type": "charity",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://www.littlelives.org.uk/charity-shop/raynes-park/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4095586,-0.2310455"
+  },
+  {
+    "id": "node_6483299207",
+    "name": "Brocantry",
+    "lat": 51.5244301,
+    "lon": -0.1686133,
+    "type": "antique",
+    "address": "9 Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5244301,-0.1686133"
+  },
+  {
+    "id": "node_6484225992",
+    "name": "Octavia Foundation",
+    "lat": 51.5125844,
+    "lon": -0.3047834,
+    "type": "charity",
+    "address": "40 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5125844,-0.3047834"
+  },
+  {
+    "id": "node_6484434994",
+    "name": "Oxfam Music",
+    "lat": 51.5106585,
+    "lon": -0.3053916,
+    "type": "charity",
+    "address": "23 The Green",
+    "hours": "Mo-Fr 10:00-18:00; Sa 10:30-18:00; Su 12:00-17:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-music-audio-ealing/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5106585,-0.3053916"
+  },
+  {
+    "id": "node_6484434996",
+    "name": "Fara Kids",
+    "lat": 51.5108767,
+    "lon": -0.3052957,
+    "type": "charity",
+    "address": "18A The Green",
+    "hours": "Mo-Su 09:30-17:30",
+    "url": "https://faraonline.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5108767,-0.3052957"
+  },
+  {
+    "id": "node_6484565474",
+    "name": "Alice's Attic",
+    "lat": 51.5105905,
+    "lon": -0.3227221,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5105905,-0.3227221"
+  },
+  {
+    "id": "node_6484855748",
+    "name": "James Worrall",
+    "lat": 51.5247309,
+    "lon": -0.1686479,
+    "type": "antique",
+    "address": "2 Church Street",
+    "url": "https://www.jamesworrall.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5247309,-0.1686479"
+  },
+  {
+    "id": "node_6486969717",
+    "name": "Living in Style",
+    "lat": 51.5246545,
+    "lon": -0.1687137,
+    "type": "antique",
+    "address": "6 Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5246545,-0.1687137"
+  },
+  {
+    "id": "node_6486969718",
+    "name": "Marylebone Antiques",
+    "lat": 51.5246116,
+    "lon": -0.1687633,
+    "type": "antique",
+    "address": "8 Church Street",
+    "url": "https://www.maryleboneantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5246116,-0.1687633"
+  },
+  {
+    "id": "node_6487089183",
+    "name": "Young & Son",
+    "lat": 51.5243673,
+    "lon": -0.169124,
+    "type": "antique",
+    "address": "12 Church Street",
+    "url": "https://www.youngandson.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5243673,-0.169124"
+  },
+  {
+    "id": "node_6487090386",
+    "name": "Rare Rugs",
+    "lat": 51.524333,
+    "lon": -0.1691723,
+    "type": "antique",
+    "address": "14 Church Street",
+    "url": "https://rarerugs.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.524333,-0.1691723"
+  },
+  {
+    "id": "node_6487090393",
+    "name": "Schmid McDonagh",
+    "lat": 51.5242683,
+    "lon": -0.1692725,
+    "type": "antique",
+    "address": "18 Church Street",
+    "url": "http://www.schmidmcdonagh.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5242683,-0.1692725"
+  },
+  {
+    "id": "node_6488800885",
+    "name": "Dorian Caffot de Fawes Antiques",
+    "lat": 51.5241962,
+    "lon": -0.1693757,
+    "type": "antique",
+    "address": "22 Church Street",
+    "url": "https://www.dorian-antiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5241962,-0.1693757"
+  },
+  {
+    "id": "node_6489667094",
+    "name": "Vincenzo Caffarella",
+    "lat": 51.5240557,
+    "lon": -0.1695841,
+    "type": "antique",
+    "address": "30 Church Street",
+    "url": "https://www.vinca.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5240557,-0.1695841"
+  },
+  {
+    "id": "node_6489667095",
+    "name": "Nick Jones",
+    "lat": 51.5239951,
+    "lon": -0.1696749,
+    "type": "antique",
+    "address": "34 Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5239951,-0.1696749"
+  },
+  {
+    "id": "node_6489667102",
+    "name": "The FM Gallery",
+    "lat": 51.5239416,
+    "lon": -0.1697608,
+    "type": "antique",
+    "address": "36 Church Street",
+    "url": "https://www.thefmgallery.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5239416,-0.1697608"
+  },
+  {
+    "id": "node_6489667103",
+    "name": "Les Trois Garçons",
+    "lat": 51.5238841,
+    "lon": -0.1698499,
+    "type": "antique",
+    "address": "40 Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5238841,-0.1698499"
+  },
+  {
+    "id": "node_6489667104",
+    "name": "Patricia Harvey Antiques",
+    "lat": 51.523841,
+    "lon": -0.1699127,
+    "type": "antique",
+    "address": "42 Church Street",
+    "url": "https://www.patriciaharveyantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.523841,-0.1699127"
+  },
+  {
+    "id": "node_6535716248",
+    "name": "Cancer Research UK",
+    "lat": 51.533415,
+    "lon": -0.1707856,
+    "type": "charity",
+    "address": "53 St John's Wood High Street",
+    "hours": "Mo-Sa 09:30-18:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.533415,-0.1707856"
+  },
+  {
+    "id": "node_6542104856",
+    "name": "St John's Hospice",
+    "lat": 51.5329674,
+    "lon": -0.1698556,
+    "type": "charity",
+    "address": "86 St John's Wood High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5329674,-0.1698556"
+  },
+  {
+    "id": "node_6542104860",
+    "name": "Boutique by Shelter",
+    "lat": 51.5329243,
+    "lon": -0.1698006,
+    "type": "charity",
+    "address": "84 St John's Wood High Street",
+    "url": "https://england.shelter.org.uk/support_us/shops/st_johns_wood_boutique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5329243,-0.1698006"
+  },
+  {
+    "id": "node_6582148019",
+    "name": "Mind",
+    "lat": 51.409279,
+    "lon": -0.0869259,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.409279,-0.0869259"
+  },
+  {
+    "id": "node_6630184287",
+    "name": "Shelter",
+    "lat": 51.5801832,
+    "lon": -0.1232676,
+    "type": "charity",
+    "url": "https://england.shelter.org.uk/support_us/shops/crouch_end",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5801832,-0.1232676"
+  },
+  {
+    "id": "node_6630184289",
+    "name": "North London Hospice",
+    "lat": 51.5802623,
+    "lon": -0.1231813,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5802623,-0.1231813"
+  },
+  {
+    "id": "node_6630184292",
+    "name": "Children's Air Ambulance",
+    "lat": 51.5804238,
+    "lon": -0.1229722,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5804238,-0.1229722"
+  },
+  {
+    "id": "node_6630184301",
+    "name": "Marie Curie",
+    "lat": 51.5807082,
+    "lon": -0.1226026,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-17:00",
+    "url": "https://www.mariecurie.org.uk/local/charity-shops/crouch-end",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5807082,-0.1226026"
+  },
+  {
+    "id": "node_6647159585",
+    "name": "Cancer Research UK",
+    "lat": 51.5710916,
+    "lon": -0.1955036,
+    "type": "charity",
+    "address": "871 Finchley Road",
+    "hours": "Mo-Sa 09:00-17:30; Su 11:00-17:00",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/golders-green",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5710916,-0.1955036"
+  },
+  {
+    "id": "node_6680353891",
+    "name": "Stepping On Out",
+    "lat": 51.4258731,
+    "lon": -0.3351877,
+    "type": "charity",
+    "address": "The Causeway",
+    "hours": "Mo,We,Fr 10:00-16:00",
+    "url": "http://www.steppingonout.org.uk/soohome.htm",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4258731,-0.3351877"
+  },
+  {
+    "id": "node_6708867421",
+    "name": "St Raphael's Hospice Shop",
+    "lat": 51.4100125,
+    "lon": -0.2298539,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-16:30",
+    "url": "https://www.straphaels.org.uk/Pages/FAQs/Category/high-street-stores",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4100125,-0.2298539"
+  },
+  {
+    "id": "node_6708867422",
+    "name": "Debra Charity Shop",
+    "lat": 51.4099661,
+    "lon": -0.2298251,
+    "type": "charity",
+    "url": "https://www.debra.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4099661,-0.2298251"
+  },
+  {
+    "id": "node_6725592239",
+    "name": "Boutique By Shelter",
+    "lat": 51.5252283,
+    "lon": -0.1797643,
+    "type": "charity",
+    "address": "31 Clifton Road",
+    "url": "https://england.shelter.org.uk/support_us/shops/little_venice",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5252283,-0.1797643"
+  },
+  {
+    "id": "node_6779410912",
+    "name": "Age UK",
+    "lat": 51.525243,
+    "lon": -0.2034076,
+    "type": "charity",
+    "address": "522 Harrow Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.525243,-0.2034076"
+  },
+  {
+    "id": "node_6813682508",
+    "name": "Human Relief Foundation",
+    "lat": 51.5264213,
+    "lon": -0.207835,
+    "type": "charity",
+    "address": "437 Harrow Road",
+    "hours": "Mo-Fr 10:00-18:00; Sa-Su off",
+    "url": "https://www.hrf.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5264213,-0.207835"
+  },
+  {
+    "id": "node_6855466125",
+    "name": "Eccles Road Antiques",
+    "lat": 51.4617577,
+    "lon": -0.1634564,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4617577,-0.1634564"
+  },
+  {
+    "id": "node_6859085198",
+    "name": "Princess Alice Hospice Shop",
+    "lat": 51.4095629,
+    "lon": -0.2324443,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-17:00",
+    "url": "https://www.pah.org.uk/how-you-can-help/visit-our-shops/find-local-shop/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4095629,-0.2324443"
+  },
+  {
+    "id": "node_6920012807",
+    "name": "Greenwich and Bexley Community Hospice",
+    "lat": 51.4386631,
+    "lon": 0.0707747,
+    "type": "charity",
+    "address": "358 Footscray Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4386631,0.0707747"
+  },
+  {
+    "id": "node_6938685886",
+    "name": "Human Relief Foundation",
+    "lat": 51.4755463,
+    "lon": -0.0383375,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4755463,-0.0383375"
+  },
+  {
+    "id": "node_6952499842",
+    "name": "The Bothy",
+    "lat": 51.6153269,
+    "lon": -0.1769587,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6153269,-0.1769587"
+  },
+  {
+    "id": "node_6952499845",
+    "name": "Cancer Research UK",
+    "lat": 51.6151836,
+    "lon": -0.1769453,
+    "type": "charity",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:30-16:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6151836,-0.1769453"
+  },
+  {
+    "id": "node_6985868788",
+    "name": "St Anne's Shop",
+    "lat": 51.5620109,
+    "lon": -0.1498908,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5620109,-0.1498908"
+  },
+  {
+    "id": "node_7044275348",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.5150283,
+    "lon": -0.1879213,
+    "type": "charity",
+    "address": "158 Queensway",
+    "url": "https://www.royaltrinityhospice.london",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5150283,-0.1879213"
+  },
+  {
+    "id": "node_7044275352",
+    "name": "Octavia Foundation",
+    "lat": 51.5155132,
+    "lon": -0.1880787,
+    "type": "charity",
+    "address": "178 Queensway",
+    "url": "https://www.octaviafoundation.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5155132,-0.1880787"
+  },
+  {
+    "id": "node_7066438986",
+    "name": "Mary's Living and Giving Shop",
+    "lat": 51.5115576,
+    "lon": -0.3049344,
+    "type": "charity",
+    "hours": "Mo off; Tu-Sa 10:00-17:00; Su 12:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5115576,-0.3049344"
+  },
+  {
+    "id": "node_7066450221",
+    "name": "RSPCA",
+    "lat": 51.5119157,
+    "lon": -0.3050448,
+    "type": "charity",
+    "address": "27 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5119157,-0.3050448"
+  },
+  {
+    "id": "node_7067972847",
+    "name": "Mind",
+    "lat": 51.5107854,
+    "lon": -0.3053266,
+    "type": "charity",
+    "address": "20 The Green",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5107854,-0.3053266"
+  },
+  {
+    "id": "node_7087241293",
+    "name": "Widows & Windowera",
+    "lat": 51.5242909,
+    "lon": -0.0935492,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5242909,-0.0935492"
+  },
+  {
+    "id": "node_7099537776",
+    "name": "TRAID",
+    "lat": 51.5153985,
+    "lon": -0.1909872,
+    "type": "charity",
+    "address": "61 Westbourne Grove",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://www.traid.org.uk/shop-at-traid/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5153985,-0.1909872"
+  },
+  {
+    "id": "node_7102259790",
+    "name": "Age UK",
+    "lat": 51.5034994,
+    "lon": -0.2189405,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5034994,-0.2189405"
+  },
+  {
+    "id": "node_7104898286",
+    "name": "YMCA",
+    "lat": 51.4901776,
+    "lon": -0.1632179,
+    "type": "charity",
+    "url": "https://www.ymca.org.uk/shops",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4901776,-0.1632179"
+  },
+  {
+    "id": "node_7114991589",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.4926351,
+    "lon": -0.1939702,
+    "type": "charity",
+    "address": "202 Earl's Court Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4926351,-0.1939702"
+  },
+  {
+    "id": "node_7123777863",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.5096944,
+    "lon": -0.1937148,
+    "type": "charity",
+    "address": "20 Notting Hill Gate",
+    "url": "https://www.royaltrinityhospice.london/notting-hill-gate",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5096944,-0.1937148"
+  },
+  {
+    "id": "node_7138194616",
+    "name": "Mary's Living & Giving Shop for Save the Children",
+    "lat": 51.5146062,
+    "lon": -0.1978761,
+    "type": "charity",
+    "address": "177 Westbourne Grove",
+    "url": "https://www.savethechildren.org.uk/shop/marys-living-and-giving-shops",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5146062,-0.1978761"
+  },
+  {
+    "id": "node_7141796054",
+    "name": "Barnardo's",
+    "lat": 51.6068876,
+    "lon": 0.2188196,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6068876,0.2188196"
+  },
+  {
+    "id": "node_7142467315",
+    "name": "Portobello Gallery",
+    "lat": 51.5109477,
+    "lon": -0.1980116,
+    "type": "antique",
+    "address": "11 Portobello Road",
+    "url": "http://www.portobello.gallery.sitew.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5109477,-0.1980116"
+  },
+  {
+    "id": "node_7142467318",
+    "name": "Hirst Antiques",
+    "lat": 51.510949,
+    "lon": -0.197688,
+    "type": "antique",
+    "address": "59 Pembridge Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.510949,-0.197688"
+  },
+  {
+    "id": "node_7145279139",
+    "name": "Oxfam",
+    "lat": 51.5087916,
+    "lon": -0.1995477,
+    "type": "charity",
+    "address": "144 Notting Hill Gate",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-notting-hill-gate/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5087916,-0.1995477"
+  },
+  {
+    "id": "node_7145732564",
+    "name": "Jensen & Ballantine",
+    "lat": 51.5096129,
+    "lon": -0.1977759,
+    "type": "antique",
+    "address": "1 Ladbroke Road",
+    "url": "https://jensenandballantine.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5096129,-0.1977759"
+  },
+  {
+    "id": "node_7157186440",
+    "name": "Mike Weedon Antiques",
+    "lat": 51.5133179,
+    "lon": -0.2034986,
+    "type": "antique",
+    "address": "295 Westbourne Grove",
+    "url": "https://www.mikeweedonantiques.com/en/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5133179,-0.2034986"
+  },
+  {
+    "id": "node_7158033889",
+    "name": "Atlam Pocket Watches",
+    "lat": 51.5132651,
+    "lon": -0.2029388,
+    "type": "antique",
+    "address": "111 Portobello Road",
+    "url": "https://www.atlam-watches.co.uk",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5132651,-0.2029388"
+  },
+  {
+    "id": "node_7158033904",
+    "name": "The Portobello Print & Map Shop",
+    "lat": 51.5132284,
+    "lon": -0.202902,
+    "type": "antique",
+    "address": "109 Portobello Road",
+    "hours": "Su-Fr 11:00-17:00; Sa 08:00-17:00; Dec 25 off",
+    "url": "https://www.portobelloprintandmap.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5132284,-0.202902"
+  },
+  {
+    "id": "node_7158033908",
+    "name": "Red Teapot Arcade",
+    "lat": 51.5130969,
+    "lon": -0.2027553,
+    "type": "antique",
+    "address": "101-103 Portobello Road",
+    "url": "http://portobellomarketlondon.co.uk/arcade_directory.php",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5130969,-0.2027553"
+  },
+  {
+    "id": "node_7158033909",
+    "name": "Katrina Phillips",
+    "lat": 51.5130388,
+    "lon": -0.2026981,
+    "type": "antique",
+    "address": "99 Portobello Road",
+    "url": "http://katrinaphillipsltd.com/new-page-1",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5130388,-0.2026981"
+  },
+  {
+    "id": "node_7158033915",
+    "name": "Clock Centre",
+    "lat": 51.5128497,
+    "lon": -0.2023951,
+    "type": "antique",
+    "address": "87 Portobello Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5128497,-0.2023951"
+  },
+  {
+    "id": "node_7158033916",
+    "name": "Gallery 85",
+    "lat": 51.5128179,
+    "lon": -0.2023377,
+    "type": "antique",
+    "address": "85 Portobello Road",
+    "url": "https://hickmet.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5128179,-0.2023377"
+  },
+  {
+    "id": "node_7158033917",
+    "name": "Judy Fox Antiques",
+    "lat": 51.5127572,
+    "lon": -0.2022239,
+    "type": "antique",
+    "address": "81 Portobello Road",
+    "url": "https://www.judy-fox.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5127572,-0.2022239"
+  },
+  {
+    "id": "node_7158033918",
+    "name": "The Portobello Antique Store",
+    "lat": 51.5127282,
+    "lon": -0.2021689,
+    "type": "antique",
+    "address": "79 Portobello Road",
+    "url": "https://virtueandcalibre.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5127282,-0.2021689"
+  },
+  {
+    "id": "node_7158033920",
+    "name": "75 Portobello Road Antique Gallery",
+    "lat": 51.5126692,
+    "lon": -0.2020541,
+    "type": "antique",
+    "address": "75 Portobello Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5126692,-0.2020541"
+  },
+  {
+    "id": "node_7175647209",
+    "name": "Kleanthous Antiques",
+    "lat": 51.5147609,
+    "lon": -0.2042527,
+    "type": "antique",
+    "address": "144 Portobello Road",
+    "url": "http://www.kleanthous.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5147609,-0.2042527"
+  },
+  {
+    "id": "node_7176852705",
+    "name": "Mary's Living & Giving Shop",
+    "lat": 51.5149504,
+    "lon": -0.2048572,
+    "type": "charity",
+    "address": "7 Elgin Crescent",
+    "hours": "Tu-Sa 10:00-18:00",
+    "url": "https://www.savethechildren.org.uk/shop/marys-living-and-giving-shops/portobello",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5149504,-0.2048572"
+  },
+  {
+    "id": "node_7176852710",
+    "name": "Portwine Galleries",
+    "lat": 51.5148839,
+    "lon": -0.2045609,
+    "type": "antique",
+    "address": "175 Portobello Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5148839,-0.2045609"
+  },
+  {
+    "id": "node_7176852736",
+    "name": "The Crown Jewels",
+    "lat": 51.5138423,
+    "lon": -0.2035416,
+    "type": "antique",
+    "address": "119 Portobello Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5138423,-0.2035416"
+  },
+  {
+    "id": "node_7177742620",
+    "name": "Still Too Few",
+    "lat": 51.5134202,
+    "lon": -0.2038624,
+    "type": "antique",
+    "address": "300 Westbourne Grove",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5134202,-0.2038624"
+  },
+  {
+    "id": "node_7185838131",
+    "name": "Cancer Research UK",
+    "lat": 51.5153126,
+    "lon": -0.2047934,
+    "type": "charity",
+    "address": "183 Portobello Road",
+    "hours": "Mo-Sa 10:00-18:30; Su 12:00-18:00",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/portobello",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5153126,-0.2047934"
+  },
+  {
+    "id": "node_7185838145",
+    "name": "Fara Charity",
+    "lat": 51.5150995,
+    "lon": -0.2051315,
+    "type": "charity",
+    "address": "10 Elgin Crescent",
+    "hours": "Mo-Su 10:00-18:00",
+    "url": "https://www.faracharity.org/shop/notting-hill/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5150995,-0.2051315"
+  },
+  {
+    "id": "node_7192415365",
+    "name": "British Red Cross",
+    "lat": 51.5153809,
+    "lon": -0.2045409,
+    "type": "charity",
+    "address": "164 Portobello Road",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/portobello-road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5153809,-0.2045409"
+  },
+  {
+    "id": "node_7212407783",
+    "name": "Vision Foundation",
+    "lat": 51.5170272,
+    "lon": -0.2060423,
+    "type": "charity",
+    "address": "235 Portobello Road",
+    "hours": "Mo-Sa 11:00-18:00; Su 11:00-17:00",
+    "url": "https://www.visionfoundation.org.uk/shops/portobello-road/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5170272,-0.2060423"
+  },
+  {
+    "id": "node_7213999114",
+    "name": "Royal Trinity",
+    "lat": 51.5168971,
+    "lon": -0.2056394,
+    "type": "charity",
+    "address": "216 Portobello Road",
+    "hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5168971,-0.2056394"
+  },
+  {
+    "id": "node_7242961377",
+    "name": "88 Antiques",
+    "lat": 51.521728,
+    "lon": -0.2089294,
+    "type": "antique",
+    "address": "88 Golborne Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.521728,-0.2089294"
+  },
+  {
+    "id": "node_7242961380",
+    "name": "Bazar Antiques",
+    "lat": 51.5218393,
+    "lon": -0.2087624,
+    "type": "antique",
+    "address": "82 Golborne Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5218393,-0.2087624"
+  },
+  {
+    "id": "node_7242981187",
+    "name": "Clarke",
+    "lat": 51.5221008,
+    "lon": -0.2083874,
+    "type": "antique",
+    "address": "68 Golborne Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5221008,-0.2083874"
+  },
+  {
+    "id": "node_7245322199",
+    "name": "Les Couilles Du Chien",
+    "lat": 51.5221182,
+    "lon": -0.2078873,
+    "type": "antique",
+    "address": "65 Golborne Road",
+    "url": "https://www.lescouillesduchien.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5221182,-0.2078873"
+  },
+  {
+    "id": "node_7278465755",
+    "name": "House of Hodge",
+    "lat": 51.5600178,
+    "lon": -0.0987452,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5600178,-0.0987452"
+  },
+  {
+    "id": "node_7353288612",
+    "name": "Cave Decorative Arts",
+    "lat": 51.5105531,
+    "lon": -0.2097826,
+    "type": "antique",
+    "address": "12 Clarendon Cross",
+    "url": "https://cavedecorativearts.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5105531,-0.2097826"
+  },
+  {
+    "id": "node_7372881246",
+    "name": "Myriad Antiques",
+    "lat": 51.5100336,
+    "lon": -0.2104762,
+    "type": "antique",
+    "address": "131 Portland Road",
+    "url": "https://www.myriadantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5100336,-0.2104762"
+  },
+  {
+    "id": "node_7394226870",
+    "name": "Philip Burke Antiques",
+    "lat": 51.5000481,
+    "lon": -0.2120263,
+    "type": "antique",
+    "address": "2b Russell Gardens Mews",
+    "url": "http://www.philipburkeantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5000481,-0.2120263"
+  },
+  {
+    "id": "node_7433744056",
+    "name": "Octavia Foundation",
+    "lat": 51.498695,
+    "lon": -0.2005884,
+    "type": "charity",
+    "address": "266 Kensington High Street",
+    "url": "https://www.octaviafoundation.org.uk/charity_shops/find_a_shop_near_you/268_olympia",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.498695,-0.2005884"
+  },
+  {
+    "id": "node_7442794665",
+    "name": "Oxfam",
+    "lat": 51.4996782,
+    "lon": -0.1972754,
+    "type": "charity",
+    "address": "202b Kensington High Street",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-kensington/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4996782,-0.1972754"
+  },
+  {
+    "id": "node_7469637038",
+    "name": "Sinai & Sons",
+    "lat": 51.5081493,
+    "lon": -0.1995606,
+    "type": "antique",
+    "address": "186 Campden Hill Road",
+    "url": "http://www.sinaiandsons.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5081493,-0.1995606"
+  },
+  {
+    "id": "node_7489968406",
+    "name": "Horneman Antiques",
+    "lat": 51.5073991,
+    "lon": -0.1949102,
+    "type": "antique",
+    "address": "131 Kensington Church Street",
+    "url": "https://www.raymondhorneman.co.uk/wordpress/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5073991,-0.1949102"
+  },
+  {
+    "id": "node_7491760477",
+    "name": "Howard Walwyn Fine Antique Clocks",
+    "lat": 51.5071207,
+    "lon": -0.1948225,
+    "type": "antique",
+    "address": "123 Kensington Church Street",
+    "url": "https://www.walwynantiqueclocks.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5071207,-0.1948225"
+  },
+  {
+    "id": "node_7494447641",
+    "name": "David Brower",
+    "lat": 51.5067291,
+    "lon": -0.194719,
+    "type": "antique",
+    "address": "113 Kensington Church Street",
+    "url": "https://davidbrowerantiques.com/david_brower_antiques.html",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5067291,-0.194719"
+  },
+  {
+    "id": "node_7502515462",
+    "name": "Shahnaz Gallery",
+    "lat": 51.5061801,
+    "lon": -0.194595,
+    "type": "antique",
+    "address": "101 Kensington Church Street",
+    "url": "https://www.antiques-london.com/dealers/shahnaz-asian-and-islamic-art-antiques/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5061801,-0.194595"
+  },
+  {
+    "id": "node_7506117192",
+    "name": "Kensington & Mayfair Antiques",
+    "lat": 51.5047579,
+    "lon": -0.1938386,
+    "type": "antique",
+    "address": "79 Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5047579,-0.1938386"
+  },
+  {
+    "id": "node_7506117194",
+    "name": "The Lacquer Chest",
+    "lat": 51.5046652,
+    "lon": -0.1937846,
+    "type": "antique",
+    "address": "75 Kensington Church Street",
+    "url": "http://lacquerchest.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5046652,-0.1937846"
+  },
+  {
+    "id": "node_7506117195",
+    "name": "Pruskin Gallery",
+    "lat": 51.5046239,
+    "lon": -0.193759,
+    "type": "antique",
+    "address": "73 Kensington Church Street",
+    "url": "http://pruskingallery.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5046239,-0.193759"
+  },
+  {
+    "id": "node_7506117197",
+    "name": "Amir Mohtashemi",
+    "lat": 51.5045348,
+    "lon": -0.1937096,
+    "type": "antique",
+    "address": "69 Kensington Church Street",
+    "url": "https://www.amirmohtashemi.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5045348,-0.1937096"
+  },
+  {
+    "id": "node_7509182775",
+    "name": "Jason & Co Gallery",
+    "lat": 51.5040792,
+    "lon": -0.1930133,
+    "type": "antique",
+    "address": "57 Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5040792,-0.1930133"
+  },
+  {
+    "id": "node_7512086277",
+    "name": "Trinity Hospice",
+    "lat": 51.5035785,
+    "lon": -0.1920458,
+    "type": "charity",
+    "address": "31-33 Kensington Church Street",
+    "url": "https://www.royaltrinityhospice.london/kensington-mens",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5035785,-0.1920458"
+  },
+  {
+    "id": "node_7512090301",
+    "name": "Trinity Hospice",
+    "lat": 51.5034048,
+    "lon": -0.1919282,
+    "type": "charity",
+    "address": "27 Kensington Church Street",
+    "url": "https://www.royaltrinityhospice.london/kensington",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5034048,-0.1919282"
+  },
+  {
+    "id": "node_7538699125",
+    "name": "Michael German Antiques",
+    "lat": 51.5042562,
+    "lon": -0.1927837,
+    "type": "antique",
+    "address": "38b Kensington Church Street",
+    "url": "http://antiquecanes.com//",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5042562,-0.1927837"
+  },
+  {
+    "id": "node_7538699136",
+    "name": "Kensington Antique Center",
+    "lat": 51.5045474,
+    "lon": -0.1933749,
+    "type": "antique",
+    "address": "58-60 Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5045474,-0.1933749"
+  },
+  {
+    "id": "node_7545002727",
+    "name": "Japanese Gallery Kensington",
+    "lat": 51.5051578,
+    "lon": -0.1937061,
+    "type": "antique",
+    "address": "66e Kensington Church Street",
+    "url": "https://japanesegallery.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5051578,-0.1937061"
+  },
+  {
+    "id": "node_7545002728",
+    "name": "Antiques House",
+    "lat": 51.5052068,
+    "lon": -0.1937337,
+    "type": "antique",
+    "address": "66a Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5052068,-0.1937337"
+  },
+  {
+    "id": "node_7545002730",
+    "name": "E & H Manners",
+    "lat": 51.5052987,
+    "lon": -0.1937937,
+    "type": "antique",
+    "address": "66c Kensington Church Street",
+    "url": "https://www.rare-ceramics.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5052987,-0.1937937"
+  },
+  {
+    "id": "node_7545003007",
+    "name": "Rolleston",
+    "lat": 51.5062842,
+    "lon": -0.1943,
+    "type": "antique",
+    "address": "104a Kensington Church Street",
+    "url": "https://www.rollestonantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5062842,-0.1943"
+  },
+  {
+    "id": "node_7545818773",
+    "name": "Jorge Welsh Works of Art",
+    "lat": 51.5068887,
+    "lon": -0.1944433,
+    "type": "antique",
+    "address": "116 Kensington Church Street",
+    "url": "https://www.jorgewelsh.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5068887,-0.1944433"
+  },
+  {
+    "id": "node_7545818775",
+    "name": "Marchant",
+    "lat": 51.5069892,
+    "lon": -0.194452,
+    "type": "antique",
+    "address": "120 Kensington Church Street",
+    "url": "https://www.marchantasianart.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5069892,-0.194452"
+  },
+  {
+    "id": "node_7545818778",
+    "name": "J.A.N Fine Art",
+    "lat": 51.5072937,
+    "lon": -0.1945672,
+    "type": "antique",
+    "address": "132-134 Kensington Church Street",
+    "hours": "Mo-Fr 10:00-18:00",
+    "url": "https://www.jan-fineart-london.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5072937,-0.1945672"
+  },
+  {
+    "id": "node_7545818801",
+    "name": "Hill House Antiques",
+    "lat": 51.5075926,
+    "lon": -0.1947063,
+    "type": "antique",
+    "address": "144 Kensington Church Street",
+    "url": "https://www.hillhouse-antiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5075926,-0.1947063"
+  },
+  {
+    "id": "node_7545818808",
+    "name": "Patrick Sandberg Antiques",
+    "lat": 51.5077121,
+    "lon": -0.1947378,
+    "type": "antique",
+    "address": "150-152 Kensington Church Street",
+    "url": "https://www.sandbergantiques.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5077121,-0.1947378"
+  },
+  {
+    "id": "node_7546781932",
+    "name": "The Client",
+    "lat": 51.5083134,
+    "lon": -0.1947098,
+    "type": "antique",
+    "address": "174a Kensington Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5083134,-0.1947098"
+  },
+  {
+    "id": "node_7599300017",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.4988944,
+    "lon": -0.1838629,
+    "type": "charity",
+    "address": "28 Gloucester Road",
+    "url": "https://www.royaltrinityhospice.london/gloucester-road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4988944,-0.1838629"
+  },
+  {
+    "id": "node_7698684429",
+    "name": "Cancer Research UK",
+    "lat": 51.4994795,
+    "lon": -0.1970177,
+    "type": "charity",
+    "address": "219 Kensington High Street",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/kensington",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4994795,-0.1970177"
+  },
+  {
+    "id": "node_7732890209",
+    "name": "Vision Foundation",
+    "lat": 51.4986088,
+    "lon": -0.1996974,
+    "type": "charity",
+    "address": "269 Kensington High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4986088,-0.1996974"
+  },
+  {
+    "id": "node_7756389071",
+    "name": "Oxfam",
+    "lat": 51.5336027,
+    "lon": -0.1710293,
+    "type": "charity",
+    "address": "63 St John's Wood High Street",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-st-johns-wood/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5336027,-0.1710293"
+  },
+  {
+    "id": "node_7769775507",
+    "name": "Charity Shop",
+    "lat": 51.610994,
+    "lon": -0.109339,
+    "type": "charity",
+    "address": "40 Green Lanes",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.610994,-0.109339"
+  },
+  {
+    "id": "node_7804014019",
+    "name": "Get Back Vintage",
+    "lat": 51.606546,
+    "lon": -0.1187152,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.606546,-0.1187152"
+  },
+  {
+    "id": "node_7844456078",
+    "name": "Royal Trinity Hospice-Chelsea Branch",
+    "lat": 51.4831352,
+    "lon": -0.1770805,
+    "type": "charity",
+    "address": "389 King's Road",
+    "url": "https://www.royaltrinityhospice.london/chelsea",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4831352,-0.1770805"
+  },
+  {
+    "id": "node_7844456082",
+    "name": "Cancer Research UK",
+    "lat": 51.4830342,
+    "lon": -0.1772233,
+    "type": "charity",
+    "address": "393 King's Road",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/chelsea",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4830342,-0.1772233"
+  },
+  {
+    "id": "node_7982784322",
+    "name": "All Aboard",
+    "lat": 51.6330318,
+    "lon": -0.1302801,
+    "type": "charity",
+    "address": "47C Chase Side",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+    "url": "https://www.allaboardshops.com",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6330318,-0.1302801"
+  },
+  {
+    "id": "node_7997939688",
+    "name": "Opium",
+    "lat": 51.4833704,
+    "lon": -0.1772615,
+    "type": "antique",
+    "address": "414 King's Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4833704,-0.1772615"
+  },
+  {
+    "id": "node_7997939691",
+    "name": "Oxfam",
+    "lat": 51.4831978,
+    "lon": -0.1775403,
+    "type": "charity",
+    "address": "432 King's Road",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-kings-road/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4831978,-0.1775403"
+  },
+  {
+    "id": "node_8111404918",
+    "name": "Godson and Coles",
+    "lat": 51.4899229,
+    "lon": -0.1751166,
+    "type": "antique",
+    "address": "92 Fulham Road",
+    "url": "https://www.godsonandcoles.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4899229,-0.1751166"
+  },
+  {
+    "id": "node_8153964123",
+    "name": "Mary's Living & Giving",
+    "lat": 51.4857834,
+    "lon": -0.1815029,
+    "type": "charity",
+    "address": "206 Fulham Road",
+    "url": "https://www.savethechildren.org.uk/shop/marys-living-and-giving-shops",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4857834,-0.1815029"
+  },
+  {
+    "id": "node_8202853007",
+    "name": "Toad",
+    "lat": 51.4824556,
+    "lon": -0.180899,
+    "type": "antique",
+    "address": "17 Langton Street",
+    "url": "https://www.toadgallery.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4824556,-0.180899"
+  },
+  {
+    "id": "node_8233143310",
+    "name": "Antique Modern Mix",
+    "lat": 51.4843008,
+    "lon": -0.1764543,
+    "type": "antique",
+    "address": "366-368 King's Road",
+    "url": "https://antiquemodernmix.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4843008,-0.1764543"
+  },
+  {
+    "id": "node_8241082910",
+    "name": "Octavia Foundation",
+    "lat": 51.4873019,
+    "lon": -0.1785914,
+    "type": "charity",
+    "address": "287 Fulham Road",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://www.octaviafoundation.org.uk/charity_shops/find_a_shop_near_you/263_fulham_road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4873019,-0.1785914"
+  },
+  {
+    "id": "node_8274275006",
+    "name": "Curiosity Shop",
+    "lat": 51.4365717,
+    "lon": -0.1864578,
+    "type": "antique",
+    "address": "645 Garratt Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4365717,-0.1864578"
+  },
+  {
+    "id": "node_8292498887",
+    "name": "Bourbon Hanby Antique",
+    "lat": 51.4877049,
+    "lon": -0.1691141,
+    "type": "antique",
+    "address": "151 Sydney Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4877049,-0.1691141"
+  },
+  {
+    "id": "node_8354345345",
+    "name": "Hilary Batstone",
+    "lat": 51.4923447,
+    "lon": -0.1553213,
+    "type": "antique",
+    "address": "84 Bourne Street",
+    "url": "http://www.hilarybatstone.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4923447,-0.1553213"
+  },
+  {
+    "id": "node_8376960634",
+    "name": "Barnardo's",
+    "lat": 51.5132016,
+    "lon": -0.4725656,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5132016,-0.4725656"
+  },
+  {
+    "id": "node_8420111495",
+    "name": "British Red Cross",
+    "lat": 51.4853511,
+    "lon": -0.1729648,
+    "type": "charity",
+    "address": "69-71 Old Church Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/kensington-and-chelsea",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4853511,-0.1729648"
+  },
+  {
+    "id": "node_8424650788",
+    "name": "Octavia Foundation",
+    "lat": 51.4847536,
+    "lon": -0.174973,
+    "type": "charity",
+    "address": "303 King's Road",
+    "url": "https://www.octaviafoundation.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4847536,-0.174973"
+  },
+  {
+    "id": "node_8442220219",
+    "name": "Davidson Carlton",
+    "lat": 51.4808269,
+    "lon": -0.183901,
+    "type": "antique",
+    "address": "507 King's Road",
+    "url": "https://www.carltondavidson.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4808269,-0.183901"
+  },
+  {
+    "id": "node_8442336521",
+    "name": "Hatchwell Antiques",
+    "lat": 51.4801636,
+    "lon": -0.1854914,
+    "type": "antique",
+    "address": "533 King's Road",
+    "url": "https://www.hatchwellantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4801636,-0.1854914"
+  },
+  {
+    "id": "node_8442336523",
+    "name": "Rare",
+    "lat": 51.4800873,
+    "lon": -0.1854351,
+    "type": "antique",
+    "address": "533 King's Road",
+    "url": "https://rarebyoulton.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4800873,-0.1854351"
+  },
+  {
+    "id": "node_8442336525",
+    "name": "Anthony Redmile",
+    "lat": 51.4803127,
+    "lon": -0.1853865,
+    "type": "antique",
+    "address": "533 King's Road",
+    "url": "https://redmile.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4803127,-0.1853865"
+  },
+  {
+    "id": "node_8442336526",
+    "name": "The Phoenix Trading",
+    "lat": 51.480375,
+    "lon": -0.185206,
+    "type": "antique",
+    "address": "533 King's Road",
+    "url": "https://www.phoenixtradingcompany.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.480375,-0.185206"
+  },
+  {
+    "id": "node_8442336527",
+    "name": "M&D Lewis Antiques",
+    "lat": 51.4801255,
+    "lon": -0.1849953,
+    "type": "antique",
+    "address": "533 King's Road",
+    "url": "https://www.thelewisemporium.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4801255,-0.1849953"
+  },
+  {
+    "id": "node_8448158889",
+    "name": "Ed Butcher",
+    "lat": 51.4780493,
+    "lon": -0.1840487,
+    "type": "antique",
+    "address": "65/69 Lots Road",
+    "url": "https://www.edbutcher.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4780493,-0.1840487"
+  },
+  {
+    "id": "node_8454393095",
+    "name": "This 'N' That",
+    "lat": 51.4028182,
+    "lon": -0.0366326,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4028182,-0.0366326"
+  },
+  {
+    "id": "node_8476008887",
+    "name": "Fundraising Shop",
+    "lat": 51.377119,
+    "lon": 0.0107664,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.377119,0.0107664"
+  },
+  {
+    "id": "node_8476008905",
+    "name": "St Christopher's",
+    "lat": 51.3772971,
+    "lon": 0.0105396,
+    "type": "charity",
+    "address": "20 Station Approach",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3772971,0.0105396"
+  },
+  {
+    "id": "node_8505221261",
+    "name": "Crisis",
+    "lat": 51.4328037,
+    "lon": -0.1290617,
+    "type": "charity",
+    "address": "Streatham High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4328037,-0.1290617"
+  },
+  {
+    "id": "node_8548225622",
+    "name": "Boutique Shelter",
+    "lat": 51.4630301,
+    "lon": -0.1406157,
+    "type": "charity",
+    "url": "https://england.shelter.org.uk/support_us/shops/clapham_common",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4630301,-0.1406157"
+  },
+  {
+    "id": "node_8565810417",
+    "name": "Cancer Research UK",
+    "lat": 51.5106439,
+    "lon": -0.3220803,
+    "type": "charity",
+    "address": "48 Broadway",
+    "hours": "Mo-Sa 09:00-17:30; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5106439,-0.3220803"
+  },
+  {
+    "id": "node_8623539592",
+    "name": "Wandsworth Oasis",
+    "lat": 51.4365729,
+    "lon": -0.1609906,
+    "type": "charity",
+    "address": "40-42 Trinity Road",
+    "hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
+    "url": "https://wandsworthoasis.org.uk/charity-shops/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4365729,-0.1609906"
+  },
+  {
+    "id": "node_8629832487",
+    "name": "The Salvation Army",
+    "lat": 51.4456345,
+    "lon": -0.0203446,
+    "type": "charity",
+    "url": "https://www.salvationarmy.org.uk/catford-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4456345,-0.0203446"
+  },
+  {
+    "id": "node_8647155251",
+    "name": "Age UK",
+    "lat": 51.425592,
+    "lon": -0.1652284,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.425592,-0.1652284"
+  },
+  {
+    "id": "node_8648939996",
+    "name": "British Heart Foundation",
+    "lat": 51.4462196,
+    "lon": -0.0214644,
+    "type": "charity",
+    "address": "Winslade Way",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/catford-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4462196,-0.0214644"
+  },
+  {
+    "id": "node_8648940003",
+    "name": "Sue Ryder",
+    "lat": 51.4460993,
+    "lon": -0.0205269,
+    "type": "charity",
+    "address": "30-31 Winslade Way",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4460993,-0.0205269"
+  },
+  {
+    "id": "node_8657368625",
+    "name": "Families Relief",
+    "lat": 51.5097547,
+    "lon": -0.3257807,
+    "type": "charity",
+    "address": "93 Broadway",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5097547,-0.3257807"
+  },
+  {
+    "id": "node_8657368630",
+    "name": "British Heart Foundation",
+    "lat": 51.5100349,
+    "lon": -0.3242431,
+    "type": "charity",
+    "address": "59 Broadway",
+    "hours": "Mo-We,Fr 09:30-17:30; Th,Sa 09:30-17:00; Su 11:00-17:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/ealing-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5100349,-0.3242431"
+  },
+  {
+    "id": "node_8659341076",
+    "name": "Reuse And Relove",
+    "lat": 51.5885614,
+    "lon": -0.0048378,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5885614,-0.0048378"
+  },
+  {
+    "id": "node_8659381722",
+    "name": "Clover And Compass",
+    "lat": 51.5884037,
+    "lon": -0.0046283,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5884037,-0.0046283"
+  },
+  {
+    "id": "node_8659381724",
+    "name": "Chase Antiques",
+    "lat": 51.5884173,
+    "lon": -0.0045301,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5884173,-0.0045301"
+  },
+  {
+    "id": "node_8659381725",
+    "name": "Ken’s Flea",
+    "lat": 51.5884242,
+    "lon": -0.004481,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5884242,-0.004481"
+  },
+  {
+    "id": "node_8659381731",
+    "name": "Found In The Attic",
+    "lat": 51.5885479,
+    "lon": -0.0047286,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5885479,-0.0047286"
+  },
+  {
+    "id": "node_8663744299",
+    "name": "Fara",
+    "lat": 51.5046162,
+    "lon": -0.2204417,
+    "type": "charity",
+    "address": "84 Uxbridge Road",
+    "url": "https://www.faracharityshops.org/shops/shepherdsBush_fara.php",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5046162,-0.2204417"
+  },
+  {
+    "id": "node_8663744312",
+    "name": "Mind",
+    "lat": 51.5046108,
+    "lon": -0.2203611,
+    "type": "charity",
+    "address": "82 Uxbridge Road",
+    "url": "https://www.mind.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5046108,-0.2203611"
+  },
+  {
+    "id": "node_8685885800",
+    "name": "Octavia Foundation",
+    "lat": 51.428664,
+    "lon": -0.1676489,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.428664,-0.1676489"
+  },
+  {
+    "id": "node_8685885804",
+    "name": "British Heart Foundation",
+    "lat": 51.4285189,
+    "lon": -0.1672839,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/tooting-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4285189,-0.1672839"
+  },
+  {
+    "id": "node_8707334317",
+    "name": "RSPCA",
+    "lat": 51.5030759,
+    "lon": -0.3166904,
+    "type": "charity",
+    "address": "127 Northfield Avenue",
+    "hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5030759,-0.3166904"
+  },
+  {
+    "id": "node_8736402871",
+    "name": "Eighty-Seven",
+    "lat": 51.5625682,
+    "lon": -0.1007967,
+    "type": "antique",
+    "address": "87 Blackstock Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5625682,-0.1007967"
+  },
+  {
+    "id": "node_8754377561",
+    "name": "The Vintage Exchange",
+    "lat": 51.4209123,
+    "lon": -0.1607504,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4209123,-0.1607504"
+  },
+  {
+    "id": "node_8755262307",
+    "name": "Wandsworth Oasis",
+    "lat": 51.4215116,
+    "lon": -0.1607695,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4215116,-0.1607695"
+  },
+  {
+    "id": "node_8812961603",
+    "name": "Antiques",
+    "lat": 51.4669743,
+    "lon": -0.2168277,
+    "type": "antique",
+    "address": "31 Lower Richmond Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4669743,-0.2168277"
+  },
+  {
+    "id": "node_8821714315",
+    "name": "Octavia Foundation",
+    "lat": 51.5039394,
+    "lon": -0.2437338,
+    "type": "charity",
+    "address": "76 Askew Road",
+    "url": "https://www.octaviafoundation.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5039394,-0.2437338"
+  },
+  {
+    "id": "node_8942055113",
+    "name": "British Heart Foundation",
+    "lat": 51.655623,
+    "lon": -0.2020492,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/barnet-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.655623,-0.2020492"
+  },
+  {
+    "id": "node_8942310295",
+    "name": "Mind",
+    "lat": 51.6537513,
+    "lon": -0.0918711,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6537513,-0.0918711"
+  },
+  {
+    "id": "node_8946352065",
+    "name": "Cancer Research UK",
+    "lat": 51.3637728,
+    "lon": -0.1935518,
+    "type": "charity",
+    "hours": "Mo-Sa 09:00-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3637728,-0.1935518"
+  },
+  {
+    "id": "node_8946509225",
+    "name": "Princess Alice Hospice",
+    "lat": 51.3670653,
+    "lon": -0.1944431,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3670653,-0.1944431"
+  },
+  {
+    "id": "node_8946509227",
+    "name": "St Rafael's Hospice (Shop)",
+    "lat": 51.3664084,
+    "lon": -0.194241,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3664084,-0.194241"
+  },
+  {
+    "id": "node_8946723806",
+    "name": "Vineyard Charity Shop",
+    "lat": 51.4575085,
+    "lon": -0.3034582,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4575085,-0.3034582"
+  },
+  {
+    "id": "node_8950107774",
+    "name": "Crazy Jane Antiques and Interiors",
+    "lat": 51.4972216,
+    "lon": -0.2316175,
+    "type": "antique",
+    "address": "112 Brackenbury Road",
+    "url": "http://crazyjaneantiquesandinteriors.com/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4972216,-0.2316175"
+  },
+  {
+    "id": "node_9021743868",
+    "name": "Trinity Hospice",
+    "lat": 51.4999405,
+    "lon": -0.2222632,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4999405,-0.2222632"
+  },
+  {
+    "id": "node_9033769853",
+    "name": "British Red Cross",
+    "lat": 51.4978089,
+    "lon": -0.2227038,
+    "type": "charity",
+    "address": "152 Shepherds Bush Road",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/hammersmith",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4978089,-0.2227038"
+  },
+  {
+    "id": "node_9053341237",
+    "name": "Princess Alice Hospice",
+    "lat": 51.3916525,
+    "lon": -0.3082083,
+    "type": "charity",
+    "address": "Victoria Road",
+    "hours": "Mo-Sa 10:00-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3916525,-0.3082083"
+  },
+  {
+    "id": "node_9131016377",
+    "name": "Marshall",
+    "lat": 51.4995226,
+    "lon": -0.2158575,
+    "type": "antique",
+    "address": "67 Masbro' Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4995226,-0.2158575"
+  },
+  {
+    "id": "node_9156280469",
+    "name": "Princess Alice Hospice",
+    "lat": 51.4704845,
+    "lon": -0.3557955,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4704845,-0.3557955"
+  },
+  {
+    "id": "node_9241603714",
+    "name": "Geranium",
+    "lat": 51.5481532,
+    "lon": -0.2222706,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5481532,-0.2222706"
+  },
+  {
+    "id": "node_9330500357",
+    "name": "British Heart Foundation",
+    "lat": 51.3789976,
+    "lon": -0.2421996,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/worcester-park-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3789976,-0.2421996"
+  },
+  {
+    "id": "node_9330501970",
+    "name": "Princess Alice Hospice",
+    "lat": 51.4109811,
+    "lon": -0.3064653,
+    "type": "charity",
+    "address": "Clarence Street",
+    "hours": "Mo-Sa 10:00-17:30; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4109811,-0.3064653"
+  },
+  {
+    "id": "node_9405520528",
+    "name": "The Village Antiques & Interiors",
+    "lat": 51.5944327,
+    "lon": -0.380356,
+    "type": "antique",
+    "address": "37 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5944327,-0.380356"
+  },
+  {
+    "id": "node_9405520537",
+    "name": "Mary's Living & Giving Shop",
+    "lat": 51.5940078,
+    "lon": -0.3817709,
+    "type": "charity",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5940078,-0.3817709"
+  },
+  {
+    "id": "node_9420520564",
+    "name": "Paul's Antiques Emporium",
+    "lat": 51.5483291,
+    "lon": -0.1277344,
+    "type": "antique",
+    "address": "386 York Way",
+    "url": "https://islingtonantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5483291,-0.1277344"
+  },
+  {
+    "id": "node_9443376947",
+    "name": "The Well Charity Shop",
+    "lat": 51.481499,
+    "lon": -0.025604,
+    "type": "charity",
+    "address": "1 Creek Road",
+    "hours": "Tu-Fr 09:30-16:00; Sa 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.481499,-0.025604"
+  },
+  {
+    "id": "node_9495507605",
+    "name": "Up Market",
+    "lat": 51.4996666,
+    "lon": -0.0524845,
+    "type": "charity",
+    "hours": "Tu-Sa 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4996666,-0.0524845"
+  },
+  {
+    "id": "node_9575411675",
+    "name": "Tracy's Treasures",
+    "lat": 51.5490556,
+    "lon": -0.1292855,
+    "type": "charity",
+    "address": "229a Camden Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5490556,-0.1292855"
+  },
+  {
+    "id": "node_9594279780",
+    "name": "Last Chance Animal Rescue",
+    "lat": 51.3902077,
+    "lon": 0.0505422,
+    "type": "charity",
+    "address": "213 Southborough Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3902077,0.0505422"
+  },
+  {
+    "id": "node_9607793869",
+    "name": "British Red Cross",
+    "lat": 51.4625749,
+    "lon": -0.0104737,
+    "type": "charity",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/lewisham",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4625749,-0.0104737"
+  },
+  {
+    "id": "node_9607793871",
+    "name": "British Heart Foundation",
+    "lat": 51.4624863,
+    "lon": -0.0104718,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-18:00; Su 11:00-17:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/lewisham-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4624863,-0.0104718"
+  },
+  {
+    "id": "node_9620351979",
+    "name": "North London Hospice",
+    "lat": 51.5910818,
+    "lon": -0.1043279,
+    "type": "charity",
+    "address": "High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5910818,-0.1043279"
+  },
+  {
+    "id": "node_9683179638",
+    "name": "British Heart Foundation",
+    "lat": 51.54465,
+    "lon": -0.1764478,
+    "type": "charity",
+    "address": "6 Harben Parade",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/swiss-cottage-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.54465,-0.1764478"
+  },
+  {
+    "id": "node_9785296455",
+    "name": "KLASP",
+    "lat": 51.6524121,
+    "lon": -0.0860305,
+    "type": "charity",
+    "address": "Church Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6524121,-0.0860305"
+  },
+  {
+    "id": "node_9787466888",
+    "name": "Scope",
+    "lat": 51.5068669,
+    "lon": -0.2682558,
+    "type": "charity",
+    "address": "88 High Street",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5068669,-0.2682558"
+  },
+  {
+    "id": "node_9796268626",
+    "name": "Cape",
+    "lat": 51.5085846,
+    "lon": -0.2654611,
+    "type": "charity",
+    "address": "Churchfield Road",
+    "url": "https://capeproject.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5085846,-0.2654611"
+  },
+  {
+    "id": "node_9813277140",
+    "name": "Charity Shop",
+    "lat": 51.4990368,
+    "lon": -0.3062638,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4990368,-0.3062638"
+  },
+  {
+    "id": "node_9828301822",
+    "name": "Shelter Boutique",
+    "lat": 51.5455823,
+    "lon": -0.1784808,
+    "type": "charity",
+    "address": "Finchley Road",
+    "url": "https://england.shelter.org.uk/support_us/shops/finchley_road_boutique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5455823,-0.1784808"
+  },
+  {
+    "id": "node_9851594585",
+    "name": "St Christopher's Hospice",
+    "lat": 51.3890452,
+    "lon": 0.0755805,
+    "type": "charity",
+    "address": "Station Square",
+    "url": "https://www.stchristophers.org.uk/shop/petts-wood-2/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3890452,0.0755805"
+  },
+  {
+    "id": "node_9920671120",
+    "name": "Debra Charity Shop",
+    "lat": 51.4863113,
+    "lon": 0.0081716,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4863113,0.0081716"
+  },
+  {
+    "id": "node_9979583129",
+    "name": "Demelza",
+    "lat": 51.3756985,
+    "lon": -0.0149853,
+    "type": "charity",
+    "address": "5 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3756985,-0.0149853"
+  },
+  {
+    "id": "node_9979583135",
+    "name": "The Salvation Army",
+    "lat": 51.3757823,
+    "lon": -0.0155095,
+    "type": "charity",
+    "address": "17 High Street",
+    "url": "https://www.salvationarmy.org.uk/west-wickham-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3757823,-0.0155095"
+  },
+  {
+    "id": "node_9979583151",
+    "name": "Oxfam",
+    "lat": 51.3760775,
+    "lon": -0.0173565,
+    "type": "charity",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-west-wickham/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3760775,-0.0173565"
+  },
+  {
+    "id": "node_9979583158",
+    "name": "Sense",
+    "lat": 51.3762276,
+    "lon": -0.0178959,
+    "type": "charity",
+    "address": "61 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3762276,-0.0178959"
+  },
+  {
+    "id": "node_9979753899",
+    "name": "St Christopher's",
+    "lat": 51.3764735,
+    "lon": -0.01796,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3764735,-0.01796"
+  },
+  {
+    "id": "node_9979753901",
+    "name": "Cancer Research UK",
+    "lat": 51.3764356,
+    "lon": -0.0178222,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3764356,-0.0178222"
+  },
+  {
+    "id": "node_9979753912",
+    "name": "Mind",
+    "lat": 51.3761605,
+    "lon": -0.0167245,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3761605,-0.0167245"
+  },
+  {
+    "id": "node_10056572725",
+    "name": "Columbia Antiques",
+    "lat": 51.5292291,
+    "lon": -0.0694493,
+    "type": "antique",
+    "address": "132 Columbia Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5292291,-0.0694493"
+  },
+  {
+    "id": "node_10056572744",
+    "name": "H.M. Jones",
+    "lat": 51.5289495,
+    "lon": -0.0699045,
+    "type": "antique",
+    "address": "114 Columbia Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5289495,-0.0699045"
+  },
+  {
+    "id": "node_10080857486",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.5349749,
+    "lon": -0.1047617,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5349749,-0.1047617"
+  },
+  {
+    "id": "node_10084913966",
+    "name": "British Heart Foundation",
+    "lat": 51.4692105,
+    "lon": -0.3610697,
+    "type": "charity",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/hounslow-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4692105,-0.3610697"
+  },
+  {
+    "id": "node_10084962653",
+    "name": "Cancer Research UK",
+    "lat": 51.4695005,
+    "lon": -0.3587323,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4695005,-0.3587323"
+  },
+  {
+    "id": "node_10095832983",
+    "name": "British Heart Foundation",
+    "lat": 51.490988,
+    "lon": 0.0681793,
+    "type": "charity",
+    "address": "10 Powis Street",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/woolwich-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.490988,0.0681793"
+  },
+  {
+    "id": "node_10095833230",
+    "name": "Age UK",
+    "lat": 51.4921213,
+    "lon": 0.0644953,
+    "type": "charity",
+    "url": "https://directory.ageuk.org.uk/charity-shops/age-uk-shop-woolwich/woolwich",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4921213,0.0644953"
+  },
+  {
+    "id": "node_10095833243",
+    "name": "British Heart Foundation",
+    "lat": 51.4930865,
+    "lon": 0.0639299,
+    "type": "charity",
+    "address": "36-42 Hare Street",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/woolwich-furniture-electrical-store",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4930865,0.0639299"
+  },
+  {
+    "id": "node_10126022008",
+    "name": "St Christopher's",
+    "lat": 51.3436032,
+    "lon": -0.062178,
+    "type": "charity",
+    "address": "162 Addington Road",
+    "hours": "Mo-Sa 09:00-17:00",
+    "url": "https://www.stchristophers.org.uk/shop/selsdon/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3436032,-0.062178"
+  },
+  {
+    "id": "node_10151546996",
+    "name": "Junk N8 Disorderly",
+    "lat": 51.5823892,
+    "lon": -0.1270712,
+    "type": "antique",
+    "address": "Park Road",
+    "hours": "Mo off; Tu-Sa 10:00-17:30; Su 12:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5823892,-0.1270712"
+  },
+  {
+    "id": "node_10157358132",
+    "name": "Ellenor",
+    "lat": 51.4509648,
+    "lon": 0.179205,
+    "type": "charity",
+    "address": "Crayford Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4509648,0.179205"
+  },
+  {
+    "id": "node_10160111007",
+    "name": "Cherry Lodge Cancer Care",
+    "lat": 51.6535249,
+    "lon": -0.2017061,
+    "type": "charity",
+    "hours": "Mo-Sa 09:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6535249,-0.2017061"
+  },
+  {
+    "id": "node_10160111008",
+    "name": "All Aboard",
+    "lat": 51.6539066,
+    "lon": -0.2017021,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6539066,-0.2017021"
+  },
+  {
+    "id": "node_10160111011",
+    "name": "Age UK",
+    "lat": 51.6540499,
+    "lon": -0.2017191,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6540499,-0.2017191"
+  },
+  {
+    "id": "node_10160111012",
+    "name": "Cancer Research UK",
+    "lat": 51.6541018,
+    "lon": -0.2017189,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6541018,-0.2017189"
+  },
+  {
+    "id": "node_10166945325",
+    "name": "Age UK",
+    "lat": 51.5176326,
+    "lon": 0.012718,
+    "type": "charity",
+    "address": "140 Barking Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5176326,0.012718"
+  },
+  {
+    "id": "node_10172071576",
+    "name": "Gratitude",
+    "lat": 51.6553501,
+    "lon": -0.20244,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6553501,-0.20244"
+  },
+  {
+    "id": "node_10187060450",
+    "name": "Mercy 2 The World",
+    "lat": 51.5252364,
+    "lon": 0.014259,
+    "type": "charity",
+    "address": "240 Grange Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5252364,0.014259"
+  },
+  {
+    "id": "node_10236147309",
+    "name": "Barnardo's",
+    "lat": 51.4508953,
+    "lon": 0.05287,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4508953,0.05287"
+  },
+  {
+    "id": "node_10241185549",
+    "name": "Cancer Research UK",
+    "lat": 51.5139286,
+    "lon": -0.301322,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-18:00; Su 10:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5139286,-0.301322"
+  },
+  {
+    "id": "node_10253435768",
+    "name": "Greenwich & Bexley Community Hospice",
+    "lat": 51.4767198,
+    "lon": 0.019261,
+    "type": "charity",
+    "address": "5 Stratheden Parade",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "url": "https://communityhospice.org.uk/shops/blackheath/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4767198,0.019261"
+  },
+  {
+    "id": "node_10253435782",
+    "name": "Cats Protection",
+    "lat": 51.4767071,
+    "lon": 0.021265,
+    "type": "charity",
+    "address": "18 Old Dover Road",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+    "url": "https://www.cats.org.uk/greenwich",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4767071,0.021265"
+  },
+  {
+    "id": "node_10253435796",
+    "name": "British Red Cross",
+    "lat": 51.4768759,
+    "lon": 0.018483,
+    "type": "charity",
+    "address": "46 Vanbrugh Park",
+    "hours": "Mo-Sa 09:00-17:00",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/greenwich",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4768759,0.018483"
+  },
+  {
+    "id": "node_10253439658",
+    "name": "Alex TLC",
+    "lat": 51.484797,
+    "lon": 0.0038017,
+    "type": "charity",
+    "address": "154-156 Trafalgar Road",
+    "hours": "Mo-Sa 09:30-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.484797,0.0038017"
+  },
+  {
+    "id": "node_10253439659",
+    "name": "Clothes For Causes",
+    "lat": 51.4848291,
+    "lon": 0.0039079,
+    "type": "charity",
+    "address": "158 Trafalgar Road",
+    "url": "https://clothesforcauses.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4848291,0.0039079"
+  },
+  {
+    "id": "node_10253439679",
+    "name": "Greenwich & Bexley Cottage Hospice",
+    "lat": 51.4859098,
+    "lon": 0.0070098,
+    "type": "charity",
+    "address": "Trafalgar Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4859098,0.0070098"
+  },
+  {
+    "id": "node_10253519319",
+    "name": "The Junk Shop",
+    "lat": 51.4776832,
+    "lon": -0.0119907,
+    "type": "antique",
+    "address": "9 Greenwich South Street",
+    "hours": "Mo-Fr 07:00-16:00; Sa 08:00-15:00; Su 09:00-15:00",
+    "url": "https://junkshopandspreadeagleantiques.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4776832,-0.0119907"
+  },
+  {
+    "id": "node_10259290098",
+    "name": "British Heart Foundation",
+    "lat": 51.4589498,
+    "lon": -0.0120797,
+    "type": "charity",
+    "hours": "Mo-Sa 09:30-18:00; Su 11:00-17:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/lewisham-furniture-electrical-store",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4589498,-0.0120797"
+  },
+  {
+    "id": "node_10261263854",
+    "name": "Sense",
+    "lat": 51.5933604,
+    "lon": -0.0694771,
+    "type": "charity",
+    "address": "484 High Road",
+    "hours": "Mo-Sa 09:00-18:00; Su off",
+    "url": "https://www.sense.org.uk/shops/tottenham/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5933604,-0.0694771"
+  },
+  {
+    "id": "node_10266440604",
+    "name": "Rare Books & Curios",
+    "lat": 51.4817129,
+    "lon": -0.0089302,
+    "type": "antique",
+    "address": "8",
+    "hours": "We-Su 11:00-17:30",
+    "url": "https://www.rarebooksandcurios.co.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4817129,-0.0089302"
+  },
+  {
+    "id": "node_10280308611",
+    "name": "Oxfam",
+    "lat": 51.4669911,
+    "lon": 0.0073022,
+    "type": "charity",
+    "address": "68 Tranquil Vale",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-15:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-blackheath/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4669911,0.0073022"
+  },
+  {
+    "id": "node_10280308649",
+    "name": "Mary's Living and Giving Shop",
+    "lat": 51.4665744,
+    "lon": 0.0087121,
+    "type": "charity",
+    "address": "Montpelier Vale",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4665744,0.0087121"
+  },
+  {
+    "id": "node_10280308651",
+    "name": "Cancer Research UK",
+    "lat": 51.4664841,
+    "lon": 0.0087254,
+    "type": "charity",
+    "address": "Montpelier Vale",
+    "hours": "Mo-Sa 09:00-17:30; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4664841,0.0087254"
+  },
+  {
+    "id": "node_10280308659",
+    "name": "Boutique by Shelter",
+    "lat": 51.4661664,
+    "lon": 0.0090045,
+    "type": "charity",
+    "address": "24 Tranquil Vale",
+    "hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
+    "url": "https://england.shelter.org.uk/support_us/shops/blackheath_boutique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4661664,0.0090045"
+  },
+  {
+    "id": "node_10293742365",
+    "name": "All Aboard",
+    "lat": 51.6143337,
+    "lon": -0.1769492,
+    "type": "charity",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6143337,-0.1769492"
+  },
+  {
+    "id": "node_10308926046",
+    "name": "Newham Welfare Trust",
+    "lat": 51.5266026,
+    "lon": 0.0306483,
+    "type": "charity",
+    "address": "Barking Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5266026,0.0306483"
+  },
+  {
+    "id": "node_10309025347",
+    "name": "Hefazothe Islam UK",
+    "lat": 51.5255215,
+    "lon": 0.0289282,
+    "type": "charity",
+    "address": "534 Barking Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5255215,0.0289282"
+  },
+  {
+    "id": "node_10315043334",
+    "name": "Cancer Research UK",
+    "lat": 51.4037601,
+    "lon": 0.0149375,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4037601,0.0149375"
+  },
+  {
+    "id": "node_10537130534",
+    "name": "Traid",
+    "lat": 51.4612751,
+    "lon": -0.0099866,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4612751,-0.0099866"
+  },
+  {
+    "id": "node_10542979018",
+    "name": "Vintiques of Surrey",
+    "lat": 51.3252385,
+    "lon": -0.0999031,
+    "type": "antique",
+    "address": "Station Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3252385,-0.0999031"
+  },
+  {
+    "id": "node_10554296996",
+    "name": "Minerva Antiques",
+    "lat": 51.4758821,
+    "lon": -0.0103841,
+    "type": "antique",
+    "address": "Royal Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4758821,-0.0103841"
+  },
+  {
+    "id": "node_10557816977",
+    "name": "Demelza",
+    "lat": 51.3895446,
+    "lon": 0.0744031,
+    "type": "charity",
+    "address": "22 Station Square",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3895446,0.0744031"
+  },
+  {
+    "id": "node_10569084951",
+    "name": "Nekh Foundation",
+    "lat": 51.539833,
+    "lon": 0.1013973,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.539833,0.1013973"
+  },
+  {
+    "id": "node_10582631407",
+    "name": "British Heart Foundation",
+    "lat": 51.5614732,
+    "lon": 0.0693202,
+    "type": "charity",
+    "address": "100 Cranbrook Road",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/ilford-furniture-electrical-store",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5614732,0.0693202"
+  },
+  {
+    "id": "node_10586306216",
+    "name": "Islamic Help",
+    "lat": 51.5565627,
+    "lon": 0.0758317,
+    "type": "charity",
+    "address": "Albert Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5565627,0.0758317"
+  },
+  {
+    "id": "node_10592220449",
+    "name": "Friends Lounge",
+    "lat": 51.6195392,
+    "lon": -0.1067278,
+    "type": "charity",
+    "address": "Green Lanes",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6195392,-0.1067278"
+  },
+  {
+    "id": "node_10604163820",
+    "name": "The Salvation Army",
+    "lat": 51.5595751,
+    "lon": 0.0769163,
+    "type": "charity",
+    "address": "208-210 High Road",
+    "url": "https://www.salvationarmy.org.uk/ilford-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5595751,0.0769163"
+  },
+  {
+    "id": "node_10655614169",
+    "name": "St Luke's",
+    "lat": 51.6056962,
+    "lon": -0.3404933,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6056962,-0.3404933"
+  },
+  {
+    "id": "node_10655818429",
+    "name": "St Luke's",
+    "lat": 51.6057665,
+    "lon": -0.340493,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6057665,-0.340493"
+  },
+  {
+    "id": "node_10678662635",
+    "name": "Age UK",
+    "lat": 51.6139051,
+    "lon": -0.1759421,
+    "type": "charity",
+    "address": "High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6139051,-0.1759421"
+  },
+  {
+    "id": "node_10678662636",
+    "name": "British Heart Foundation",
+    "lat": 51.6139595,
+    "lon": -0.1759613,
+    "type": "charity",
+    "address": "High Road",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/finchley-north-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6139595,-0.1759613"
+  },
+  {
+    "id": "node_10678662639",
+    "name": "North London Hospice",
+    "lat": 51.6141227,
+    "lon": -0.1760187,
+    "type": "charity",
+    "address": "High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6141227,-0.1760187"
+  },
+  {
+    "id": "node_10678662644",
+    "name": "RSPCA",
+    "lat": 51.6144886,
+    "lon": -0.1761474,
+    "type": "charity",
+    "address": "High Road",
+    "hours": "Mo-Sa 09:30-17:15; Su 10:30-16:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6144886,-0.1761474"
+  },
+  {
+    "id": "node_10709394362",
+    "name": "Mind",
+    "lat": 51.5501098,
+    "lon": -0.1648237,
+    "type": "charity",
+    "address": "Haverstock Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5501098,-0.1648237"
+  },
+  {
+    "id": "node_10728654752",
+    "name": "Cancer Research UK",
+    "lat": 51.589116,
+    "lon": 0.0808949,
+    "type": "charity",
+    "address": "3/19 High Street",
+    "hours": "Mo-Sa 09:00-17:30; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.589116,0.0808949"
+  },
+  {
+    "id": "node_10745161074",
+    "name": "British Heart Foundation",
+    "lat": 51.4951338,
+    "lon": -0.0469686,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4951338,-0.0469686"
+  },
+  {
+    "id": "node_10783320760",
+    "name": "Sense",
+    "lat": 51.591249,
+    "lon": 0.0833511,
+    "type": "charity",
+    "address": "106 High Street",
+    "hours": "Mo-Sa 10:00-17:00; Su closed",
+    "url": "https://www.sense.org.uk",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.591249,0.0833511"
+  },
+  {
+    "id": "node_10783333809",
+    "name": "Group Of Good Deeds",
+    "lat": 51.5918241,
+    "lon": 0.0837058,
+    "type": "charity",
+    "address": "124 High Street",
+    "url": "https://www.ggd-charity.org",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5918241,0.0837058"
+  },
+  {
+    "id": "node_10783444525",
+    "name": "Scope",
+    "lat": 51.5926693,
+    "lon": 0.0837591,
+    "type": "charity",
+    "address": "151 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5926693,0.0837591"
+  },
+  {
+    "id": "node_10783444533",
+    "name": "Saint Francis Hospice Limited",
+    "lat": 51.5920703,
+    "lon": 0.0833429,
+    "type": "charity",
+    "address": "127-131 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5920703,0.0833429"
+  },
+  {
+    "id": "node_10807941719",
+    "name": "Antiques on Windmill Row",
+    "lat": 51.487243,
+    "lon": -0.1118587,
+    "type": "antique",
+    "address": "6 Windmill Row",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.487243,-0.1118587"
+  },
+  {
+    "id": "node_10816446491",
+    "name": "Debra",
+    "lat": 51.3668791,
+    "lon": -0.3064866,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3668791,-0.3064866"
+  },
+  {
+    "id": "node_10856437111",
+    "name": "Shelter",
+    "lat": 51.4810532,
+    "lon": -0.0087721,
+    "type": "charity",
+    "address": "6 Nelson Road",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://england.shelter.org.uk/support_us/shops/greenwich_boutique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4810532,-0.0087721"
+  },
+  {
+    "id": "node_10865509134",
+    "name": "Cancer Research UK",
+    "lat": 51.5599244,
+    "lon": 0.0701142,
+    "type": "charity",
+    "address": "36 Cranbrook Road",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/ilford",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5599244,0.0701142"
+  },
+  {
+    "id": "node_10974526271",
+    "name": "Marie Curie",
+    "lat": 51.4508799,
+    "lon": 0.0532812,
+    "type": "charity",
+    "url": "https://www.mariecurie.org.uk/local/charity-shops/eltham",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4508799,0.0532812"
+  },
+  {
+    "id": "node_10974526284",
+    "name": "Greenwich & Bexley Community Hospice",
+    "lat": 51.4508977,
+    "lon": 0.0567009,
+    "type": "charity",
+    "address": "163 Eltham High Street",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "url": "https://www.communityhospice.org.uk/support-us/charity-shops/our-locations/eltham/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4508977,0.0567009"
+  },
+  {
+    "id": "node_10974526289",
+    "name": "Demelza",
+    "lat": 51.4509453,
+    "lon": 0.0595723,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4509453,0.0595723"
+  },
+  {
+    "id": "node_10992811099",
+    "name": "Emmaus",
+    "lat": 51.4595331,
+    "lon": -0.0115766,
+    "type": "charity",
+    "url": "https://emmaus.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4595331,-0.0115766"
+  },
+  {
+    "id": "node_10995777567",
+    "name": "Stock Shop",
+    "lat": 51.389147,
+    "lon": -0.1110093,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.389147,-0.1110093"
+  },
+  {
+    "id": "node_11021773409",
+    "name": "Samaritans",
+    "lat": 51.5480107,
+    "lon": -0.2236581,
+    "type": "charity",
+    "hours": "Mo-Fr 10:00-19:00, Sa 10:00-05:00, Su 11:00-04:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5480107,-0.2236581"
+  },
+  {
+    "id": "node_11023373834",
+    "name": "Holy Cross",
+    "lat": 51.4458508,
+    "lon": -0.0179757,
+    "type": "charity",
+    "address": "4 Brownhill Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4458508,-0.0179757"
+  },
+  {
+    "id": "node_11030717179",
+    "name": "Scope",
+    "lat": 51.4627828,
+    "lon": -0.167792,
+    "type": "charity",
+    "address": "34 St John's Rd",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4627828,-0.167792"
+  },
+  {
+    "id": "node_11051726692",
+    "name": "Cancer Research UK",
+    "lat": 51.4610482,
+    "lon": -0.0103345,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4610482,-0.0103345"
+  },
+  {
+    "id": "node_11063461285",
+    "name": "Cats Protection",
+    "lat": 51.6035374,
+    "lon": -0.1908531,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6035374,-0.1908531"
+  },
+  {
+    "id": "node_11063868076",
+    "name": "Scope",
+    "lat": 51.4620959,
+    "lon": -0.0093577,
+    "type": "charity",
+    "address": "7 Lewis Grove",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4620959,-0.0093577"
+  },
+  {
+    "id": "node_11064397471",
+    "name": "Barnardo's",
+    "lat": 51.4255717,
+    "lon": -0.004769,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4255717,-0.004769"
+  },
+  {
+    "id": "node_11064397488",
+    "name": "Sense",
+    "lat": 51.4246427,
+    "lon": -0.0043385,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4246427,-0.0043385"
+  },
+  {
+    "id": "node_11064397495",
+    "name": "St Christopher's",
+    "lat": 51.424008,
+    "lon": -0.0033568,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.424008,-0.0033568"
+  },
+  {
+    "id": "node_11066413595",
+    "name": "Oxfam",
+    "lat": 51.4010054,
+    "lon": 0.0168926,
+    "type": "charity",
+    "address": "27-29 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4010054,0.0168926"
+  },
+  {
+    "id": "node_11068172938",
+    "name": "Bromley Well",
+    "lat": 51.4066965,
+    "lon": 0.017268,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4066965,0.017268"
+  },
+  {
+    "id": "node_11068172939",
+    "name": "BTSE",
+    "lat": 51.406688,
+    "lon": 0.0169765,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.406688,0.0169765"
+  },
+  {
+    "id": "node_11068172940",
+    "name": "Deaf Plus",
+    "lat": 51.4066164,
+    "lon": 0.0169971,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4066164,0.0169971"
+  },
+  {
+    "id": "node_11068172941",
+    "name": "Relate",
+    "lat": 51.4067968,
+    "lon": 0.0172386,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4067968,0.0172386"
+  },
+  {
+    "id": "node_11068172942",
+    "name": "Community Links",
+    "lat": 51.4067595,
+    "lon": 0.0169559,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4067595,0.0169559"
+  },
+  {
+    "id": "node_11068172943",
+    "name": "Citizens Advice",
+    "lat": 51.4065843,
+    "lon": 0.0173008,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4065843,0.0173008"
+  },
+  {
+    "id": "node_11068172944",
+    "name": "Age UK",
+    "lat": 51.4065574,
+    "lon": 0.0170141,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4065574,0.0170141"
+  },
+  {
+    "id": "node_11171527380",
+    "name": "Harlington Hospice",
+    "lat": 51.5083803,
+    "lon": -0.4731445,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5083803,-0.4731445"
+  },
+  {
+    "id": "node_11186169757",
+    "name": "Crisis",
+    "lat": 51.4730711,
+    "lon": -0.0929648,
+    "type": "charity",
+    "hours": "Mo-Sa 10:30-18:30; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4730711,-0.0929648"
+  },
+  {
+    "id": "node_11197698784",
+    "name": "Ada & Albert",
+    "lat": 51.4043068,
+    "lon": 0.0168754,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4043068,0.0168754"
+  },
+  {
+    "id": "node_11200000898",
+    "name": "Scope",
+    "lat": 51.5065088,
+    "lon": -0.4192306,
+    "type": "charity",
+    "address": "Station Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5065088,-0.4192306"
+  },
+  {
+    "id": "node_11218852358",
+    "name": "St Raphael's Hospice (Shop)",
+    "lat": 51.365036,
+    "lon": -0.1927822,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.365036,-0.1927822"
+  },
+  {
+    "id": "node_11234794415",
+    "name": "British Red Cross Furinture & Electrical",
+    "lat": 51.4826718,
+    "lon": -0.2005309,
+    "type": "charity",
+    "address": "320 North End Road",
+    "hours": "Mo-Sa 10:00-18:00, Su 11:00-16:00",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/fulham-furniture-and-electrical",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4826718,-0.2005309"
+  },
+  {
+    "id": "node_11359775070",
+    "name": "House of Grace",
+    "lat": 51.5387739,
+    "lon": -0.0764755,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5387739,-0.0764755"
+  },
+  {
+    "id": "node_11359775170",
+    "name": "Crisis",
+    "lat": 51.5483625,
+    "lon": -0.0752082,
+    "type": "charity",
+    "address": "Kingsland High Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5483625,-0.0752082"
+  },
+  {
+    "id": "node_11378166456",
+    "name": "The Antique Paper Company",
+    "lat": 51.5345831,
+    "lon": -0.103673,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5345831,-0.103673"
+  },
+  {
+    "id": "node_11378166468",
+    "name": "Style Gallery",
+    "lat": 51.5345449,
+    "lon": -0.1036047,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5345449,-0.1036047"
+  },
+  {
+    "id": "node_11378228123",
+    "name": "Posh Totty",
+    "lat": 51.5353126,
+    "lon": -0.1035446,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5353126,-0.1035446"
+  },
+  {
+    "id": "node_11378228132",
+    "name": "David Griffith",
+    "lat": 51.5347971,
+    "lon": -0.1040193,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5347971,-0.1040193"
+  },
+  {
+    "id": "node_11378264770",
+    "name": "Himiko",
+    "lat": 51.5345019,
+    "lon": -0.1037252,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5345019,-0.1037252"
+  },
+  {
+    "id": "node_11378264771",
+    "name": "Honey Tilley",
+    "lat": 51.5345192,
+    "lon": -0.1037735,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5345192,-0.1037735"
+  },
+  {
+    "id": "node_11378264773",
+    "name": "Christina's Antique Boxes",
+    "lat": 51.5345622,
+    "lon": -0.1038938,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5345622,-0.1038938"
+  },
+  {
+    "id": "node_11378264774",
+    "name": "Pierrepont Arcade",
+    "lat": 51.53456,
+    "lon": -0.103955,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.53456,-0.103955"
+  },
+  {
+    "id": "node_11378264775",
+    "name": "Dreamtime",
+    "lat": 51.5345645,
+    "lon": -0.1037575,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5345645,-0.1037575"
+  },
+  {
+    "id": "node_11383287769",
+    "name": "British Heart Foundation",
+    "lat": 51.4350101,
+    "lon": -0.1284637,
+    "type": "charity",
+    "address": "Streatham High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4350101,-0.1284637"
+  },
+  {
+    "id": "node_11383287772",
+    "name": "Fara",
+    "lat": 51.4348524,
+    "lon": -0.1284785,
+    "type": "charity",
+    "address": "Streatham High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4348524,-0.1284785"
+  },
+  {
+    "id": "node_11398876275",
+    "name": "Oxfam",
+    "lat": 51.4006814,
+    "lon": -0.2556134,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4006814,-0.2556134"
+  },
+  {
+    "id": "node_11398876281",
+    "name": "Princess Alice",
+    "lat": 51.4011294,
+    "lon": -0.2557553,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4011294,-0.2557553"
+  },
+  {
+    "id": "node_11398958822",
+    "name": "St Christophers",
+    "lat": 51.3881433,
+    "lon": 0.0732735,
+    "type": "charity",
+    "address": "73 Queensway",
+    "url": "https://www.stchristophers.org.uk/shop/petts-wood/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3881433,0.0732735"
+  },
+  {
+    "id": "node_11398958833",
+    "name": "Romney House Cat Rescue",
+    "lat": 51.3887472,
+    "lon": 0.072649,
+    "type": "charity",
+    "address": "93 Queensway",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3887472,0.072649"
+  },
+  {
+    "id": "node_11398976473",
+    "name": "Vintage",
+    "lat": 51.3894287,
+    "lon": 0.0719697,
+    "type": "antique",
+    "address": "115 Queensway",
+    "url": "https://vintageantiquespettswood.business.site/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3894287,0.0719697"
+  },
+  {
+    "id": "node_11398976474",
+    "name": "Sense",
+    "lat": 51.3894769,
+    "lon": 0.0719219,
+    "type": "charity",
+    "address": "117 Queensway",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3894769,0.0719219"
+  },
+  {
+    "id": "node_11414591419",
+    "name": "British Heart Foundation",
+    "lat": 51.5340676,
+    "lon": 0.0533733,
+    "type": "charity",
+    "address": "High Street North",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5340676,0.0533733"
+  },
+  {
+    "id": "node_11429425945",
+    "name": "Shelter",
+    "lat": 51.4305197,
+    "lon": -0.12987,
+    "type": "charity",
+    "address": "242 Streatham High Road",
+    "url": "https://england.shelter.org.uk/support_us/shops/streatham",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4305197,-0.12987"
+  },
+  {
+    "id": "node_11429425957",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.4339612,
+    "lon": -0.1285026,
+    "type": "charity",
+    "address": "Streatham High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4339612,-0.1285026"
+  },
+  {
+    "id": "node_11491832086",
+    "name": "Mary's Living And Giving Shop",
+    "lat": 51.4928691,
+    "lon": -0.2542592,
+    "type": "charity",
+    "hours": "Mo,Su 12:00-16:00; Tu-Sa 10:00-18:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4928691,-0.2542592"
+  },
+  {
+    "id": "node_11491832090",
+    "name": "The Old Cinema",
+    "lat": 51.492864,
+    "lon": -0.2546107,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.492864,-0.2546107"
+  },
+  {
+    "id": "node_11618654996",
+    "name": "St Christopher's",
+    "lat": 51.4362749,
+    "lon": -0.1275887,
+    "type": "charity",
+    "address": "Streatham High Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4362749,-0.1275887"
+  },
+  {
+    "id": "node_11664640214",
+    "name": "The Children's Society",
+    "lat": 51.3935209,
+    "lon": -0.3042194,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3935209,-0.3042194"
+  },
+  {
+    "id": "node_11751338201",
+    "name": "Vintique London",
+    "lat": 51.4755266,
+    "lon": -0.0562799,
+    "type": "antique",
+    "address": "Station Passage",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4755266,-0.0562799"
+  },
+  {
+    "id": "node_11783343084",
+    "name": "Mind",
+    "lat": 51.4916459,
+    "lon": -0.1389485,
+    "type": "charity",
+    "address": "28 Churton Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4916459,-0.1389485"
+  },
+  {
+    "id": "node_11808061374",
+    "name": "St Christopher's",
+    "lat": 51.4619006,
+    "lon": -0.0100447,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4619006,-0.0100447"
+  },
+  {
+    "id": "node_11850555531",
+    "name": "Fleming Antiques London",
+    "lat": 51.5424552,
+    "lon": -0.1491978,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5424552,-0.1491978"
+  },
+  {
+    "id": "node_11881022557",
+    "name": "Foal Farm Charity Shop",
+    "lat": 51.3137253,
+    "lon": 0.0292813,
+    "type": "charity",
+    "address": "2 Roundway",
+    "url": "https://www.foalfarm.org.uk/contact-us/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3137253,0.0292813"
+  },
+  {
+    "id": "node_11901222473",
+    "name": "North London Hospice",
+    "lat": 51.6332664,
+    "lon": -0.1313749,
+    "type": "charity",
+    "address": "71 Chase Side",
+    "hours": "Mo-Sa 09:15-17:15; Su 11:00-16:30",
+    "url": "https://northlondonhospice.org",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6332664,-0.1313749"
+  },
+  {
+    "id": "node_11952451328",
+    "name": "Mind",
+    "lat": 51.6137972,
+    "lon": -0.17709,
+    "type": "charity",
+    "address": "343 Ballards Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6137972,-0.17709"
+  },
+  {
+    "id": "node_11961111064",
+    "name": "TRAID",
+    "lat": 51.4725582,
+    "lon": -0.0699304,
+    "type": "charity",
+    "address": "16 Rye Lane",
+    "hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4725582,-0.0699304"
+  },
+  {
+    "id": "node_11999066647",
+    "name": "Sense",
+    "lat": 51.4722753,
+    "lon": -0.06961,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4722753,-0.06961"
+  },
+  {
+    "id": "node_12007863421",
+    "name": "Harrington Charity Shop",
+    "lat": 51.5873995,
+    "lon": -0.1195472,
+    "type": "charity",
+    "address": "44-46 High Street",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-16:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5873995,-0.1195472"
+  },
+  {
+    "id": "node_12083763575",
+    "name": "Old n Precious",
+    "lat": 51.4862727,
+    "lon": 0.0168658,
+    "type": "antique",
+    "address": "102 Woolwich Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4862727,0.0168658"
+  },
+  {
+    "id": "node_12123661115",
+    "name": "Crisis",
+    "lat": 51.4926542,
+    "lon": -0.2306901,
+    "type": "charity",
+    "address": "King Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "https://www.crisis.org.uk/shop/find-our-charity-shops/hammersmith/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4926542,-0.2306901"
+  },
+  {
+    "id": "node_12123661121",
+    "name": "Cancer Research UK",
+    "lat": 51.4924696,
+    "lon": -0.2301899,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4924696,-0.2301899"
+  },
+  {
+    "id": "node_12123661124",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.4924554,
+    "lon": -0.2296346,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4924554,-0.2296346"
+  },
+  {
+    "id": "node_12157593925",
+    "name": "PS Charity Shop",
+    "lat": 51.533934,
+    "lon": -0.2186872,
+    "type": "charity",
+    "address": "79 Chamberlayne Road",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "url": "http://www.ps-shop.org",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.533934,-0.2186872"
+  },
+  {
+    "id": "node_12175054201",
+    "name": "Faynuus Hope Community",
+    "lat": 51.5385511,
+    "lon": -0.2503029,
+    "type": "charity",
+    "address": "49 Craven Park Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5385511,-0.2503029"
+  },
+  {
+    "id": "node_12181700952",
+    "name": "Oxfam",
+    "lat": 51.614562,
+    "lon": -0.2759448,
+    "type": "charity",
+    "address": "Station Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.614562,-0.2759448"
+  },
+  {
+    "id": "node_12183867824",
+    "name": "Fara",
+    "lat": 51.3991975,
+    "lon": -0.2553616,
+    "type": "charity",
+    "url": "https://www.faracharity.org/shop/new-malden/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3991975,-0.2553616"
+  },
+  {
+    "id": "node_12206850319",
+    "name": "St Luke's Hospice",
+    "lat": 51.5482023,
+    "lon": -0.2230528,
+    "type": "charity",
+    "address": "21 Walm Lane",
+    "hours": "Mo-Sa 09:00-17:00; Su off",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5482023,-0.2230528"
+  },
+  {
+    "id": "node_12206850325",
+    "name": "Peaceful Solutions",
+    "lat": 51.5483963,
+    "lon": -0.2224362,
+    "type": "charity",
+    "address": "31 Walm Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5483963,-0.2224362"
+  },
+  {
+    "id": "node_12232978048",
+    "name": "Mind",
+    "lat": 51.5683267,
+    "lon": 0.0094058,
+    "type": "charity",
+    "address": "17 Church Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5683267,0.0094058"
+  },
+  {
+    "id": "node_12269207819",
+    "name": "Barnardo's",
+    "lat": 51.5799383,
+    "lon": -0.123185,
+    "type": "charity",
+    "address": "Tottenham Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5799383,-0.123185"
+  },
+  {
+    "id": "node_12286356684",
+    "name": "Cancer Research UK",
+    "lat": 51.6334002,
+    "lon": -0.1308399,
+    "type": "charity",
+    "address": "90 Chase Side",
+    "url": "https://www.cancerresearchuk.org/get-involved/find-a-shop/southgate",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6334002,-0.1308399"
+  },
+  {
+    "id": "node_12324716721",
+    "name": "Harrington Training Hub",
+    "lat": 51.587401,
+    "lon": -0.1196413,
+    "type": "charity",
+    "address": "44-46 High Street",
+    "hours": "Mo-Sa 09:30-17:00; Su 11:00-16:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.587401,-0.1196413"
+  },
+  {
+    "id": "node_12326841090",
+    "name": "Fight For Sight",
+    "lat": 51.5801129,
+    "lon": -0.1229948,
+    "type": "charity",
+    "address": "6 Tottenham Lane",
+    "hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
+    "url": "https://www.fightforsight.org.uk/our-shops/visit-our-shops/crouch-end/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5801129,-0.1229948"
+  },
+  {
+    "id": "node_12400278734",
+    "name": "Westland London",
+    "lat": 51.5471268,
+    "lon": -0.2249593,
+    "type": "antique",
+    "address": "295 Willesden Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5471268,-0.2249593"
+  },
+  {
+    "id": "node_12486827701",
+    "name": "Crisis",
+    "lat": 51.5841823,
+    "lon": -0.0235168,
+    "type": "charity",
+    "address": "201 High Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5841823,-0.0235168"
+  },
+  {
+    "id": "node_12556096151",
+    "name": "Oxfam",
+    "lat": 51.4617688,
+    "lon": -0.2164194,
+    "type": "charity",
+    "address": "149 Putney High Street",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-putney/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4617688,-0.2164194"
+  },
+  {
+    "id": "node_12569551413",
+    "name": "Crisis",
+    "lat": 51.4678814,
+    "lon": -0.0672264,
+    "type": "charity",
+    "address": "162 Rye Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4678814,-0.0672264"
+  },
+  {
+    "id": "node_12572476242",
+    "name": "Scope",
+    "lat": 51.4731418,
+    "lon": -0.0933408,
+    "type": "charity",
+    "address": "42 Denmark Hill",
+    "hours": "Mo-Fr 09:00-17:30;Sa 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4731418,-0.0933408"
+  },
+  {
+    "id": "node_12593552661",
+    "name": "British Heart Foundation",
+    "lat": 51.5451437,
+    "lon": -0.4776726,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5451437,-0.4776726"
+  },
+  {
+    "id": "node_12593552665",
+    "name": "Thames Hospice",
+    "lat": 51.5453772,
+    "lon": -0.4782375,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5453772,-0.4782375"
+  },
+  {
+    "id": "node_12609535065",
+    "name": "Fara",
+    "lat": 51.5509348,
+    "lon": -0.1651716,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5509348,-0.1651716"
+  },
+  {
+    "id": "node_12633147090",
+    "name": "Haven House",
+    "lat": 51.5799969,
+    "lon": -0.1234912,
+    "type": "charity",
+    "address": "15 Tottenham Lane",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5799969,-0.1234912"
+  },
+  {
+    "id": "node_12641738166",
+    "name": "Age UK",
+    "lat": 51.5320305,
+    "lon": -0.420972,
+    "type": "charity",
+    "address": "266A Kingshill Avenue",
+    "hours": "Mo-Sa 10:00-16:00",
+    "url": "https://www.ageuk.org.uk/hillingdon/about-us/our-shops/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5320305,-0.420972"
+  },
+  {
+    "id": "node_12744408301",
+    "name": "All Aboard",
+    "lat": 51.5507935,
+    "lon": -0.191292,
+    "type": "charity",
+    "address": "224 West End Lane",
+    "hours": "Mo-Sa 09:30-17:30; Su 11:00-17:00",
+    "url": "https://www.allaboardshops.com/shops.html",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5507935,-0.191292"
+  },
+  {
+    "id": "node_12760145959",
+    "name": "The Salvation Army",
+    "lat": 51.5373693,
+    "lon": -0.0567544,
+    "type": "charity",
+    "hours": "Mo-Sa 10:00-16:00; Su off",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5373693,-0.0567544"
+  },
+  {
+    "id": "node_12849448701",
+    "name": "P.A. Hospice",
+    "lat": 51.4108541,
+    "lon": -0.2996744,
+    "type": "charity",
+    "address": "27 Old London Road",
+    "hours": "Mo-Sa 09:00-17:00, Su 11:00-17:00",
+    "url": "https://pah.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4108541,-0.2996744"
+  },
+  {
+    "id": "node_12872875461",
+    "name": "Peaceful Solutions",
+    "lat": 51.5350636,
+    "lon": -0.2046895,
+    "type": "charity",
+    "address": "63 Salusbury Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5350636,-0.2046895"
+  },
+  {
+    "id": "node_12880660552",
+    "name": "Antiques",
+    "lat": 51.4714378,
+    "lon": -0.0294178,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4714378,-0.0294178"
+  },
+  {
+    "id": "node_12903229306",
+    "name": "The Stables Trust",
+    "lat": 51.4630394,
+    "lon": 0.1050481,
+    "type": "charity",
+    "address": "34 Bellegrove Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4630394,0.1050481"
+  },
+  {
+    "id": "node_12944255382",
+    "name": "Oxfam",
+    "lat": 51.4326072,
+    "lon": -0.1285642,
+    "type": "charity",
+    "address": "7 Astoria Parade",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4326072,-0.1285642"
+  },
+  {
+    "id": "node_12949414333",
+    "name": "Atomic Antiques",
+    "lat": 51.5269337,
+    "lon": -0.0781698,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5269337,-0.0781698"
+  },
+  {
+    "id": "node_12979992601",
+    "name": "Fight for Sight",
+    "lat": 51.4562004,
+    "lon": -0.0763714,
+    "type": "charity",
+    "address": "124 Lordship Lane",
+    "hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
+    "url": "https://www.fightforsight.org.uk/our-shops/visit-our-shops/east-dulwich/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4562004,-0.0763714"
+  },
+  {
+    "id": "node_13003851307",
+    "name": "Sutherland’s",
+    "lat": 51.5266353,
+    "lon": -0.1291988,
+    "type": "antique",
+    "address": "6",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5266353,-0.1291988"
+  },
+  {
+    "id": "node_13006844858",
+    "name": "Age UK",
+    "lat": 51.4611158,
+    "lon": -0.1168371,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4611158,-0.1168371"
+  },
+  {
+    "id": "node_13011752701",
+    "name": "Number 27",
+    "lat": 51.4744653,
+    "lon": -0.0262384,
+    "type": "antique",
+    "address": "Tanner's Hill",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4744653,-0.0262384"
+  },
+  {
+    "id": "node_13027076491",
+    "name": "The Gallery Antiques",
+    "lat": 51.5808523,
+    "lon": -0.1251978,
+    "type": "antique",
+    "address": "31 Park Road",
+    "hours": "Mo-Su 10:30-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5808523,-0.1251978"
+  },
+  {
+    "id": "node_13027085269",
+    "name": "British Heart Foundation",
+    "lat": 51.4924701,
+    "lon": -0.2305577,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4924701,-0.2305577"
+  },
+  {
+    "id": "node_13060539351",
+    "name": "The Circulatory",
+    "lat": 51.4010856,
+    "lon": -0.3027747,
+    "type": "charity",
+    "address": "18 Southsea Road",
+    "hours": "Mo-Fr 12:00-19:00; Sa 14:00-18:00; Su,PH off",
+    "url": "https://www.savetheworldclub.org/the-circulatory",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4010856,-0.3027747"
+  },
+  {
+    "id": "node_13109403336",
+    "name": "Carol & Tash Vintage",
+    "lat": 51.489562,
+    "lon": -0.0870012,
+    "type": "antique",
+    "address": "197 East Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.489562,-0.0870012"
+  },
+  {
+    "id": "node_13137064278",
+    "name": "Cancer Research UK",
+    "lat": 51.4011018,
+    "lon": -0.2561267,
+    "type": "charity",
+    "address": "85 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4011018,-0.2561267"
+  },
+  {
+    "id": "node_13137064289",
+    "name": "Oxygen Charity Shop",
+    "lat": 51.4002699,
+    "lon": -0.2558812,
+    "type": "charity",
+    "address": "117 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4002699,-0.2558812"
+  },
+  {
+    "id": "node_13137064291",
+    "name": "St Raphael's Hospice Clearance Shop",
+    "lat": 51.4001715,
+    "lon": -0.2558526,
+    "type": "charity",
+    "address": "121 High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4001715,-0.2558526"
+  },
+  {
+    "id": "node_13160611566",
+    "name": "Greenwich & Bexley community hospice",
+    "lat": 51.4913442,
+    "lon": 0.1516492,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4913442,0.1516492"
+  },
+  {
+    "id": "node_13229906208",
+    "name": "Barnardo's",
+    "lat": 51.4651009,
+    "lon": -0.1143142,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4651009,-0.1143142"
+  },
+  {
+    "id": "node_13309069975",
+    "name": "All Aboard",
+    "lat": 51.6178349,
+    "lon": -0.3108999,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.6178349,-0.3108999"
+  },
+  {
+    "id": "node_13399596108",
+    "name": "Scope",
+    "lat": 51.3927134,
+    "lon": -0.3050917,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3927134,-0.3050917"
+  },
+  {
+    "id": "node_13416163753",
+    "name": "Sense",
+    "lat": 51.4316552,
+    "lon": -0.129537,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4316552,-0.129537"
+  },
+  {
+    "id": "node_13428963275",
+    "name": "Crisis",
+    "lat": 51.543446,
+    "lon": -0.1034355,
+    "type": "charity",
+    "address": "211 Upper Street",
+    "hours": "Mo-Sa 10:30-18:30; Su 12:00-17:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.543446,-0.1034355"
+  },
+  {
+    "id": "node_13442771641",
+    "name": "Cancer Research UK",
+    "lat": 51.4313703,
+    "lon": -0.1291361,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4313703,-0.1291361"
+  },
+  {
+    "id": "node_13447832051",
+    "name": "British Heart Foundation",
+    "lat": 51.409446,
+    "lon": -0.3041494,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.409446,-0.3041494"
+  },
+  {
+    "id": "node_13463580577",
+    "name": "Asha Charity Shop",
+    "lat": 51.5863679,
+    "lon": -0.3617741,
+    "type": "charity",
+    "address": "1 Broadway Parade, Pinner Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5863679,-0.3617741"
+  },
+  {
+    "id": "node_13509382097",
+    "name": "St Luke's Hospice Shop",
+    "lat": 51.5856558,
+    "lon": -0.3615321,
+    "type": "charity",
+    "address": "39 Station Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5856558,-0.3615321"
+  },
+  {
+    "id": "node_13523839992",
+    "name": "Vision Foundation",
+    "lat": 51.3923993,
+    "lon": -0.3064506,
+    "type": "charity",
+    "address": "23 Victoria Road",
+    "hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
+    "url": "https://www.fightforsight.org.uk/our-shops/visit-our-shops/surbiton/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3923993,-0.3064506"
+  },
+  {
+    "id": "node_13537469003",
+    "name": "PA Hospice",
+    "lat": 51.4106527,
+    "lon": -0.2992402,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4106527,-0.2992402"
+  },
+  {
+    "id": "node_13566789273",
+    "name": "The Salvation Army",
+    "lat": 51.5781476,
+    "lon": 0.1799639,
+    "type": "charity",
+    "address": "High Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5781476,0.1799639"
+  },
+  {
+    "id": "node_13566824882",
+    "name": "Cancer Research UK",
+    "lat": 51.5756567,
+    "lon": 0.1827343,
+    "type": "charity",
+    "address": "102 South Street",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5756567,0.1827343"
+  },
+  {
+    "id": "node_13566856049",
+    "name": "British Heart Foundation",
+    "lat": 51.5766205,
+    "lon": 0.1823367,
+    "type": "charity",
+    "address": "79 South Street",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5766205,0.1823367"
+  },
+  {
+    "id": "node_13566856223",
+    "name": "Haven House",
+    "lat": 51.5770914,
+    "lon": 0.1814573,
+    "type": "charity",
+    "address": "52 South Street",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5770914,0.1814573"
+  },
+  {
+    "id": "node_13566934574",
+    "name": "Habitat ReStore",
+    "lat": 51.5783044,
+    "lon": 0.1798157,
+    "type": "charity",
+    "address": "8-16 High Street",
+    "hours": "Mo-Sa 09:30-17:30",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5783044,0.1798157"
+  },
+  {
+    "id": "node_13581599801",
+    "name": "Fight for Sight",
+    "lat": 51.4101541,
+    "lon": -0.3066696,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4101541,-0.3066696"
+  },
+  {
+    "id": "node_13612609191",
+    "name": "British Heart Foundation",
+    "lat": 51.4904285,
+    "lon": -0.0803639,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4904285,-0.0803639"
+  },
+  {
+    "id": "node_13614806513",
+    "name": "The Charity Shop",
+    "lat": 51.4267508,
+    "lon": 0.1027058,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4267508,0.1027058"
+  },
+  {
+    "id": "node_13652843550",
+    "name": "Sense",
+    "lat": 51.4076997,
+    "lon": -0.027065,
+    "type": "charity",
+    "address": "144 High Street",
+    "url": "https://www.sense.org.uk/shop/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4076997,-0.027065"
+  },
+  {
+    "id": "node_13652878401",
+    "name": "British Heart Foundation",
+    "lat": 51.4075011,
+    "lon": -0.0277775,
+    "type": "charity",
+    "address": "168 High Street",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/beckenham-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4075011,-0.0277775"
+  },
+  {
+    "id": "node_13674344788",
+    "name": "The Salvation Army",
+    "lat": 51.4066754,
+    "lon": -0.0300867,
+    "type": "charity",
+    "address": "250 High Street",
+    "url": "https://www.salvationarmy.org.uk/beckenham-charity-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4066754,-0.0300867"
+  },
+  {
+    "id": "node_13684237517",
+    "name": "British Red Cross",
+    "lat": 51.406406,
+    "lon": -0.0297948,
+    "type": "charity",
+    "address": "175 High Street",
+    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/beckenham",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.406406,-0.0297948"
+  },
+  {
+    "id": "node_13684700230",
+    "name": "Mind",
+    "lat": 51.4065038,
+    "lon": -0.0325167,
+    "type": "charity",
+    "address": "431 Croydon Road",
+    "url": "https://www.mind.org.uk",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4065038,-0.0325167"
+  },
+  {
+    "id": "node_13688677385",
+    "name": "North London Hospice",
+    "lat": 51.5721136,
+    "lon": -0.1976466,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5721136,-0.1976466"
+  },
+  {
+    "id": "node_13688754385",
+    "name": "All Aboard",
+    "lat": 51.5737736,
+    "lon": -0.2010638,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5737736,-0.2010638"
+  },
+  {
+    "id": "node_13702504101",
+    "name": "Cancer research",
+    "lat": 51.4113671,
+    "lon": -0.3036898,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4113671,-0.3036898"
+  },
+  {
+    "id": "node_13740121993",
+    "name": "The Chartwell Chidren's Cancer Trust",
+    "lat": 51.3444452,
+    "lon": -0.0605578,
+    "type": "charity",
+    "address": "208 Addington Road",
+    "hours": "Mo-Sa 09:00-17:30; Su off",
+    "url": "https://chartwellcancertrust.co.uk/shops/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3444452,-0.0605578"
+  },
+  {
+    "id": "node_13743616950",
+    "name": "Mind",
+    "lat": 51.3439138,
+    "lon": -0.0622737,
+    "type": "charity",
+    "address": "135 Addington Road",
+    "hours": "Mo-Fr 08:30-16:30; Sa 08:00-16:00; Su off",
+    "url": "https://www.mindincroydon.org.uk/fundraising/charity-shops/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3439138,-0.0622737"
+  },
+  {
+    "id": "node_13763547887",
+    "name": "Sense",
+    "lat": 51.5710254,
+    "lon": 0.1327372,
+    "type": "charity",
+    "address": "7 Tutor Parade",
+    "url": "https://www.sense.org.uk/shop/high-street-shops/chadwell-heath/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5710254,0.1327372"
+  },
+  {
+    "id": "node_13802296906",
+    "name": "Second Chance",
+    "lat": 51.5612277,
+    "lon": -0.0988565,
+    "type": "charity",
+    "address": "161 Blackstock Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5612277,-0.0988565"
+  },
+  {
+    "id": "node_13955535789",
+    "name": "Sense",
+    "lat": 51.4761389,
+    "lon": -0.0257353,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4761389,-0.0257353"
+  },
+  {
+    "id": "node_13969934033",
+    "name": "Cancer Research UK",
+    "lat": 51.4097288,
+    "lon": -0.1220912,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4097288,-0.1220912"
+  },
+  {
+    "id": "node_14014502947",
+    "name": "Harlington Hospice",
+    "lat": 51.5643395,
+    "lon": -0.4444417,
+    "type": "charity",
+    "address": "7 Swakeleys Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5643395,-0.4444417"
+  },
+  {
+    "id": "node_14048763078",
+    "name": "Octavia Foundation",
+    "lat": 51.4933517,
+    "lon": -0.1761912,
+    "type": "charity",
+    "address": "3 Bute Street",
+    "hours": "Mo-Sa 10:00-18:00, Su 11:00-17:00",
+    "url": "https://www.octaviafoundation.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4933517,-0.1761912"
+  },
+  {
+    "id": "node_14054849899",
+    "name": "St Raphael's Hospice",
+    "lat": 51.3784955,
+    "lon": -0.2411482,
+    "type": "charity",
+    "address": "98 Central Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3784955,-0.2411482"
+  },
+  {
+    "id": "node_14054873102",
+    "name": "SOS SEN",
+    "lat": 51.3783854,
+    "lon": -0.2409202,
+    "type": "charity",
+    "address": "90 Central Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3783854,-0.2409202"
+  },
+  {
+    "id": "node_14054873106",
+    "name": "Queen Elizabeth's Foundation",
+    "lat": 51.3784185,
+    "lon": -0.2416299,
+    "type": "charity",
+    "address": "Central Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3784185,-0.2416299"
+  },
+  {
+    "id": "node_14054873114",
+    "name": "The Princess Alice Hospice",
+    "lat": 51.3787132,
+    "lon": -0.2422183,
+    "type": "charity",
+    "address": "115 Central Road",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3787132,-0.2422183"
+  },
+  {
+    "id": "node_14054873128",
+    "name": "Marie Curie",
+    "lat": 51.3792342,
+    "lon": -0.2433304,
+    "type": "charity",
+    "address": "151 Central Road",
+    "url": "https://www.mariecurie.org.uk/local/charity-shops/worcester-park",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.3792342,-0.2433304"
+  },
+  {
+    "id": "node_14058892308",
+    "name": "Antiques of Kingston",
+    "lat": 51.4108545,
+    "lon": -0.2995551,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4108545,-0.2995551"
+  },
+  {
+    "id": "node_14063723894",
+    "name": "Cancer Research UK",
+    "lat": 51.4505344,
+    "lon": 0.1782094,
+    "type": "charity",
+    "address": "3 Roman Way",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4505344,0.1782094"
+  },
+  {
+    "id": "node_14077510803",
+    "name": "Fara",
+    "lat": 51.4847976,
+    "lon": -0.201892,
+    "type": "charity",
+    "address": "341 North End Road",
+    "hours": "Mo-Su 10:00-18:00",
+    "url": "https://www.faracharity.org/shop/fulham-north-end-road/",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4847976,-0.201892"
+  },
+  {
+    "id": "node_14080079083",
+    "name": "British Heart Foundation",
+    "lat": 51.4819637,
+    "lon": -0.1999969,
+    "type": "charity",
+    "address": "338 North End Road",
+    "hours": "Mo-Sa 10:00-18:00, Su 11:00-17:00",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/fulham-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.4819637,-0.1999969"
+  },
+  {
+    "id": "node_14080382183",
+    "name": "Mind",
+    "lat": 51.551017,
+    "lon": -0.1913551,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.551017,-0.1913551"
+  },
+  {
+    "id": "node_14080386214",
+    "name": "Cancer Research UK",
+    "lat": 51.5509626,
+    "lon": -0.1913193,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5509626,-0.1913193"
+  },
+  {
+    "id": "node_14080390660",
+    "name": "Oxfam",
+    "lat": 51.5511585,
+    "lon": -0.1914151,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/dir/?api=1&destination=51.5511585,-0.1914151"
+  }
+]

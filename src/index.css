@@ -1,0 +1,224 @@
+:root {
+  --color-bg: #111111;
+  --color-surface: rgba(25, 25, 25, 0.7);
+  --color-surface-hover: rgba(35, 35, 35, 0.9);
+  --color-text: #F3F4F6;
+  --color-text-muted: #9CA3AF;
+  
+  --color-accent-vintage: #D97706; /* Amber for vintage */
+  --color-accent-antique: #7C3AED; /* Purple for antique */
+  --color-accent-charity: #059669; /* Green for charity */
+  --color-accent-fair: #E11D48;    /* Rose for events/fairs */
+  
+  --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --border-glass: 1px solid rgba(255, 255, 255, 0.1);
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+  
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  overflow: hidden; /* App fills the screen */
+}
+
+/* App Layout */
+.app-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Glassmorphism Panel */
+.glass-panel {
+  background: var(--color-surface);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: var(--border-glass);
+  box-shadow: var(--shadow-glass);
+  border-radius: var(--radius-lg);
+  color: var(--color-text);
+}
+
+/* Floating Sidebar */
+.sidebar {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 320px;
+  max-height: calc(100vh - 40px);
+  z-index: 1000; /* Above Leaflet */
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  transition: transform 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: calc(100vw - 40px);
+    bottom: 20px;
+    top: auto;
+    max-height: 40vh;
+  }
+}
+
+.sidebar-header {
+  margin-bottom: 24px;
+}
+
+.sidebar-header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  margin-bottom: 8px;
+}
+
+.sidebar-header p {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow-y: auto;
+}
+
+.filter-button {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  background: transparent;
+  border: var(--border-glass);
+  border-radius: var(--radius-lg);
+  color: var(--color-text);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.filter-button:hover {
+  background: var(--color-surface-hover);
+  transform: translateY(-2px);
+}
+
+.filter-button.active {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.indicator {
+  width: 12px;
+  height: 12px;
+  border-radius: var(--radius-full);
+}
+
+.indicator.vintage { background-color: var(--color-accent-vintage); box-shadow: 0 0 10px var(--color-accent-vintage); }
+.indicator.antique { background-color: var(--color-accent-antique); box-shadow: 0 0 10px var(--color-accent-antique); }
+.indicator.charity { background-color: var(--color-accent-charity); box-shadow: 0 0 10px var(--color-accent-charity); }
+.indicator.fair { background-color: var(--color-accent-fair); box-shadow: 0 0 10px var(--color-accent-fair); }
+
+/* Leaflet Overrides */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-bg);
+}
+
+.leaflet-control-zoom {
+  border: none !important;
+  box-shadow: var(--shadow-glass) !important;
+}
+
+.leaflet-control-zoom a {
+  background-color: var(--color-surface) !important;
+  color: var(--color-text) !important;
+  backdrop-filter: blur(8px);
+  border: var(--border-glass) !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: var(--color-surface-hover) !important;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: var(--color-surface) !important;
+  backdrop-filter: blur(16px);
+  color: var(--color-text) !important;
+  border: var(--border-glass);
+  box-shadow: var(--shadow-glass) !important;
+}
+
+.leaflet-popup-content h3 {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+}
+
+.leaflet-popup-content p {
+  margin: 0 0 4px 0;
+  color: var(--color-text-muted);
+}
+
+/* Authentication UI */
+.login-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-bg);
+  background-image: radial-gradient(circle at center, rgba(40,40,40,1) 0%, var(--color-bg) 100%);
+  z-index: 9999;
+}
+
+.login-card {
+  padding: 48px;
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+}
+
+.login-card h1 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+.login-card p {
+  color: var(--color-text-muted);
+  margin-bottom: 32px;
+  line-height: 1.5;
+}
+
+.auth-button {
+  background: white;
+  color: black;
+  border: none;
+  padding: 12px 24px;
+  border-radius: var(--radius-full);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  width: 100%;
+}
+
+.auth-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255,255,255,0.2);
+}
