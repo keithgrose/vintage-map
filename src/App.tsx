@@ -32,8 +32,8 @@ function App() {
   useEffect(() => {
     // Fetch both datasets concurrently
     Promise.all([
-      fetch('/shops.json').then(res => res.ok ? res.json() : []),
-      fetch('/fairs.json').then(res => res.ok ? res.json() : [])
+      fetch(`${import.meta.env.BASE_URL}shops.json`).then(res => res.ok ? res.json() : []),
+      fetch(`${import.meta.env.BASE_URL}fairs.json`).then(res => res.ok ? res.json() : [])
     ]).then(([shops, fairs]) => {
       // Normalize to Location[]
       const normalizedShops: Location[] = shops.map((s: any) => ({
