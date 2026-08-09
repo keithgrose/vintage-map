@@ -1,6 +1,6 @@
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
 import L from 'leaflet';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 // Custom icons using standard Leaflet SVG but colorized for our theme
 const createCustomIcon = (color: string) => {
@@ -46,6 +46,39 @@ function Recenter({ center }: { center: [number, number] }) {
   return null;
 }
 
+function LocationMarker() {
+  const [position, setPosition] = useState<L.LatLng | null>(null);
+  const map = useMap();
+
+  useEffect(() => {
+    map.locate({ watch: true, enableHighAccuracy: true });
+    
+    map.on('locationfound', (e) => {
+      setPosition(e.latlng);
+    });
+
+    return () => {
+      map.stopLocate();
+      map.off('locationfound');
+    };
+  }, [map]);
+
+  const userIcon = new L.DivIcon({
+    className: 'custom-div-icon',
+    html: `<div style="background-color: #3B82F6; width: 18px; height: 18px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 15px #3B82F6; position: relative;">
+             <div style="position: absolute; width: 100%; height: 100%; background-color: #3B82F6; border-radius: 50%; opacity: 0.5; animation: pulse 2s infinite;"></div>
+           </div>`,
+    iconSize: [18, 18],
+    iconAnchor: [9, 9]
+  });
+
+  return position === null ? null : (
+    <Marker position={position} icon={userIcon}>
+      <Popup>You are here</Popup>
+    </Marker>
+  );
+}
+
 export default function Map({ locations, center }: MapProps) {
   return (
     <MapContainer 
@@ -58,6 +91,7 @@ export default function Map({ locations, center }: MapProps) {
         url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png" // Light, readable premium tiles
       />
       <Recenter center={center} />
+      <LocationMarker />
       
       {locations.map(loc => (
         <Marker 
