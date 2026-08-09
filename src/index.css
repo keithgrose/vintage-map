@@ -280,3 +280,71 @@ body {
   50% { transform: scale(2.5); opacity: 0; }
   100% { transform: scale(1); opacity: 0; }
 }
+
+/* Bottom Carousel */
+.bottom-carousel {
+  position: absolute;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100vw - 32px);
+  max-width: 400px;
+  z-index: 999;
+}
+
+/* Flip Animation */
+.flip-container {
+  perspective: 1000px;
+  width: 100vw;
+  height: 100vh;
+}
+.flipper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition: transform 0.6s cubic-bezier(0.4, 0.0, 0.2, 1);
+  transform-style: preserve-3d;
+}
+.flip-container.calendar-mode .flipper {
+  transform: rotateY(180deg);
+}
+.flip-front, .flip-back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  backface-visibility: hidden;
+}
+.flip-back {
+  transform: rotateY(180deg);
+  background-color: var(--color-bg);
+}
+
+/* Calendar Styles */
+.react-calendar {
+  width: 100%;
+  background: transparent !important;
+  border: none !important;
+  color: var(--color-text) !important;
+  font-family: inherit !important;
+}
+.react-calendar__navigation button {
+  color: var(--color-text) !important;
+}
+.react-calendar__navigation button:enabled:hover {
+  background-color: var(--color-surface-hover) !important;
+}
+.react-calendar__tile {
+  color: var(--color-text) !important;
+}
+.react-calendar__tile:enabled:hover, .react-calendar__tile:enabled:focus {
+  background-color: var(--color-surface-hover) !important;
+}
+.react-calendar__tile--active {
+  background: var(--color-accent-vintage) !important;
+  color: white !important;
+}
+.react-calendar__tile--now {
+  background: rgba(255, 255, 255, 0.1) !important;
+}

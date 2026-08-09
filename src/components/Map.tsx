@@ -27,6 +27,7 @@ export interface Location {
   type: 'vintage' | 'antique' | 'charity' | 'fair';
   address?: string;
   date?: string; // For fairs
+  next_dates?: string[]; // For explicit calendar dates
   hours?: string; // For shops
   url?: string;
   gmapsUrl?: string; // For directions

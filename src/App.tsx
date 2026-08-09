@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import Map, { type Location } from './components/Map';
+import CalendarView from './components/CalendarView';
 import { Store, ShoppingBag, Heart, Calendar, Filter, X } from 'lucide-react';
 import { auth, signInWithGoogle, logout } from './firebase';
 import opening_hours from 'opening_hours';
@@ -44,6 +45,7 @@ function App() {
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [openNowOnly, setOpenNowOnly] = useState(false);
   const [maxDistance, setMaxDistance] = useState<number | null>(null); // in miles, null = Any
+  const [viewMode, setViewMode] = useState<'map'|'calendar'>('map');
   
   const [userPos, setUserPos] = useState<[number, number] | null>(null);
   
@@ -97,6 +99,7 @@ function App() {
         lng: f.lng,
         type: 'fair',
         date: f.date,
+        next_dates: f.next_dates || [],
         url: f.url,
         gmapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(f.name + ' London')}`
       }));
@@ -162,6 +165,28 @@ function App() {
     );
   }
 
+  let closestLoc: any = null;
+  let closestDist = Infinity;
+  if (userPos && viewMode === 'map') {
+    visibleLocations.forEach(loc => {
+      const dist = getDistance(userPos[0], userPos[1], loc.lat, loc.lng);
+      if (dist < closestDist) {
+        closestDist = dist;
+        closestLoc = loc;
+      }
+    });
+  }
+
+  const getPlaceholderImage = (type: string) => {
+    switch(type) {
+      case 'vintage': return 'https://images.unsplash.com/photo-1555529771-835f59bfc50c?w=500&q=80'; 
+      case 'antique': return 'https://images.unsplash.com/photo-1584555891392-5eb3c9842472?w=500&q=80'; 
+      case 'charity': return 'https://images.unsplash.com/photo-1532202802379-df93d543bac3?w=500&q=80'; 
+      case 'fair': return 'https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=500&q=80'; 
+      default: return 'https://images.unsplash.com/photo-1555529771-835f59bfc50c?w=500&q=80';
+    }
+  };
+
   return (
     <div className="app-container">
       <div className="top-bar">
@@ -172,6 +197,13 @@ function App() {
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
+        <button 
+          className="icon-button"
+          onClick={() => setViewMode(viewMode === 'map' ? 'calendar' : 'map')}
+          title="Toggle Calendar"
+        >
+          <Calendar size={20} />
+        </button>
         <button 
           className={`icon-button ${isFilterOpen ? 'active' : ''}`}
           onClick={() => setIsFilterOpen(!isFilterOpen)}
@@ -266,7 +298,39 @@ function App() {
         </div>
       )}
       
-      <Map locations={visibleLocations} center={HOME_CENTER} userLocation={userPos} />
+      <div className={`flip-container ${viewMode === 'calendar' ? 'calendar-mode' : ''}`}>
+        <div className="flipper">
+          <div className="flip-front">
+            <Map locations={visibleLocations} center={HOME_CENTER} userLocation={userPos} />
+            
+            {closestLoc && (
+              <div className="bottom-carousel">
+                <div className="glass-panel" style={{ display: 'flex', padding: '12px', gap: '16px', alignItems: 'center' }}>
+                  <img 
+                    src={getPlaceholderImage(closestLoc.type)} 
+                    alt={closestLoc.name} 
+                    style={{ width: '80px', height: '80px', objectFit: 'cover', borderRadius: '12px' }} 
+                  />
+                  <div style={{ flex: 1 }}>
+                    <h4 style={{ margin: 0, fontSize: '1.1rem' }}>Closest: {closestLoc.name}</h4>
+                    <p style={{ margin: '4px 0', fontSize: '0.9rem', color: 'var(--color-text-muted)' }}>
+                      {closestDist.toFixed(2)} miles away
+                    </p>
+                    {closestLoc.gmapsUrl && (
+                      <a href={closestLoc.gmapsUrl} target="_blank" rel="noreferrer" style={{ fontSize: '0.9rem', color: '#3B82F6', textDecoration: 'none', fontWeight: 600 }}>
+                        Get Directions
+                      </a>
+                    )}
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+          <div className="flip-back">
+            <CalendarView fairs={locations} />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

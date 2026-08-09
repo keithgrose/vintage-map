@@ -72,11 +72,16 @@ async function fetchFairs() {
                   properties: {
                     name: { type: "string", description: "Name of the fair or market" },
                     date: { type: "string", description: "When it happens, e.g., 'Every Sunday', 'Monthly', 'Weekends'" },
+                    next_dates: { 
+                      type: "array", 
+                      items: { type: "string" }, 
+                      description: "List of exactly calculated upcoming dates for this event based on the text. Format must be exactly YYYY-MM-DD. For example if it says every Sunday, provide the next 4 Sundays." 
+                    },
                     lat: { type: "number", description: "Approximate latitude of the market location in London (e.g. around 51.5)" },
                     lng: { type: "number", description: "Approximate longitude of the market location in London (e.g. around -0.1)" },
                     url: { type: "string", description: "URL to the market's website if available" }
                   },
-                  required: ["name", "date", "lat", "lng"]
+                  required: ["name", "date", "next_dates", "lat", "lng"]
                 }
               }
             },
@@ -104,6 +109,7 @@ async function fetchFairs() {
           lng: event.lng,
           type: 'fair',
           date: event.date,
+          next_dates: event.next_dates || [],
           url: event.url
         });
       });

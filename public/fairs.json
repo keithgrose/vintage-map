@@ -27,30 +27,30 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786303265399",
-    "name": "Maiden Voyage Festival",
+    "id": "fc_0_1786303563691",
+    "name": "Kerb food market",
     "lat": 51.5,
     "lng": -0.1,
     "type": "fair",
-    "date": "August 8-9, 2026",
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+    "date": "Weekends",
+    "next_dates": [
+      "2023-10-07",
+      "2023-10-08",
+      "2023-10-14",
+      "2023-10-15"
+    ],
+    "url": "https://www.timeout.com/london/shopping/best-vintage-shops-and-markets-in-london"
   },
   {
-    "id": "fc_1_1786303265399",
-    "name": "Kerb Food Market",
-    "lat": 51.5,
-    "lng": -0.1,
-    "type": "fair",
-    "date": "August 8-9, 2026",
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
-  },
-  {
-    "id": "fc_2_1786303265399",
+    "id": "fc_1_1786303563691",
     "name": "Notting Hill Carnival",
     "lat": 51.5,
-    "lng": -0.1,
+    "lng": -0.2,
     "type": "fair",
-    "date": "Bank Holiday weekend August 2026",
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+    "date": "Bank Holiday Weekend",
+    "next_dates": [
+      "2023-08-27"
+    ],
+    "url": "https://www.timeout.com/london/shopping/best-vintage-shops-and-markets-in-london"
   }
 ]
