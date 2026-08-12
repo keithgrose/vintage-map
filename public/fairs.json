@@ -27,30 +27,47 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786306485002",
-    "name": "Kerb Food Market",
-    "lat": 51.5,
-    "lng": -0.1,
+    "id": "fc_0_1786509696976",
+    "name": "Notting Hill Carnival",
+    "lat": 51.5101,
+    "lng": -0.1993,
     "type": "fair",
-    "date": "Popping up for a foodie weekender",
+    "date": "Annually on the bank holiday weekend",
     "next_dates": [
-      "2026-08-08",
-      "2026-08-09",
-      "2026-08-10",
-      "2026-08-11"
+      "2026-08-29",
+      "2026-08-30",
+      "2027-08-28",
+      "2027-08-29"
     ],
     "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   },
   {
-    "id": "fc_1_1786306485002",
-    "name": "Maiden Voyage Festival",
-    "lat": 51.5,
-    "lng": -0.1,
+    "id": "fc_1_1786509696976",
+    "name": "All Points East Festival",
+    "lat": 51.5379,
+    "lng": -0.0482,
     "type": "fair",
-    "date": "August 8-9, 2026",
+    "date": "Annually in August",
     "next_dates": [
-      "2026-08-08",
-      "2026-08-09"
+      "2026-08-19",
+      "2026-08-20",
+      "2026-08-21",
+      "2026-08-22"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+  },
+  {
+    "id": "fc_2_1786509696976",
+    "name": "Body Movements Festival",
+    "lat": 51.5379,
+    "lng": -0.0482,
+    "type": "fair",
+    "date": "Annually in August",
+    "next_dates": [
+      "2026-08-19",
+      "2026-08-20",
+      "2026-08-21",
+      "2026-08-22"
     ],
     "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
   }

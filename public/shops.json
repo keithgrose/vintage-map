@@ -6207,5 +6207,16 @@
     "lon": -0.1914151,
     "type": "charity",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
+  },
+  {
+    "id": "node_14085357428",
+    "name": "Accessories of Old",
+    "lat": 51.4764918,
+    "lon": -0.1997615,
+    "type": "antique",
+    "address": "33-39 Parsons Green Lane",
+    "hours": "Mo-Su 11:00-18:00",
+    "url": "https://www.accessoriesofold.com/pages/parsons-green-depot",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Accessories%20of%20Old%20London"
   }
 ]
