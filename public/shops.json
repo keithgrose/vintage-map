@@ -1221,14 +1221,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sue%20Ryder%20London"
   },
   {
-    "id": "node_4382519972",
-    "name": "Cancer Research UK",
-    "lat": 51.4445016,
-    "lon": -0.1521417,
-    "type": "charity",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cancer%20Research%20UK%20London"
-  },
-  {
     "id": "node_4453745784",
     "name": "All Aboard",
     "lat": 51.5146978,
@@ -5037,17 +5029,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Raphael's%20Hospice%20(Shop)%20London"
   },
   {
-    "id": "node_11234794415",
-    "name": "British Red Cross Furinture & Electrical",
-    "lat": 51.4826718,
-    "lon": -0.2005309,
-    "type": "charity",
-    "address": "320 North End Road",
-    "hours": "Mo-Sa 10:00-18:00, Su 11:00-16:00",
-    "url": "https://www.redcross.org.uk/shop/find-a-charity-shop/fulham-furniture-and-electrical",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Red%20Cross%20Furinture%20%26%20Electrical%20London"
-  },
-  {
     "id": "node_11359775070",
     "name": "House of Grace",
     "lat": 51.5387739,
@@ -6218,5 +6199,32 @@
     "hours": "Mo-Su 11:00-18:00",
     "url": "https://www.accessoriesofold.com/pages/parsons-green-depot",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Accessories%20of%20Old%20London"
+  },
+  {
+    "id": "node_14094974863",
+    "name": "Fara Kids",
+    "lat": 51.4445273,
+    "lon": -0.15098,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fara%20Kids%20London"
+  },
+  {
+    "id": "node_14094991681",
+    "name": "Fara",
+    "lat": 51.4444647,
+    "lon": -0.1504925,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fara%20London"
+  },
+  {
+    "id": "node_14103893811",
+    "name": "Royal Trinity Hospice",
+    "lat": 51.4830712,
+    "lon": -0.2008193,
+    "type": "charity",
+    "address": "304-306 North End Road",
+    "hours": "Mo-Sa 10:00-18:00, Su 10:00-17:00",
+    "url": "https://www.royaltrinityhospice.london/north-end-road",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Trinity%20Hospice%20London"
   }
 ]

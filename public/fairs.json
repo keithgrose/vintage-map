@@ -27,48 +27,18 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1786509696976",
-    "name": "Notting Hill Carnival",
-    "lat": 51.5101,
-    "lng": -0.1993,
+    "id": "fc_0_1787110705059",
+    "name": "Thirsty Thursdays at the Golden Hinde",
+    "lat": 51.5,
+    "lng": -0.1,
     "type": "fair",
-    "date": "Annually on the bank holiday weekend",
-    "next_dates": [
-      "2026-08-29",
-      "2026-08-30",
-      "2027-08-28",
-      "2027-08-29"
-    ],
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
-  },
-  {
-    "id": "fc_1_1786509696976",
-    "name": "All Points East Festival",
-    "lat": 51.5379,
-    "lng": -0.0482,
-    "type": "fair",
-    "date": "Annually in August",
+    "date": "Every Thursday",
     "next_dates": [
       "2026-08-19",
-      "2026-08-20",
-      "2026-08-21",
-      "2026-08-22"
+      "2026-08-26",
+      "2026-09-02",
+      "2026-09-09"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
-  },
-  {
-    "id": "fc_2_1786509696976",
-    "name": "Body Movements Festival",
-    "lat": 51.5379,
-    "lng": -0.0482,
-    "type": "fair",
-    "date": "Annually in August",
-    "next_dates": [
-      "2026-08-19",
-      "2026-08-20",
-      "2026-08-21",
-      "2026-08-22"
-    ],
-    "url": "https://www.timeout.com/london/things-to-do/london-events-in-august"
+    "url": "https://www.timeout.com/london/news/the-golden-hinde-is-being-transformed-into-a-floating-pub-081026"
   }
 ]
