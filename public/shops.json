@@ -534,15 +534,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
   },
   {
-    "id": "node_1671195393",
-    "name": "RSPCA",
-    "lat": 51.5806237,
-    "lon": -0.1223575,
-    "type": "charity",
-    "address": "Tottenham Lane",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=RSPCA%20London"
-  },
-  {
     "id": "node_1718283890",
     "name": "Reindeer Antiques",
     "lat": 51.5048056,

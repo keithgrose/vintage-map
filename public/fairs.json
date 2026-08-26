@@ -27,18 +27,63 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1787110705059",
-    "name": "Thirsty Thursdays at the Golden Hinde",
-    "lat": 51.5,
-    "lng": -0.1,
+    "id": "fc_0_1787715899065",
+    "name": "Notting Hill Carnival",
+    "lat": 51.511,
+    "lng": -0.202,
     "type": "fair",
-    "date": "Every Thursday",
+    "date": "Yearly",
     "next_dates": [
-      "2026-08-19",
-      "2026-08-26",
-      "2026-09-02",
-      "2026-09-09"
+      "2026-08-28",
+      "2026-08-29",
+      "2026-08-30",
+      "2026-08-31"
     ],
-    "url": "https://www.timeout.com/london/news/the-golden-hinde-is-being-transformed-into-a-floating-pub-081026"
+    "url": "https://www.timeout.com/london/things-to-do/notting-hill-carnival"
+  },
+  {
+    "id": "fc_1_1787715899065",
+    "name": "Greenwich + Docklands International Festival",
+    "lat": 51.482,
+    "lng": -0.009,
+    "type": "fair",
+    "date": "Annual",
+    "next_dates": [
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03",
+      "2026-09-04"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/greenwich-docklands-international-festival"
+  },
+  {
+    "id": "fc_2_1787715899065",
+    "name": "Body Movements",
+    "lat": 51.534,
+    "lng": -0.16,
+    "type": "fair",
+    "date": "Event",
+    "next_dates": [
+      "2026-08-29",
+      "2026-08-30",
+      "2026-08-31",
+      "2026-09-01"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/body-movements"
+  },
+  {
+    "id": "fc_3_1787715899065",
+    "name": "All Points East Festival",
+    "lat": 51.535,
+    "lng": -0.048,
+    "type": "fair",
+    "date": "Annual",
+    "next_dates": [
+      "2026-08-23",
+      "2026-08-24",
+      "2026-08-25",
+      "2026-08-26"
+    ],
+    "url": "https://www.timeout.com/london/things-to-do/all-points-east-festival"
   }
 ]
