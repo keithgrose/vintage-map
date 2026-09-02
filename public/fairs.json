@@ -27,63 +27,33 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1787715899065",
+    "id": "fc_0_1788333974442",
     "name": "Notting Hill Carnival",
-    "lat": 51.511,
-    "lng": -0.202,
+    "lat": 51.5111,
+    "lng": -0.1962,
     "type": "fair",
-    "date": "Yearly",
+    "date": "Annually",
     "next_dates": [
       "2026-08-28",
       "2026-08-29",
       "2026-08-30",
       "2026-08-31"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/notting-hill-carnival"
+    "url": "https://www.timeout.com/london/news/notting-hill-carnival-2026-map-parade-route-082726"
   },
   {
-    "id": "fc_1_1787715899065",
+    "id": "fc_1_1788333974442",
     "name": "Greenwich + Docklands International Festival",
-    "lat": 51.482,
-    "lng": -0.009,
+    "lat": 51.4821,
+    "lng": -0.0163,
     "type": "fair",
-    "date": "Annual",
+    "date": "Annually",
     "next_dates": [
-      "2026-09-01",
-      "2026-09-02",
-      "2026-09-03",
-      "2026-09-04"
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07",
+      "2026-09-08"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/greenwich-docklands-international-festival"
-  },
-  {
-    "id": "fc_2_1787715899065",
-    "name": "Body Movements",
-    "lat": 51.534,
-    "lng": -0.16,
-    "type": "fair",
-    "date": "Event",
-    "next_dates": [
-      "2026-08-29",
-      "2026-08-30",
-      "2026-08-31",
-      "2026-09-01"
-    ],
-    "url": "https://www.timeout.com/london/things-to-do/body-movements"
-  },
-  {
-    "id": "fc_3_1787715899065",
-    "name": "All Points East Festival",
-    "lat": 51.535,
-    "lng": -0.048,
-    "type": "fair",
-    "date": "Annual",
-    "next_dates": [
-      "2026-08-23",
-      "2026-08-24",
-      "2026-08-25",
-      "2026-08-26"
-    ],
-    "url": "https://www.timeout.com/london/things-to-do/all-points-east-festival"
+    "url": "https://www.timeout.com/london/things-to-do-in-london-this-weekend"
   }
 ]
