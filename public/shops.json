@@ -906,6 +906,7 @@
     "lon": -0.0757834,
     "type": "charity",
     "address": "514 Kingsland Road",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
   },
   {
@@ -6296,23 +6297,12 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Woodnutt%20Antiques%20London"
   },
   {
-    "id": "node_14134918904",
-    "name": "James Jackson",
-    "lat": 51.4828687,
-    "lon": -0.2118232,
-    "type": "antique",
-    "address": "279 Lillie Road",
-    "hours": "Mo-Sa 10:00-17:00",
-    "url": "https://www.jamesjackson.shop/",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20Jackson%20London"
-  },
-  {
     "id": "node_14134918905",
     "name": "Puckhaber",
-    "lat": 51.4828519,
-    "lon": -0.2118873,
+    "lat": 51.4828604,
+    "lon": -0.2118502,
     "type": "antique",
-    "address": "281 Lillie Road",
+    "address": "279-281 Lillie Road",
     "hours": "We-Th 11:00-17:30, Sa 11:00-17:30",
     "url": "https://www.puckhaberdecorativeantiques.com/",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Puckhaber%20London"
@@ -6402,6 +6392,15 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Stag%20%26%20Squire%20London"
   },
   {
+    "id": "node_14134918923",
+    "name": "301 Antiques",
+    "lat": 51.4826637,
+    "lon": -0.212575,
+    "type": "antique",
+    "address": "301 Lillie Road",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=301%20Antiques%20London"
+  },
+  {
     "id": "node_14134918926",
     "name": "Willows Antiques & Interiors",
     "lat": 51.4825707,
@@ -6433,5 +6432,27 @@
     "hours": "Fr-Sa 11:00-16:00",
     "url": "https://violetterye.com/",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Violettee%20London"
+  },
+  {
+    "id": "node_14156109066",
+    "name": "GF Galleries",
+    "lat": 51.4826362,
+    "lon": -0.212721,
+    "type": "antique",
+    "address": "305 Lillie Road",
+    "hours": "Mo-Sa 10:00-18:00",
+    "url": "https://gf-galleries.ueniweb.com/",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=GF%20Galleries%20London"
+  },
+  {
+    "id": "node_14165033050",
+    "name": "Fara Kids",
+    "lat": 51.4768521,
+    "lon": -0.2034188,
+    "type": "charity",
+    "address": "614 Fulham Road",
+    "hours": "Mo-Su 09:00-17:00",
+    "url": "https://www.faracharity.org/shop/fulham-kids/",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fara%20Kids%20London"
   }
 ]
