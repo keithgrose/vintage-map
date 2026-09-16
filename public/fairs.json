@@ -27,78 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1788939649744",
-    "name": "Old Spitalfields Market",
-    "lat": 51.5205,
-    "lng": -0.0703,
+    "id": "fc_0_1789545832190",
+    "name": "Open House Festival",
+    "lat": 51.5074,
+    "lng": -0.1278,
     "type": "fair",
-    "date": "Daily",
+    "date": "Until 26 Sept 2026",
     "next_dates": [
-      "2023-10-08",
-      "2023-10-09",
-      "2023-10-10",
-      "2023-10-11"
+      "2026-09-22",
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25"
     ],
-    "url": "https://oldspitalfieldsmarket.com/"
+    "url": "https://www.timeout.com/london/things-to-do/open-house-festival"
   },
   {
-    "id": "fc_1_1788939649744",
-    "name": "Camden Market",
-    "lat": 51.5433,
-    "lng": -0.143,
+    "id": "fc_1_1789545832190",
+    "name": "Totally Thames festival",
+    "lat": 51.509865,
+    "lng": -0.118092,
     "type": "fair",
-    "date": "Daily",
+    "date": "Month of September",
     "next_dates": [
-      "2023-10-08",
-      "2023-10-09",
-      "2023-10-10",
-      "2023-10-11"
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22"
     ],
-    "url": "https://www.camdenmarket.com/"
+    "url": ""
   },
   {
-    "id": "fc_2_1788939649744",
-    "name": "Portobello Road Market",
-    "lat": 51.5204,
-    "lng": -0.2024,
+    "id": "fc_2_1789545832190",
+    "name": "London Design Festival",
+    "lat": 51.5074,
+    "lng": -0.1278,
     "type": "fair",
-    "date": "Weekly",
+    "date": "September",
     "next_dates": [
-      "2023-10-07",
-      "2023-10-14",
-      "2023-10-21",
-      "2023-10-28"
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22"
     ],
-    "url": "https://www.portobellomarket.org/"
+    "url": ""
   },
   {
-    "id": "fc_3_1788939649744",
-    "name": "Bermondsey Antique Market",
-    "lat": 51.4943,
-    "lng": -0.0721,
+    "id": "fc_3_1789545832190",
+    "name": "Freize Sculpture",
+    "lat": 51.5373,
+    "lng": -0.1556,
     "type": "fair",
-    "date": "Weekly",
+    "date": "September",
     "next_dates": [
-      "2023-10-09",
-      "2023-10-16",
-      "2023-10-23",
-      "2023-10-30"
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22"
     ],
-    "url": "https://www.bermondseymarket.co.uk/"
+    "url": ""
   },
   {
-    "id": "fc_4_1788939649744",
-    "name": "Brick Lane Vintage Market",
-    "lat": 51.526,
-    "lng": -0.0707,
+    "id": "fc_4_1789545832190",
+    "name": "Classic Boat Festival",
+    "lat": 51.5055,
+    "lng": -0.0732,
     "type": "fair",
-    "date": "Weekly",
+    "date": "September",
     "next_dates": [
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22",
-      "2023-10-29"
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14"
     ],
-    "url": "https://www.bricklanevintagemarket.com/"
+    "url": ""
   }
 ]
