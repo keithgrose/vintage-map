@@ -27,78 +27,18 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1789545832190",
+    "id": "fc_0_1790150772081",
     "name": "Open House Festival",
     "lat": 51.5074,
     "lng": -0.1278,
     "type": "fair",
-    "date": "Until 26 Sept 2026",
+    "date": "Until 2026-09-26",
     "next_dates": [
-      "2026-09-22",
-      "2026-09-23",
-      "2026-09-24",
-      "2026-09-25"
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27",
+      "2026-09-28"
     ],
     "url": "https://www.timeout.com/london/things-to-do/open-house-festival"
-  },
-  {
-    "id": "fc_1_1789545832190",
-    "name": "Totally Thames festival",
-    "lat": 51.509865,
-    "lng": -0.118092,
-    "type": "fair",
-    "date": "Month of September",
-    "next_dates": [
-      "2026-09-19",
-      "2026-09-20",
-      "2026-09-21",
-      "2026-09-22"
-    ],
-    "url": ""
-  },
-  {
-    "id": "fc_2_1789545832190",
-    "name": "London Design Festival",
-    "lat": 51.5074,
-    "lng": -0.1278,
-    "type": "fair",
-    "date": "September",
-    "next_dates": [
-      "2026-09-19",
-      "2026-09-20",
-      "2026-09-21",
-      "2026-09-22"
-    ],
-    "url": ""
-  },
-  {
-    "id": "fc_3_1789545832190",
-    "name": "Freize Sculpture",
-    "lat": 51.5373,
-    "lng": -0.1556,
-    "type": "fair",
-    "date": "September",
-    "next_dates": [
-      "2026-09-19",
-      "2026-09-20",
-      "2026-09-21",
-      "2026-09-22"
-    ],
-    "url": ""
-  },
-  {
-    "id": "fc_4_1789545832190",
-    "name": "Classic Boat Festival",
-    "lat": 51.5055,
-    "lng": -0.0732,
-    "type": "fair",
-    "date": "September",
-    "next_dates": [
-      "2026-09-11",
-      "2026-09-12",
-      "2026-09-13",
-      "2026-09-14"
-    ],
-    "url": ""
   }
 ]

@@ -1447,16 +1447,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Piccadilly%20Vaults%20London"
   },
   {
-    "id": "node_4993323427",
-    "name": "Oxfam",
-    "lat": 51.4026496,
-    "lon": -0.1929337,
-    "type": "charity",
-    "address": "London Road",
-    "hours": "Mo-Sa 09:30-17:00",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
-  },
-  {
     "id": "node_4993324954",
     "name": "Scope",
     "lat": 51.4025107,
@@ -5603,6 +5593,14 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Peaceful%20Solutions%20London"
   },
   {
+    "id": "node_12875263388",
+    "name": "M. Goldstein",
+    "lat": 51.5285327,
+    "lon": -0.0757214,
+    "type": "antique",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=M.%20Goldstein%20London"
+  },
+  {
     "id": "node_12880660552",
     "name": "Antiques",
     "lat": 51.4714378,
@@ -6455,5 +6453,122 @@
     "hours": "Mo-Sa 10:00-18:00, Su 11:00-17:00",
     "url": "https://www.royaltrinityhospice.london/fulham",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Trinity%20Hospice%20London"
+  },
+  {
+    "id": "node_14190472735",
+    "name": "Fara",
+    "lat": 51.4753453,
+    "lon": -0.2062861,
+    "type": "charity",
+    "address": "672-674 Fulham Road",
+    "hours": "Mo-Su 10:00-18:00",
+    "url": "https://www.faracharity.org/shop/fulham-road/",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fara%20London"
+  },
+  {
+    "id": "node_14196786516",
+    "name": "Islamic Relief",
+    "lat": 51.5867722,
+    "lon": -0.0206015,
+    "type": "charity",
+    "address": "156 Hoe Street",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Islamic%20Relief%20London"
+  },
+  {
+    "id": "node_14196786563",
+    "name": "Lot One Ten",
+    "lat": 51.588989,
+    "lon": -0.0199146,
+    "type": "antique",
+    "address": "78 Hoe Street",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lot%20One%20Ten%20London"
+  },
+  {
+    "id": "node_14196786636",
+    "name": "Scope",
+    "lat": 51.5845669,
+    "lon": -0.0208039,
+    "type": "charity",
+    "address": "High Street",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Scope%20London"
+  },
+  {
+    "id": "node_14196786639",
+    "name": "British Heart Foundation",
+    "lat": 51.5846717,
+    "lon": -0.0212705,
+    "type": "charity",
+    "address": "High Street",
+    "url": "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/walthamstow-bhf-shop",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Heart%20Foundation%20London"
+  },
+  {
+    "id": "node_14196786721",
+    "name": "Age UK",
+    "lat": 51.5819007,
+    "lon": -0.0317058,
+    "type": "charity",
+    "address": "36-44 High Street",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Age%20UK%20London"
+  },
+  {
+    "id": "node_14196786739",
+    "name": "Oxfam",
+    "lat": 51.5815774,
+    "lon": -0.0334023,
+    "type": "charity",
+    "address": "2-4 High Street",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-walthamstow/",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
+  },
+  {
+    "id": "node_14196786815",
+    "name": "Sue Ryder",
+    "lat": 51.5824825,
+    "lon": -0.0298786,
+    "type": "charity",
+    "address": "93-95 High Street",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sue%20Ryder%20London"
+  },
+  {
+    "id": "node_14196988852",
+    "name": "Cats Protection",
+    "lat": 51.4032417,
+    "lon": -0.1924373,
+    "type": "charity",
+    "address": "22 London Road",
+    "url": "https://www.cats.org.uk/",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cats%20Protection%20London"
+  },
+  {
+    "id": "node_14201159479",
+    "name": "St Raphael's",
+    "lat": 51.4026367,
+    "lon": -0.1931104,
+    "type": "charity",
+    "address": "31 London Road",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+    "url": "https://www.straphaels.org.uk",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Raphael's%20London"
+  },
+  {
+    "id": "node_14204732656",
+    "name": "SCT",
+    "lat": 51.5131197,
+    "lon": -0.0151835,
+    "type": "charity",
+    "address": "12 Market Way",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SCT%20London"
+  },
+  {
+    "id": "node_14206898656",
+    "name": "TRAID",
+    "lat": 51.5385918,
+    "lon": -0.1420979,
+    "type": "charity",
+    "address": "154 Camden High Street",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=TRAID%20London"
   }
 ]
