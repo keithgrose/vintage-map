@@ -27,18 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1790150772081",
-    "name": "Open House Festival",
-    "lat": 51.5074,
-    "lng": -0.1278,
+    "id": "fc_0_1790759327980",
+    "name": "Camden Market",
+    "lat": 51.5417,
+    "lng": -0.1426,
     "type": "fair",
-    "date": "Until 2026-09-26",
+    "date": "Weekly",
     "next_dates": [
-      "2026-09-25",
-      "2026-09-26",
-      "2026-09-27",
-      "2026-09-28"
+      "2023-10-08",
+      "2023-10-15",
+      "2023-10-22",
+      "2023-10-29"
     ],
-    "url": "https://www.timeout.com/london/things-to-do/open-house-festival"
+    "url": "https://www.camdenmarket.com"
+  },
+  {
+    "id": "fc_1_1790759327981",
+    "name": "London Vintage Market",
+    "lat": 51.5155,
+    "lng": -0.0908,
+    "type": "fair",
+    "date": "Monthly",
+    "next_dates": [
+      "2023-10-01",
+      "2023-11-05",
+      "2023-12-03",
+      "2024-01-07"
+    ],
+    "url": "https://www.londonvintagemarket.com"
+  },
+  {
+    "id": "fc_2_1790759327981",
+    "name": "Hampstead Antiques Fair",
+    "lat": 51.5554,
+    "lng": -0.1748,
+    "type": "fair",
+    "date": "Every 2 months",
+    "next_dates": [
+      "2023-10-14",
+      "2023-12-09",
+      "2024-02-10",
+      "2024-04-13"
+    ],
+    "url": "https://www.hampsteadantiquesfair.com"
+  },
+  {
+    "id": "fc_3_1790759327981",
+    "name": "Brick Lane Vintage Market",
+    "lat": 51.5206,
+    "lng": -0.0711,
+    "type": "fair",
+    "date": "Every Sunday",
+    "next_dates": [
+      "2023-10-08",
+      "2023-10-15",
+      "2023-10-22",
+      "2023-10-29"
+    ],
+    "url": "https://www.bricklanevintage.com"
+  },
+  {
+    "id": "fc_4_1790759327981",
+    "name": "Columbia Road Flower Market",
+    "lat": 51.5301,
+    "lng": -0.0671,
+    "type": "fair",
+    "date": "Every Sunday",
+    "next_dates": [
+      "2023-10-08",
+      "2023-10-15",
+      "2023-10-22",
+      "2023-10-29"
+    ],
+    "url": "https://www.columbiaroadmarket.com"
   }
 ]

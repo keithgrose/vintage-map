@@ -4112,6 +4112,7 @@
     "lat": 51.4863113,
     "lon": 0.0081716,
     "type": "charity",
+    "address": "17-23 Woolwich Road",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Debra%20Charity%20Shop%20London"
   },
   {
@@ -4959,14 +4960,6 @@
     "lon": 0.0170141,
     "type": "charity",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Age%20UK%20London"
-  },
-  {
-    "id": "node_11171527380",
-    "name": "Harlington Hospice",
-    "lat": 51.5083803,
-    "lon": -0.4731445,
-    "type": "charity",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Harlington%20Hospice%20London"
   },
   {
     "id": "node_11186169757",
@@ -5983,6 +5976,8 @@
     "lat": 51.4113671,
     "lon": -0.3036898,
     "type": "charity",
+    "hours": "Mo-Sa 09:30-18:00; Su 11:00-17:00",
+    "url": "https://cruk.org",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cancer%20research%20London"
   },
   {
@@ -6334,7 +6329,7 @@
     "lon": -0.2123703,
     "type": "antique",
     "address": "295 Lillie Road",
-    "hours": "Mo_Sa 13:00-18:00",
+    "hours": "Mo-Sa 13:00-18:00",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shane%20Meredith%20London"
   },
   {
@@ -6570,5 +6565,14 @@
     "type": "charity",
     "address": "154 Camden High Street",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=TRAID%20London"
+  },
+  {
+    "id": "node_14226816988",
+    "name": "Antique Vintage",
+    "lat": 51.4154302,
+    "lon": -0.3009419,
+    "type": "antique",
+    "address": "74 Richmond Road",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antique%20Vintage%20London"
   }
 ]
