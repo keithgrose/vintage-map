@@ -27,78 +27,93 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1790759327980",
-    "name": "Camden Market",
-    "lat": 51.5417,
-    "lng": -0.1426,
+    "id": "fc_0_1791365515795",
+    "name": "Vintage Market",
+    "lat": 51.5,
+    "lng": -0.1,
     "type": "fair",
-    "date": "Weekly",
+    "date": "Every Sunday",
     "next_dates": [
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22",
-      "2023-10-29"
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29"
     ],
-    "url": "https://www.camdenmarket.com"
+    "url": "https://www.timeout.com/london/shopping/vintage-market"
   },
   {
-    "id": "fc_1_1790759327981",
-    "name": "London Vintage Market",
-    "lat": 51.5155,
-    "lng": -0.0908,
+    "id": "fc_1_1791365515795",
+    "name": "Camden Market",
+    "lat": 51.539,
+    "lng": -0.144,
+    "type": "fair",
+    "date": "Open Daily",
+    "next_dates": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11"
+    ],
+    "url": "https://www.timeout.com/london/shopping/camden-market"
+  },
+  {
+    "id": "fc_2_1791365515795",
+    "name": "Scoop Market",
+    "lat": 51.514,
+    "lng": -0.127,
     "type": "fair",
     "date": "Monthly",
     "next_dates": [
-      "2023-10-01",
-      "2023-11-05",
-      "2023-12-03",
-      "2024-01-07"
+      "2026-10-12",
+      "2026-11-12",
+      "2026-12-12",
+      "2027-01-12"
     ],
-    "url": "https://www.londonvintagemarket.com"
+    "url": "https://www.timeout.com/london/shopping/scoop-market"
   },
   {
-    "id": "fc_2_1790759327981",
-    "name": "Hampstead Antiques Fair",
-    "lat": 51.5554,
-    "lng": -0.1748,
-    "type": "fair",
-    "date": "Every 2 months",
-    "next_dates": [
-      "2023-10-14",
-      "2023-12-09",
-      "2024-02-10",
-      "2024-04-13"
-    ],
-    "url": "https://www.hampsteadantiquesfair.com"
-  },
-  {
-    "id": "fc_3_1790759327981",
+    "id": "fc_3_1791365515795",
     "name": "Brick Lane Vintage Market",
-    "lat": 51.5206,
-    "lng": -0.0711,
+    "lat": 51.523,
+    "lng": -0.071,
     "type": "fair",
-    "date": "Every Sunday",
+    "date": "Every Weekend",
     "next_dates": [
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22",
-      "2023-10-29"
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28"
     ],
-    "url": "https://www.bricklanevintage.com"
+    "url": "https://www.timeout.com/london/shopping/brick-lane-vintage-market"
   },
   {
-    "id": "fc_4_1790759327981",
-    "name": "Columbia Road Flower Market",
-    "lat": 51.5301,
-    "lng": -0.0671,
+    "id": "fc_4_1791365515795",
+    "name": "The Old Spitalfields Market",
+    "lat": 51.52,
+    "lng": -0.078,
     "type": "fair",
     "date": "Every Sunday",
     "next_dates": [
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22",
-      "2023-10-29"
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29"
     ],
-    "url": "https://www.columbiaroadmarket.com"
+    "url": "https://www.timeout.com/london/shopping/old-spitalfields-market"
+  },
+  {
+    "id": "fc_5_1791365515795",
+    "name": "Portobello Road Market",
+    "lat": 51.52,
+    "lng": -0.2,
+    "type": "fair",
+    "date": "Saturdays",
+    "next_dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+    ],
+    "url": "https://www.timeout.com/london/shopping/portobello-road-market"
   }
 ]
