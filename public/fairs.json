@@ -27,78 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1791965485832",
-    "name": "Bermondsey Antiques Market",
-    "lat": 51.499,
-    "lng": -0.079,
+    "id": "fc_0_1792570009913",
+    "name": "Camden Market",
+    "lat": 51.541,
+    "lng": -0.142,
     "type": "fair",
-    "date": "Every Friday",
+    "date": "Every weekend",
     "next_dates": [
-      "2026-10-13",
-      "2026-10-20",
-      "2026-10-27",
-      "2026-11-03"
+      "2023-10-01",
+      "2023-10-08",
+      "2023-10-15",
+      "2023-10-22"
     ],
-    "url": "https://www.timeout.com/london/shopping/bermondsey-antiques-market"
+    "url": "https://www.camdenmarket.com/"
   },
   {
-    "id": "fc_1_1791965485832",
-    "name": "Spitalfields Market Vintage Fairs",
-    "lat": 51.52,
-    "lng": -0.075,
+    "id": "fc_1_1792570009913",
+    "name": "Portobello Market",
+    "lat": 51.512,
+    "lng": -0.202,
     "type": "fair",
-    "date": "Weekly on Sundays",
+    "date": "Every Saturday",
     "next_dates": [
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05"
+      "2023-10-07",
+      "2023-10-14",
+      "2023-10-21",
+      "2023-10-28"
     ],
-    "url": "https://www.timeout.com/london/shopping/spitalfields-market"
+    "url": "https://www.portobellomarket.org/"
   },
   {
-    "id": "fc_2_1791965485832",
-    "name": "The Vintage Kilo Sale",
-    "lat": 51.528,
-    "lng": -0.109,
-    "type": "fair",
-    "date": "Monthly",
-    "next_dates": [
-      "2026-10-14",
-      "2026-11-11",
-      "2026-12-09",
-      "2027-01-06"
-    ],
-    "url": "https://www.timeout.com/london/shopping/the-vintage-kilo-sale"
-  },
-  {
-    "id": "fc_3_1791965485832",
-    "name": "Hackney Flea Market",
-    "lat": 51.546,
-    "lng": -0.056,
-    "type": "fair",
-    "date": "Monthly",
-    "next_dates": [
-      "2026-10-23",
-      "2026-11-27",
-      "2026-12-25",
-      "2027-01-22"
-    ],
-    "url": "https://www.timeout.com/london/shopping/hackney-flea-market"
-  },
-  {
-    "id": "fc_4_1791965485832",
-    "name": "North London Vintage Market",
-    "lat": 51.563,
-    "lng": -0.134,
+    "id": "fc_2_1792570009913",
+    "name": "Brick Lane Market",
+    "lat": 51.521,
+    "lng": -0.071,
     "type": "fair",
     "date": "Every Sunday",
     "next_dates": [
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05"
+      "2023-10-01",
+      "2023-10-08",
+      "2023-10-15",
+      "2023-10-22"
     ],
-    "url": "https://www.timeout.com/london/shopping/north-london-vintage-market"
+    "url": "https://www.bricklanemarket.com/"
+  },
+  {
+    "id": "fc_3_1792570009913",
+    "name": "Spitalfields Market",
+    "lat": 51.52,
+    "lng": -0.067,
+    "type": "fair",
+    "date": "Every Thursday to Sunday",
+    "next_dates": [
+      "2023-10-05",
+      "2023-10-06",
+      "2023-10-07",
+      "2023-10-08"
+    ],
+    "url": "https://oldspitalfieldsmarket.com/"
+  },
+  {
+    "id": "fc_4_1792570009913",
+    "name": "The Vintage Kilo Sale",
+    "lat": 51.548,
+    "lng": -0.145,
+    "type": "fair",
+    "date": "Monthly",
+    "next_dates": [
+      "2023-10-07",
+      "2023-11-04",
+      "2023-12-02",
+      "2024-01-06"
+    ],
+    "url": "https://www.vintagekilosale.com/"
   }
 ]
