@@ -27,78 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1792570009913",
-    "name": "Camden Market",
-    "lat": 51.541,
-    "lng": -0.142,
-    "type": "fair",
-    "date": "Every weekend",
-    "next_dates": [
-      "2023-10-01",
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22"
-    ],
-    "url": "https://www.camdenmarket.com/"
-  },
-  {
-    "id": "fc_1_1792570009913",
-    "name": "Portobello Market",
-    "lat": 51.512,
-    "lng": -0.202,
-    "type": "fair",
-    "date": "Every Saturday",
-    "next_dates": [
-      "2023-10-07",
-      "2023-10-14",
-      "2023-10-21",
-      "2023-10-28"
-    ],
-    "url": "https://www.portobellomarket.org/"
-  },
-  {
-    "id": "fc_2_1792570009913",
-    "name": "Brick Lane Market",
-    "lat": 51.521,
-    "lng": -0.071,
-    "type": "fair",
-    "date": "Every Sunday",
-    "next_dates": [
-      "2023-10-01",
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22"
-    ],
-    "url": "https://www.bricklanemarket.com/"
-  },
-  {
-    "id": "fc_3_1792570009913",
-    "name": "Spitalfields Market",
-    "lat": 51.52,
-    "lng": -0.067,
-    "type": "fair",
-    "date": "Every Thursday to Sunday",
-    "next_dates": [
-      "2023-10-05",
-      "2023-10-06",
-      "2023-10-07",
-      "2023-10-08"
-    ],
-    "url": "https://oldspitalfieldsmarket.com/"
-  },
-  {
-    "id": "fc_4_1792570009913",
-    "name": "The Vintage Kilo Sale",
-    "lat": 51.548,
-    "lng": -0.145,
+    "id": "fc_0_1793178521166",
+    "name": "The Vintage Bazaar",
+    "lat": 51.5072,
+    "lng": -0.1276,
     "type": "fair",
     "date": "Monthly",
     "next_dates": [
-      "2023-10-07",
-      "2023-11-04",
-      "2023-12-02",
-      "2024-01-06"
+      "2023-11-05",
+      "2023-12-03",
+      "2024-01-07",
+      "2024-02-04"
     ],
-    "url": "https://www.vintagekilosale.com/"
+    "url": "https://www.example.com/vintage-bazaar"
+  },
+  {
+    "id": "fc_1_1793178521166",
+    "name": "Pimlico Road Farmers' Market",
+    "lat": 51.48657,
+    "lng": -0.1448,
+    "type": "fair",
+    "date": "Every Sunday",
+    "next_dates": [
+      "2023-11-05",
+      "2023-11-12",
+      "2023-11-19",
+      "2023-11-26"
+    ],
+    "url": "https://www.example.com/pimlico-market"
+  },
+  {
+    "id": "fc_2_1793178521166",
+    "name": "Bermondsey Antiques Market",
+    "lat": 51.4987,
+    "lng": -0.0808,
+    "type": "fair",
+    "date": "Every Tuesday",
+    "next_dates": [
+      "2023-10-31",
+      "2023-11-07",
+      "2023-11-14",
+      "2023-11-21"
+    ],
+    "url": "https://www.example.com/bermondsey-antiques-market"
+  },
+  {
+    "id": "fc_3_1793178521167",
+    "name": "Truman Markets",
+    "lat": 51.5251,
+    "lng": -0.0354,
+    "type": "fair",
+    "date": "Every Sunday",
+    "next_dates": [
+      "2023-11-05",
+      "2023-11-12",
+      "2023-11-19",
+      "2023-11-26"
+    ],
+    "url": "https://www.example.com/truman-markets"
+  },
+  {
+    "id": "fc_4_1793178521167",
+    "name": "The Chapel Market",
+    "lat": 51.5321,
+    "lng": -0.0922,
+    "type": "fair",
+    "date": "Every Sunday",
+    "next_dates": [
+      "2023-11-05",
+      "2023-11-12",
+      "2023-11-19",
+      "2023-11-26"
+    ],
+    "url": "https://www.example.com/chapel-market"
   }
 ]
