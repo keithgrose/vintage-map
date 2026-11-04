@@ -27,78 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1793178521166",
-    "name": "The Vintage Bazaar",
-    "lat": 51.5072,
-    "lng": -0.1276,
+    "id": "fc_0_1793786979186",
+    "name": "Bermondsey Antiques Market",
+    "lat": 51.4877,
+    "lng": -0.0844,
+    "type": "fair",
+    "date": "Every Friday",
+    "next_dates": [
+      "2023-10-06",
+      "2023-10-13",
+      "2023-10-20",
+      "2023-10-27"
+    ],
+    "url": "https://www.timeout.com/london/shopping/bermondsey-antiques-market"
+  },
+  {
+    "id": "fc_1_1793786979186",
+    "name": "Camden Market",
+    "lat": 51.5418,
+    "lng": -0.1425,
+    "type": "fair",
+    "date": "Every weekend",
+    "next_dates": [
+      "2023-10-07",
+      "2023-10-08",
+      "2023-10-14",
+      "2023-10-15"
+    ],
+    "url": "https://www.timeout.com/london/shopping/camden-market"
+  },
+  {
+    "id": "fc_2_1793786979186",
+    "name": "Maltby Street Market",
+    "lat": 51.4934,
+    "lng": -0.0767,
+    "type": "fair",
+    "date": "Every Saturday and Sunday",
+    "next_dates": [
+      "2023-10-07",
+      "2023-10-08",
+      "2023-10-14",
+      "2023-10-15"
+    ],
+    "url": "https://www.timeout.com/london/shopping/maltby-street-market"
+  },
+  {
+    "id": "fc_3_1793786979186",
+    "name": "Brick Lane Market",
+    "lat": 51.5211,
+    "lng": -0.0717,
+    "type": "fair",
+    "date": "Every Sunday",
+    "next_dates": [
+      "2023-10-08",
+      "2023-10-15",
+      "2023-10-22",
+      "2023-10-29"
+    ],
+    "url": "https://www.timeout.com/london/shopping/brick-lane-market"
+  },
+  {
+    "id": "fc_4_1793786979186",
+    "name": "North London Vintage Market",
+    "lat": 51.5835,
+    "lng": -0.1428,
     "type": "fair",
     "date": "Monthly",
     "next_dates": [
-      "2023-11-05",
-      "2023-12-03",
-      "2024-01-07",
-      "2024-02-04"
-    ],
-    "url": "https://www.example.com/vintage-bazaar"
-  },
-  {
-    "id": "fc_1_1793178521166",
-    "name": "Pimlico Road Farmers' Market",
-    "lat": 51.48657,
-    "lng": -0.1448,
-    "type": "fair",
-    "date": "Every Sunday",
-    "next_dates": [
-      "2023-11-05",
+      "2023-10-15",
       "2023-11-12",
-      "2023-11-19",
-      "2023-11-26"
+      "2023-12-10",
+      "2024-01-14"
     ],
-    "url": "https://www.example.com/pimlico-market"
-  },
-  {
-    "id": "fc_2_1793178521166",
-    "name": "Bermondsey Antiques Market",
-    "lat": 51.4987,
-    "lng": -0.0808,
-    "type": "fair",
-    "date": "Every Tuesday",
-    "next_dates": [
-      "2023-10-31",
-      "2023-11-07",
-      "2023-11-14",
-      "2023-11-21"
-    ],
-    "url": "https://www.example.com/bermondsey-antiques-market"
-  },
-  {
-    "id": "fc_3_1793178521167",
-    "name": "Truman Markets",
-    "lat": 51.5251,
-    "lng": -0.0354,
-    "type": "fair",
-    "date": "Every Sunday",
-    "next_dates": [
-      "2023-11-05",
-      "2023-11-12",
-      "2023-11-19",
-      "2023-11-26"
-    ],
-    "url": "https://www.example.com/truman-markets"
-  },
-  {
-    "id": "fc_4_1793178521167",
-    "name": "The Chapel Market",
-    "lat": 51.5321,
-    "lng": -0.0922,
-    "type": "fair",
-    "date": "Every Sunday",
-    "next_dates": [
-      "2023-11-05",
-      "2023-11-12",
-      "2023-11-19",
-      "2023-11-26"
-    ],
-    "url": "https://www.example.com/chapel-market"
+    "url": "https://www.timeout.com/london/shopping/north-london-vintage-market"
   }
 ]
