@@ -29,8 +29,24 @@ function isOpenNow(hours: string | undefined) {
   }
 }
 
-// 36 Broxfield Road, London SE4 2AN (Approximate coords for Brockley)
-const HOME_CENTER: [number, number] = [51.4601, -0.0335];
+// Default map centre: south-east London, deliberately coarse.
+const HOME_CENTER: [number, number] = [51.46, -0.03];
+
+// Approved accounts are listed as SHA-256 hashes of the lowercased email, supplied at
+// build time, so no address appears in this repository or in the published bundle.
+// This only hides the UI: the map data itself is public.
+const ALLOWED_EMAIL_HASHES = (import.meta.env.VITE_ALLOWED_EMAIL_HASHES ?? '')
+  .split(',')
+  .map((h: string) => h.trim().toLowerCase())
+  .filter(Boolean);
+
+async function isEmailAllowed(email: string | null | undefined) {
+  if (!email) return false;
+  const bytes = new TextEncoder().encode(email.trim().toLowerCase());
+  const digest = await crypto.subtle.digest('SHA-256', bytes);
+  const hash = Array.from(new Uint8Array(digest), (b) => b.toString(16).padStart(2, '0')).join('');
+  return ALLOWED_EMAIL_HASHES.includes(hash);
+}
 
 function App() {
   const [locations, setLocations] = useState<Location[]>([]);
@@ -53,6 +69,7 @@ function App() {
 
   const [user, setUser] = useState<any>(null);
   const [authLoading, setAuthLoading] = useState(true);
+  const [isAllowed, setIsAllowed] = useState(false);
 
   useEffect(() => {
     if ('geolocation' in navigator) {
@@ -66,8 +83,10 @@ function App() {
   }, []);
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
+    const unsubscribe = auth.onAuthStateChanged(async (user) => {
+      const allowed = user ? await isEmailAllowed(user.email).catch(() => false) : false;
       setUser(user);
+      setIsAllowed(allowed);
       setAuthLoading(false);
     });
     return () => unsubscribe();
@@ -139,8 +158,6 @@ function App() {
     return <div className="login-screen">Loading...</div>;
   }
 
-  const allowedEmails = ['smith.anna0711@gmail.com', 'keithgrose@gmail.com'];
-
   if (!user) {
     return (
       <div className="login-screen">
@@ -153,7 +170,7 @@ function App() {
     );
   }
 
-  if (user && !allowedEmails.includes(user.email)) {
+  if (user && !isAllowed) {
     return (
       <div className="login-screen">
         <div className="login-card glass-panel">
