@@ -27,78 +27,78 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1793786979186",
-    "name": "Bermondsey Antiques Market",
-    "lat": 51.4877,
-    "lng": -0.0844,
-    "type": "fair",
-    "date": "Every Friday",
-    "next_dates": [
-      "2023-10-06",
-      "2023-10-13",
-      "2023-10-20",
-      "2023-10-27"
-    ],
-    "url": "https://www.timeout.com/london/shopping/bermondsey-antiques-market"
-  },
-  {
-    "id": "fc_1_1793786979186",
-    "name": "Camden Market",
-    "lat": 51.5418,
-    "lng": -0.1425,
-    "type": "fair",
-    "date": "Every weekend",
-    "next_dates": [
-      "2023-10-07",
-      "2023-10-08",
-      "2023-10-14",
-      "2023-10-15"
-    ],
-    "url": "https://www.timeout.com/london/shopping/camden-market"
-  },
-  {
-    "id": "fc_2_1793786979186",
-    "name": "Maltby Street Market",
-    "lat": 51.4934,
-    "lng": -0.0767,
-    "type": "fair",
-    "date": "Every Saturday and Sunday",
-    "next_dates": [
-      "2023-10-07",
-      "2023-10-08",
-      "2023-10-14",
-      "2023-10-15"
-    ],
-    "url": "https://www.timeout.com/london/shopping/maltby-street-market"
-  },
-  {
-    "id": "fc_3_1793786979186",
-    "name": "Brick Lane Market",
-    "lat": 51.5211,
-    "lng": -0.0717,
-    "type": "fair",
-    "date": "Every Sunday",
-    "next_dates": [
-      "2023-10-08",
-      "2023-10-15",
-      "2023-10-22",
-      "2023-10-29"
-    ],
-    "url": "https://www.timeout.com/london/shopping/brick-lane-market"
-  },
-  {
-    "id": "fc_4_1793786979186",
-    "name": "North London Vintage Market",
-    "lat": 51.5835,
-    "lng": -0.1428,
+    "id": "fc_0_1794391283791",
+    "name": "London Vintage Fair",
+    "lat": 51.509865,
+    "lng": -0.118092,
     "type": "fair",
     "date": "Monthly",
     "next_dates": [
-      "2023-10-15",
-      "2023-11-12",
-      "2023-12-10",
-      "2024-01-14"
+      "2023-11-01",
+      "2023-11-01",
+      "2023-11-01",
+      "2023-11-01"
     ],
-    "url": "https://www.timeout.com/london/shopping/north-london-vintage-market"
+    "url": "https://www.londonvintagefair.com"
+  },
+  {
+    "id": "fc_1_1794391283791",
+    "name": "Camden Market",
+    "lat": 51.5403,
+    "lng": -0.1425,
+    "type": "fair",
+    "date": "Every Weekend",
+    "next_dates": [
+      "2023-10-06",
+      "2023-10-07",
+      "2023-10-08",
+      "2023-10-14"
+    ],
+    "url": "https://www.camdendock.com"
+  },
+  {
+    "id": "fc_2_1794391283791",
+    "name": "Portobello Road Market",
+    "lat": 51.51925,
+    "lng": -0.19767,
+    "type": "fair",
+    "date": "Every Saturday",
+    "next_dates": [
+      "2023-10-07",
+      "2023-10-14",
+      "2023-10-21",
+      "2023-10-28"
+    ],
+    "url": "https://www.portobelloroad.co.uk"
+  },
+  {
+    "id": "fc_3_1794391283791",
+    "name": "Clapham Vintage Fair",
+    "lat": 51.4601,
+    "lng": -0.1441,
+    "type": "fair",
+    "date": "Monthly",
+    "next_dates": [
+      "2023-11-05",
+      "2023-11-05",
+      "2023-11-05",
+      "2023-11-05"
+    ],
+    "url": "https://www.claphamvintagefair.com"
+  },
+  {
+    "id": "fc_4_1794391283791",
+    "name": "Spitalfields Market",
+    "lat": 51.5191,
+    "lng": -0.0834,
+    "type": "fair",
+    "date": "Every Weekend",
+    "next_dates": [
+      "2023-10-06",
+      "2023-10-07",
+      "2023-10-08",
+      "2023-10-14"
+    ],
+    "url": "https://www.spitalfields.co.uk"
   }
 ]

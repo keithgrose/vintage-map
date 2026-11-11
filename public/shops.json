@@ -3933,7 +3933,7 @@
     "lat": 51.4109811,
     "lon": -0.3064653,
     "type": "charity",
-    "address": "Clarence Street",
+    "address": "2 Clarence Street",
     "hours": "Mo-Sa 10:00-17:30; Su 11:00-17:00",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Princess%20Alice%20Hospice%20London"
   },
@@ -4029,6 +4029,14 @@
     "type": "charity",
     "address": "High Road",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20London%20Hospice%20London"
+  },
+  {
+    "id": "node_9654105017",
+    "name": "stchristopher's",
+    "lat": 51.4505727,
+    "lon": 0.0544903,
+    "type": "charity",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=stchristopher's%20London"
   },
   {
     "id": "node_9683179638",
@@ -4326,6 +4334,7 @@
     "lat": 51.4508953,
     "lon": 0.05287,
     "type": "charity",
+    "hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnardo's%20London"
   },
   {
@@ -4582,15 +4591,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Islamic%20Help%20London"
   },
   {
-    "id": "node_10592220449",
-    "name": "Friends Lounge",
-    "lat": 51.6195392,
-    "lon": -0.1067278,
-    "type": "charity",
-    "address": "Green Lanes",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Friends%20Lounge%20London"
-  },
-  {
     "id": "node_10604163820",
     "name": "The Salvation Army",
     "lat": 51.5595751,
@@ -4764,6 +4764,7 @@
     "lat": 51.4508799,
     "lon": 0.0532812,
     "type": "charity",
+    "hours": "Mo-Sa 09:30-17:00; Su 10:00-16:00",
     "url": "https://www.mariecurie.org.uk/local/charity-shops/eltham",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Marie%20Curie%20London"
   },
@@ -4792,6 +4793,7 @@
     "lat": 51.4595331,
     "lon": -0.0115766,
     "type": "charity",
+    "hours": "Tu-Sa 10:00-16:30",
     "url": "https://emmaus.org.uk/",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Emmaus%20London"
   },
@@ -5784,7 +5786,7 @@
     "lat": 51.5863679,
     "lon": -0.3617741,
     "type": "charity",
-    "address": "1 Broadway Parade, Pinner Road",
+    "address": "1",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Asha%20Charity%20Shop%20London"
   },
   {
@@ -6550,15 +6552,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=TRAID%20London"
   },
   {
-    "id": "node_14226816988",
-    "name": "Antique Vintage",
-    "lat": 51.4154302,
-    "lon": -0.3009419,
-    "type": "antique",
-    "address": "74 Richmond Road",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antique%20Vintage%20London"
-  },
-  {
     "id": "node_14249251427",
     "name": "The Children's Society",
     "lat": 51.5258038,
@@ -6586,5 +6579,44 @@
     "hours": "Mo-Sa 09:00-16:00",
     "url": "https://www.nightingalesupport.org.uk/",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Nightingale%20Cancer%20Support%20Centre%20London"
+  },
+  {
+    "id": "node_14290036952",
+    "name": "Cats Protection",
+    "lat": 51.6597509,
+    "lon": -0.0873499,
+    "type": "charity",
+    "address": "145 Chase Side",
+    "url": "https://charityretail.org.uk/shops/CS-13606",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cats%20Protection%20London"
+  },
+  {
+    "id": "node_14290040206",
+    "name": "Herberts",
+    "lat": 51.6604168,
+    "lon": -0.0873383,
+    "type": "antique",
+    "address": "122a",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Herberts%20London"
+  },
+  {
+    "id": "node_14302140854",
+    "name": "Street Kidz",
+    "lat": 51.6641228,
+    "lon": -0.0841892,
+    "type": "charity",
+    "address": "151",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Street%20Kidz%20London"
+  },
+  {
+    "id": "node_14322402701",
+    "name": "Oxfam",
+    "lat": 51.4528243,
+    "lon": -0.1001891,
+    "type": "charity",
+    "address": "20 Half Moon Lane",
+    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
+    "url": "https://www.oxfam.org.uk/shops/oxfam-shop-herne-hill/",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
   }
 ]
