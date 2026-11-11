@@ -43,6 +43,7 @@ jobs:
       - name: Build the app
         env:
           VITE_FIREBASE_API_KEY: ${{ secrets.VITE_FIREBASE_API_KEY }}
+          VITE_ALLOWED_EMAIL_HASHES: ${{ secrets.VITE_ALLOWED_EMAIL_HASHES }}
         run: npm run build
         
       - name: Setup Pages
