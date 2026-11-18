@@ -2487,15 +2487,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Raphael's%20Hospice%20Shop%20London"
   },
   {
-    "id": "node_6708867422",
-    "name": "Debra Charity Shop",
-    "lat": 51.4099661,
-    "lon": -0.2298251,
-    "type": "charity",
-    "url": "https://www.debra.org.uk/",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Debra%20Charity%20Shop%20London"
-  },
-  {
     "id": "node_6725592239",
     "name": "Boutique By Shelter",
     "lat": 51.5252283,
@@ -4463,16 +4454,6 @@
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxfam%20London"
   },
   {
-    "id": "node_10280308649",
-    "name": "Mary's Living and Giving Shop",
-    "lat": 51.4665744,
-    "lon": 0.0087121,
-    "type": "charity",
-    "address": "Montpelier Vale",
-    "hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00",
-    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary's%20Living%20and%20Giving%20Shop%20London"
-  },
-  {
     "id": "node_10280308651",
     "name": "Cancer Research UK",
     "lat": 51.4664841,
@@ -5456,6 +5437,15 @@
     "address": "201 High Street",
     "hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
     "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Crisis%20London"
+  },
+  {
+    "id": "node_12532965673",
+    "name": "DAGE",
+    "lat": 51.4766783,
+    "lon": -0.025998,
+    "type": "charity",
+    "address": "71 Deptford High Street",
+    "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=DAGE%20London"
   },
   {
     "id": "node_12556096151",
