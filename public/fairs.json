@@ -27,63 +27,63 @@
     "url": "https://solastcenturyfair.co.uk/"
   },
   {
-    "id": "fc_0_1794999241849",
+    "id": "fc_0_1795607637387",
+    "name": "Southbank Centre Winter Market",
+    "lat": 51.5045,
+    "lng": -0.1122,
+    "type": "fair",
+    "date": "Seasonal (December through January)",
+    "next_dates": [
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+    ],
+    "url": "https://www.southbankcentre.co.uk/whats-on/winter-market"
+  },
+  {
+    "id": "fc_1_1795607637387",
     "name": "The Vintage Fair",
-    "lat": 51.5074,
-    "lng": -0.1278,
+    "lat": 51.5155,
+    "lng": -0.0805,
     "type": "fair",
     "date": "Monthly",
     "next_dates": [
-      "2026-11-13",
-      "2026-12-11",
-      "2027-01-08",
-      "2027-02-12"
+      "2026-11-05",
+      "2026-12-03",
+      "2027-01-07",
+      "2027-02-04"
     ],
-    "url": "https://thevintagefair.com"
+    "url": "https://www.thevintagefair.com"
   },
   {
-    "id": "fc_1_1794999241849",
+    "id": "fc_2_1795607637387",
     "name": "Camden Market",
-    "lat": 51.5419,
-    "lng": -0.1445,
+    "lat": 51.5413,
+    "lng": -0.1425,
     "type": "fair",
-    "date": "Every Sunday",
+    "date": "Weekends",
     "next_dates": [
-      "2026-11-12",
-      "2026-11-19",
       "2026-11-26",
-      "2026-12-03"
+      "2026-11-27",
+      "2026-12-03",
+      "2026-12-04"
     ],
     "url": "https://www.camdenmarket.com"
   },
   {
-    "id": "fc_2_1794999241849",
-    "name": "Brixton Vintage Kilo Sale",
-    "lat": 51.4616,
-    "lng": -0.1124,
+    "id": "fc_3_1795607637387",
+    "name": "Brick Lane Vintage Market",
+    "lat": 51.5205,
+    "lng": -0.0711,
     "type": "fair",
-    "date": "Every Saturday",
+    "date": "Weekends",
     "next_dates": [
-      "2026-11-11",
-      "2026-11-18",
-      "2026-11-25",
-      "2026-12-02"
+      "2026-11-26",
+      "2026-11-27",
+      "2026-12-03",
+      "2026-12-04"
     ],
-    "url": "https://www.brixtonvintage.com"
-  },
-  {
-    "id": "fc_3_1794999241849",
-    "name": "The Hammersmith Vintage Fashion Fair",
-    "lat": 51.4948,
-    "lng": -0.2263,
-    "type": "fair",
-    "date": "Monthly",
-    "next_dates": [
-      "2026-11-19",
-      "2026-12-10",
-      "2027-01-14",
-      "2027-02-11"
-    ],
-    "url": "https://hammersmithvintagefashionfair.com"
+    "url": "https://www.bricklanemarket.com"
   }
 ]
